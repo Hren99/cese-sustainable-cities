@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 // ── Data ──────────────────────────────────────────────────────────────────────
 
-type ProgramCategory = 'all' | 'instrument' | 'field' | 'data' | 'professional';
+type ProgramCategory = 'all' | 'instrument' | 'field' | 'data' | 'professional' | 'perkinelmer';
 
 interface TrainingProgram {
   id: string;
@@ -163,6 +163,63 @@ const programs: TrainingProgram[] = [
     tags: ['remote sensing', 'GIS', 'satellite', 'land use', 'climate modeling'],
   },
 
+  // ── PerkinElmer Instrument Training ───────────────────────────────────────
+  {
+    id: 'pe-icp-oes',
+    title: 'ICP-OES Fundamentals: Avio 560 Max HTS',
+    category: 'perkinelmer',
+    description: 'Hands-on introduction to ICP-OES theory and operation on the PerkinElmer Avio 560 Max HTS. Covers sample preparation, multi-element calibration, and method optimization for environmental water and soil matrices.',
+    format: 'Full-day workshop',
+    audience: 'Graduate students, Research staff, External collaborators',
+    facility: 'UConn-PerkinElmer Innovation Laboratory',
+    contact: 'cese-peil@uconn.edu',
+    tags: ['ICP-OES', 'metals', 'PerkinElmer', 'Avio 560'],
+  },
+  {
+    id: 'pe-icp-ms',
+    title: 'Ultra-Trace Elemental Analysis: NexION 5000',
+    category: 'perkinelmer',
+    description: 'Method development for ultra-trace elemental analysis in complex matrices using the PerkinElmer NexION 5000 multi-quadrupole ICP-MS. Focus on interference removal and low-level detection strategies.',
+    format: 'Half-day workshop + lab session',
+    audience: 'Graduate students, Environmental professionals',
+    facility: 'UConn-PerkinElmer Innovation Laboratory',
+    contact: 'cese-peil@uconn.edu',
+    tags: ['ICP-MS', 'trace metals', 'PerkinElmer', 'NexION 5000'],
+  },
+  {
+    id: 'pe-lcms',
+    title: 'PFAS & Pesticide Screening: QSight 500 LC-MS/MS',
+    category: 'perkinelmer',
+    description: 'Multi-residue PFAS and pesticide analysis using the PerkinElmer QSight 500 triple quadrupole LC-MS/MS. Includes method development, sample preparation, and EPA Method 1633 compliance.',
+    format: 'Full-day workshop',
+    audience: 'Graduate students, Environmental professionals',
+    facility: 'UConn-PerkinElmer Innovation Laboratory',
+    contact: 'cese-peil@uconn.edu',
+    tags: ['LC-MS/MS', 'PFAS', 'pesticides', 'PerkinElmer', 'QSight 500'],
+  },
+  {
+    id: 'pe-gcms',
+    title: 'Volatile Organics: HS 2400 & MS 2400 SQT',
+    category: 'perkinelmer',
+    description: 'Combined training on the PerkinElmer HS 2400 headspace sampler and MS 2400 SQT GC-MS for VOC and SVOC analysis in water, soil, and air filter extracts. Includes EPA method overview.',
+    format: 'Full-day workshop',
+    audience: 'Graduate students, Research staff',
+    facility: 'UConn-PerkinElmer Innovation Laboratory',
+    contact: 'cese-peil@uconn.edu',
+    tags: ['GC-MS', 'headspace', 'VOCs', 'PerkinElmer', 'HS 2400'],
+  },
+  {
+    id: 'pe-uhplc',
+    title: 'UHPLC Separations: LC 300 Fundamentals',
+    category: 'perkinelmer',
+    description: 'Introduction to UHPLC theory and operation on the PerkinElmer LC 300. Covers column selection, gradient development, and method transfer for environmental sample analysis including PFAS and natural organic matter.',
+    format: 'Half-day workshop',
+    audience: 'Graduate students, Research staff, Industry partners',
+    facility: 'UConn-PerkinElmer Innovation Laboratory',
+    contact: 'cese-peil@uconn.edu',
+    tags: ['UHPLC', 'chromatography', 'PerkinElmer', 'LC 300'],
+  },
+
   // ── Professional Development ───────────────────────────────────────────────
   {
     id: 'scientific-writing',
@@ -207,6 +264,7 @@ const categoryTabs: { value: ProgramCategory; label: string }[] = [
   { value: 'field', label: 'Field Methods' },
   { value: 'data', label: 'Data & GIS' },
   { value: 'professional', label: 'Professional Development' },
+  { value: 'perkinelmer', label: 'PerkinElmer Instrument Training' },
 ];
 
 const categoryColors: Record<Exclude<ProgramCategory, 'all'>, { bg: string; text: string; border: string }> = {
@@ -214,6 +272,7 @@ const categoryColors: Record<Exclude<ProgramCategory, 'all'>, { bg: string; text
   field:      { bg: '#dde8f4', text: '#2a4a6a', border: '#a8bcd4' },
   data:       { bg: '#e0f0f8', text: '#1a6080', border: '#a8d4e8' },
   professional: { bg: '#f4ede4', text: '#7a4f28', border: '#d4b89a' },
+  perkinelmer:  { bg: '#e8f4f0', text: '#1a5c48', border: '#a0ccbc' },
 };
 
 const categoryLabels: Record<Exclude<ProgramCategory, 'all'>, string> = {
@@ -221,6 +280,7 @@ const categoryLabels: Record<Exclude<ProgramCategory, 'all'>, string> = {
   field: 'Field Methods',
   data: 'Data & GIS',
   professional: 'Professional Development',
+  perkinelmer: 'PerkinElmer Instrument Training',
 };
 
 // ── Program card ──────────────────────────────────────────────────────────

@@ -1,26 +1,164 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --ink: #1e3f6a;
+  --green: #d5ed93;
+  --accent: #d5ed93;
+  --paper: #f3f7fb;
+  --line: #c3d2e4;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  --color-background: #f3f7fb;
+  --color-foreground: #1e3f6a;
   --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+  --color-ink: #1e3f6a;
+  --color-ink-light: #4a7090;
+  --color-ink-muted: #55728a;
+  --color-ink-pale: #b5cce0;
+
+  --color-accent: #d5ed93;
+  --color-accent-dark: #0d2540;
+
+  --color-paper: #f3f7fb;
+  --color-paper-mid: #dde8f4;
+  --color-line: #c3d2e4;
+  --color-line-dark: #4d6a85;
+
+  --color-nav-bar: #071d31;
+  --color-hero-base: #0c2850;
+
+  --color-air: #234f65;
+  --color-air-text: #cae8ee;
+  --color-water: #075456;
+  --color-water-text: #b9f0dc;
+  --color-soil: #694b37;
+  --color-soil-text: #f0d8ad;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: inherit;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+/* Typography helpers */
+.eyebrow {
+  font-size: 11px;
+  letter-spacing: 2.2px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0 0 20px;
+}
+
+.heading-xl {
+  font-size: clamp(46px, 5.4vw, 79px);
+  font-weight: 400;
+  letter-spacing: -3.7px;
+  line-height: 1.03;
+  margin: 0 0 24px;
+}
+
+.heading-lg {
+  font-size: clamp(30px, 3.4vw, 48px);
+  font-weight: 400;
+  letter-spacing: -1.8px;
+  line-height: 1.1;
+  margin: 0;
+}
+
+.heading-md {
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: -1.4px;
+  line-height: 1.1;
+  margin: 0;
+}
+
+/* Focus ring */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid #3287c6;
+  outline-offset: 5px;
+}
+
+/* Pill label */
+.pill {
+  font-size: 9px;
+  border: 1px solid #a8bcd4;
+  padding: 8px 12px;
+  border-radius: 30px;
+  letter-spacing: 1px;
+  white-space: nowrap;
+}
+
+/* Responsive layout helpers for landing page */
+@media (max-width: 900px) {
+  .domain-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .people-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .path-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .intro-grid {
+    grid-template-columns: 1fr !important;
+    gap: 24px !important;
+  }
+  .lab-section {
+    grid-template-columns: 1fr !important;
+    gap: 32px !important;
+  }
+}
+
+@media (max-width: 600px) {
+  .domain-grid,
+  .people-grid,
+  .path-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  * {
+    transition: none !important;
+  }
+}
+
+/* Screen-reader only utility */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }

@@ -1,0 +1,2717 @@
+
+====================================================================================================
+FILE: CESE Hourly Rates - FY26 FINAL.xlsx
+====================================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Hourly rates
+────────────────────────────────────────────────────────────────────────────────
+  Center for Environmental Sciences & Engineering
+  Hourly rates
+  Effective Date:  December 31, 2025
+  Hourly Rate for all Tasks
+  Internal Full Service |  | 55.5699
+  External Client |  | 92.6165
+  Grad Assisted |  | 55.5699
+  Method Development/Instrument Operation/Troubleshooting |  | External Client | Internal Enhanced Reporting | Internal |  |  |  |  | External | Internal 
+  Anthony Provatas | 0.2 | 21.0012 | 12.6007 | 12.6007 | Name | FY26 salary | FY26 fringe | Fringe Rate | Hourly Rate* | Enhanced Reporting  | Internal
+  Stephanie Kexel | 0.2 | 16.2649 | 9.75895 | 9.75895 | Ayers, Sarah | 59054.3 | 16417.1 | 0.278 | 48.7857 | 29.2714 | 29.2714
+  Sniega Stapcinskaite | 0.2 | 14.5665 | 8.73992 | 8.73992 | Bothell, Sarah | 86405.3 | 28513.7 | 0.312 | 74.2851 | 44.571 | 44.571
+  Marisa Vateroni | 0.075 | 3.28629 | 1.97177 | 1.97177 | Perkins, Christopher | 161197 | 53195 | 0.312 | 138.586 | 83.1513 | 83.1513
+  Sarah Ayers | 0.075 | 3.65892 | 2.19535 | 2.19535 | Provatas, Anthony | 122139 | 40305.8 | 0.312 | 105.006 | 63.0036 | 63.0036
+  Chris Perkins | 0.2 | 27.7171 | 16.6303 | 16.6303 | Kexel, Stephanie | 98442.2 | 27366.9 | 0.278 | 81.3246 | 48.7948 | 48.7948
+  Subtotal |  | 86.495 | 51.897 | 51.897 | Stapcinskaite, Snieguole | 88162.9 | 24509.3 | 0.278 | 72.8327 | 43.6996 | 43.6996
+   |  |  |  |  | Vatteroni, Marisa | 53040 | 14745.1 | 0.278 | 43.8171 | 26.2903 | 26.2903
+  Administration - Sarah Bothell/Administrative Support | 0.05 | 6.12149 | 3.6729 | 3.6729 | Admin support - Estimate | 56000 | 18480 | 0.312 | 48.1448 | 28.8869 | 28.8869
+  Method Development/Instrument Operation/Troubleshooting |  | 92.6165 | 55.5699 | 55.5699 | *(if 1547 hours per year)
+   |  |  |  |  | Note: Internal Rate and Internal Enhanced Reporting Rate (60% of Full time Staff - Ledger 2 Subsidy)
+   |  |  |  |  | Number of hours worked per year:
+  External rate including 61% IDC | 149.113
+   |  |  |  |  | Paid Hours per Week | 35
+   |  |  |  |  | Weeks per Year | 52
+   |  |  |  |  | Total Paid Hours per Year | 1820
+   |  |  |  |  | Vacation Days | 22
+   |  |  |  |  | Sick Days | 15
+   |  |  |  |  | Personal Days | 2
+   |  |  |  |  | Days Off per Year | 39
+   |  |  |  |  | Hours per Day | 7
+   |  |  |  |  | Total Hours Off per Year | 273
+   |  |  |  |  | Total Paid Hours per Year | 1820
+   |  |  |  |  | Total Hours Off per Year | 273
+   |  |  |  |  | Total Hours Worked per Year | 1547
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Review
+────────────────────────────────────────────────────────────────────────────────
+  
+
+Account | 
+
+Account Name | 
+
+Fund SID | 
+
+Employee Name | Sum of 
+Annual
+Salary | Sum of 
+Fringe 
+Benefits
+  2604020 | CESE Operating and Admin | 1161000 | Bothell, Sarah | 83082 | 25922
+   |  |  | Jayachandran, Akshay | 30091 | 5868
+   |  |  | Perkins, Christopher | 154997 | 48359
+   |  |  | Provatas, Anthony | 117441 | 36642
+   |  |  | Ranjeet, Niva | 68000 | 21216
+   |  |  | Seraphim Nunes, Paola | 28597 | 5576
+   |  |  | Wanshanatha, Ravindi | 28597 | 5576
+  4307920 | CESE Analytical Laboratory Operations | 6004000 | Ayers, Sarah | 56783 | 17716
+   |  |  | Kexel, Stephanie | 94656 | 29533
+   |  |  | Stapcinskaite, Snieguole | 84772 | 26449
+   |  |  | Vatteroni, Marisa | 51000 | 15912
+  Grand Total |  |  |  | 798016 | 238769
+  
+
+Account | 
+
+Account Name | 
+
+Fund SID | 
+
+Employee Name | Sum of 
+Annual
+Salary | Sum of 
+Fringe 
+Benefits
+  2604020 | CESE Operating and Admin | 1161000 | Bothell, Sarah | 83082 | 25922
+   |  |  | Jayachandran, Akshay | 30091 | 5868
+   |  |  | Perkins, Christopher | 154997 | 48359
+   |  |  | Provatas, Anthony | 117441 | 36642
+   |  |  | Ranjeet, Niva | 68000 | 21216
+   |  |  | Seraphim Nunes, Paola | 28597 | 5576
+   |  |  | Wanshanatha, Ravindi | 28597 | 5576
+  4307920 | CESE Analytical Laboratory Operations | 6004000 | Ayers, Sarah | 56783 | 17716
+   |  |  | Kexel, Stephanie | 94656 | 29533
+   |  |  | Stapcinskaite, Snieguole | 84772 | 26449
+   |  |  | Vatteroni, Marisa | 51000 | 15912
+  Grand Total |  |  |  | 798016 | 238769
+   |  |  | 
+
+Employee Name | Sum of 
+Annual
+Salary | Sum of 
+Fringe 
+Benefits | Fringe Rate |  |  | Name | FY26 salary | FY26 fringe | Fringe Rate
+   |  |  | Ayers, Sarah | 56783 | 17716 | 0.311995 |  |  | Ayers, Sarah | 59054.3 | 16417.1 | 0.278 | 1.04
+   |  |  | Bothell, Sarah | 83082 | 25922 | 0.312005 |  |  | Bothell, Sarah | 86405.3 | 28513.7 | 0.33 | 1.04
+   |  |  | Kexel, Stephanie | 94656 | 29533 | 0.312003 |  |  | Perkins, Christopher | 161197 | 53195 | 0.33 | 1.04
+   |  |  | Perkins, Christopher | 154997 | 48359 | 0.312 |  |  | Provatas, Anthony | 122139 | 40305.8 | 0.33 | 1.04
+   |  |  | Provatas, Anthony | 117441 | 36642 | 0.312003 |  |  | Kexel, Stephanie | 98442.2 | 27366.9 | 0.278 | 1.04
+   |  |  | Stapcinskaite, Snieguole | 84772 | 26449 | 0.312002 |  |  | Stapcinskaite, Snieguole | 88162.9 | 24509.3 | 0.278 | 1.04
+   |  |  | Vatteroni, Marisa | 51000 | 15912 | 0.312 |  |  | Vatteroni, Marisa | 53040 | 14745.1 | 0.278 | 1.04
+   |  |  |  |  |  |  |  |  | Admin support - Estimate | 56000 | 18480 | 0.33
+   |  |  | 
+
+Employee Name | Sum of 
+Annual
+Salary | Sum of 
+Fringe 
+Benefits | Fringe Rate | Calculated Hrly FY 26 Current Salary |  | CG recalc with estimated 4% increase |  |  |  | Calculated Hourly
+   |  |  | Ayers, Sarah | 56783 | 15785.7 | 0.278 | 36.7054 |  | Ayers, Sarah | 59054.3 | 16417.1 | 75471.4 | 48.7857
+   |  |  | Bothell, Sarah | 83082 | 25921.6 | 0.312 | 53.7054 |  | Bothell, Sarah | 86405.3 | 26958.4 | 113364 | 73.2797
+   |  |  | Kexel, Stephanie | 94656 | 26314.4 | 0.278 | 61.187 |  | Perkins, Christopher | 161197 | 50293.4 | 211490 | 136.71
+   |  |  | Perkins, Christopher | 154997 | 48359.1 | 0.312 | 100.192 |  | Provatas, Anthony | 122139 | 38107.3 | 160246 | 103.585
+   |  |  | Provatas, Anthony | 117441 | 36641.6 | 0.312 | 75.9155 |  | Kexel, Stephanie | 98442.2 | 27366.9 | 125809 | 81.3246
+   |  |  | Stapcinskaite, Snieguole | 84772 | 23566.6 | 0.278 | 54.7979 |  | Stapcinskaite, Snieguole | 88162.9 | 24509.3 | 112672 | 72.8327
+   |  |  | Vatteroni, Marisa | 51000 | 14178 | 0.278 | 32.9672 |  | Vatteroni, Marisa | 53040 | 14745.1 | 67785.1 | 43.8171
+   |  |  |  |  |  |  | 59.3529 |  | Admin support - Estimate | 56000 | 17472 | 73472 | 47.4932
+   |  |  |  |  |  |  |  |  |  |  |  | Average all | 75.9785
+   |  |  |  |  |  |  |  |  |  |  |  | Avg | 61.69
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Filled Position
+────────────────────────────────────────────────────────────────────────────────
+  Filled Position Detail
+  
+
+Payroll Status | 
+
+Organization | 
+
+Organization Name | 
+
+Account | 
+
+Account Name | 
+
+Fund SID | 
+
+Subfund | 
+Object
+Code | 
+
+Employee Name | State 
+Employee
+Number | 
+Position
+Number | 
+
+Payroll FTE | 
+
+HR FTE | 
+
+Functional Title | 
+
+Job Family Description | 
+Barg
+Unit | 
+Appt Term
+Code | 
+Appt
+Type | 
+Appointment
+End Date | 
+Funding 
+End Date | Job 
+Expected
+End Date | Uconn 
+Continuous
+Hire Date | 
+Affiliated Org
+Code | 
+Affiliated Org
+Desc | 
+Work Org
+Code | 
+Work Org
+Desc | 
+Separation
+Date | 
+Fund
+% | 
+
+FTE | 
+Biweekly
+Salary | 
+Annual
+Salary | 
+Fringe 
+Benefits | 
+Annual
+Comp.
+  Active | 1234 | Environmental Sci and Engr Ctr | 2604020 | CESE Operating and Admin | 1161000 | OPTUI | 5112 | Bothell, Sarah | 969083 | 150752 | 1 | 1 | Financial Analyst 1 | Administrative Services | 029 | 12 | PP |  |  | 1901-01-02 00:00:00 | 04/07/2006 | NL |  | 1234 | Environmental Sci and Engr Ctr |  | 100 | 1 | 3195.46 | 83082 | 25922 | 109004
+  Active | 1234 | Environmental Sci and Engr Ctr | 2604020 | CESE Operating and Admin | 1161000 | OPTUI | 5112 | Perkins, Christopher | 463557 | 147537 | 1 | 1 | Academic Asst 2 | Research | 028 | 12 | DU |  |  | 2026-06-30 00:00:00 | 07/01/1995 | NL |  | 1234 | Environmental Sci and Engr Ctr |  | 100 | 1 | 5961.42 | 154997 | 48359 | 203356
+  Active | 1234 | Environmental Sci and Engr Ctr | 2604020 | CESE Operating and Admin | 1161000 | OPTUI | 5112 | Provatas, Anthony | 091030 | 146795 | 1 | 1 | Academic Asst 2 | Research | 028 | 12 | DU |  |  | 2028-06-09 00:00:00 | 12/04/2009 | NL |  | 1234 | Environmental Sci and Engr Ctr |  | 100 | 1 | 4516.96 | 117441 | 36642 | 154083
+  Active | 1234 | Environmental Sci and Engr Ctr | 2604020 | CESE Operating and Admin | 1161000 | OPTUI | 5112 | Ranjeet, Niva | 979651 | 150797 | 1 | 1 | Financial Assistant 2 | Administrative Services | 029 | 12 | PP |  |  | 1901-01-02 00:00:00 | 01/05/2018 | NL |  | 1234 | Environmental Sci and Engr Ctr |  | 100 | 1 | 2615.38 | 68000 | 21216 | 89216
+  Active | 1234 | Environmental Sci and Engr Ctr | 2604020 | CESE Operating and Admin | 1161000 | OPTUI | 5250 | Jayachandran, Akshay | 577980 | 065843 | 1 | 0.5 | UCONN GRADUATE ASST | Unclassified or Unassigned | 036 | 09 | UR | 2026-05-22 00:00:00 | 2026-05-22 00:00:00 | 1901-01-02 00:00:00 | 08/23/2023 | 1309 | Earth Sciences | 1309 | Earth Sciences |  | 100 | 0.5 | 1543.12 | 30091 | 5868 | 35959
+  Active | 1234 | Environmental Sci and Engr Ctr | 2604020 | CESE Operating and Admin | 1161000 | OPTUI | 5250 | Seraphim Nunes, Paola | 632646 | 065843 | 1 | 0.5 | UCONN GRADUATE ASST | Unclassified or Unassigned | 036 | 09 | UR | 2026-05-22 00:00:00 | 2026-05-22 00:00:00 | 1901-01-02 00:00:00 | 01/07/2025 | NL |  | 1850 | Chem and Biomolecular Engr |  | 100 | 0.5 | 1466.5 | 28597 | 5576 | 34173
+  Active | 1234 | Environmental Sci and Engr Ctr | 2604020 | CESE Operating and Admin | 1161000 | OPTUI | 5250 | Wanshanatha, Ravindi | 630287 | 065843 | 1 | 0.5 | UCONN GRADUATE ASST | Unclassified or Unassigned | 036 | 09 | UR | 2026-05-22 00:00:00 | 2026-05-22 00:00:00 | 1901-01-02 00:00:00 | 01/07/2025 | NL |  | 1171 | Natural Resources and Environ |  | 100 | 0.5 | 1466.5 | 28597 | 5576 | 34173
+  Active | 1234 | Environmental Sci and Engr Ctr | 4307920 | CESE Analytical Laboratory Operations | 6004000 | OPOTF | 5112 | Ayers, Sarah | 472138 | 147568 | 1 | 1 | Academic Asst 1 | Research | 028 | 12 | DU |  |  | 2026-06-03 00:00:00 | 06/04/2021 | NL |  | 1234 | Environmental Sci and Engr Ctr |  | 100 | 1 | 2183.96 | 56783 | 17716 | 74499
+  Active | 1234 | Environmental Sci and Engr Ctr | 4307920 | CESE Analytical Laboratory Operations | 6004000 | OPOTF | 5112 | Kexel, Stephanie | 616728 | 150465 | 1 | 1 | Laboratory Manager | Lab and Research Operations | 029 | 12 | PP |  |  | 1901-01-02 00:00:00 | 02/07/2000 | NL |  | 1234 | Environmental Sci and Engr Ctr |  | 100 | 1 | 3640.62 | 94656 | 29533 | 124189
+  Active | 1234 | Environmental Sci and Engr Ctr | 4307920 | CESE Analytical Laboratory Operations | 6004000 | OPOTF | 5112 | Stapcinskaite, Snieguole | 978685 | 148558 | 1 | 1 | Academic Asst 2 | Research | 028 | 12 | DU |  |  | 2027-06-30 00:00:00 | 04/23/2002 | NL |  | 1234 | Environmental Sci and Engr Ctr |  | 100 | 1 | 3260.46 | 84772 | 26449 | 111221
+  Active | 1234 | Environmental Sci and Engr Ctr | 4307920 | CESE Analytical Laboratory Operations | 6004000 | OPOTF | 5112 | Vatteroni, Marisa | 634719 | 148325 | 1 | 1 | Research Asst 1 | Research | 028 | 12 | DU |  |  | 2026-02-20 00:00:00 | 02/21/2025 | NL |  | 1234 | Environmental Sci and Engr Ctr |  | 100 | 1 | 1961.54 | 51000 | 15912 | 66912
+  Active | 2014 | Provost Misc | 2906670 | CESE Salaries | 1161000 | OPTUI | 5111 | Brandt, Jessica | 456943 | 147526 | 1 | 1 | Asst Professor | Faculty- Tenure Track | 028 | 09 | PT | 2026-08-22 00:00:00 | 2026-08-22 00:00:00 | 1901-01-02 00:00:00 | 12/31/2019 | NL |  | 1171 | Natural Resources and Environ |  | 30 | 0.3 | 1180.96 | 30705 | 9580 | 40285
+  Active | 2014 | Provost Misc | 2906670 | CESE Salaries | 1161000 | OPTUI | 5111 | Fahey, Robert | 185131 | 147211 | 1 | 1 | Assoc Professor | Faculty- Tenure Track | 028 | 09 | TN | 2026-08-22 00:00:00 | 2026-08-22 00:00:00 | 1901-01-02 00:00:00 | 01/01/2016 | NL |  | 1171 | Natural Resources and Environ |  | 25 | 0.25 | 1124.99 | 29250 | 9126 | 38376
+  Active | 2014 | Provost Misc | 2906670 | CESE Salaries | 1161000 | OPTUI | 5111 | Helton, Ashley | 146605 | 146992 | 1 | 1 | Professor | Faculty- Tenure Track | 028 | 09 | TN |  | 2026-09-30 00:00:00 | 1901-01-02 00:00:00 | 08/23/2013 | 1934 | Inst of Environment and Energy | 1171 | Natural Resources and Environ |  | 50 | 0.5 | 2973.77 | 77318 | 24123 | 101441
+  Active | 2014 | Provost Misc | 2906670 | CESE Salaries | 1161000 | OPTUI | 5111 | Lawrence, Beth | 185150 | 147212 | 1 | 1 | Assoc Professor | Faculty- Tenure Track | 028 | 09 | TN |  | 2026-09-30 00:00:00 | 1901-01-02 00:00:00 | 01/01/2016 | NL |  | 1171 | Natural Resources and Environ |  | 25 | 0.25 | 1074.13 | 27927 | 8713 | 36641
+  Active | 2014 | Provost Misc | 2906670 | CESE Salaries | 1161000 | OPTUI | 5111 | Li, Baikun | 043311 | 146656 | 1 | 1 | Professor | Faculty- Tenure Track | 028 | 09 | TN |  |  | 1901-01-02 00:00:00 | 08/23/2006 | NL |  | 1238 | Civil and Environ Engineering |  | 100 | 1 | 6863.12 | 178441 | 55674 | 234115
+  Active | 2014 | Provost Misc | 2906670 | CESE Salaries | 1161000 | OPTUI | 5111 | McCutcheon, Jeffrey | 075525 | 146749 | 1 | 1 | Professor | Faculty- Tenure Track | 028 | 09 | TN |  |  | 1901-01-02 00:00:00 | 08/23/2008 | NL |  | 1850 | Chem and Biomolecular Engr |  | 100 | 1 | 7046.42 | 183207 | 57161 | 240368
+  Active | 2014 | Provost Misc | 2906670 | CESE Salaries | 1161000 | OPTUI | 5111 | Vadas, Timothy | 092292 | 146797 | 1 | 1 | Director & Assoc Professor | Faculty-Dept Head/Director | 028 | 10 | TN | 2028-08-22 00:00:00 | 2028-08-22 00:00:00 | 1901-01-02 00:00:00 | 01/01/2010 | NL |  | 1238 | Civil and Environ Engineering |  | 66 | 0.657 | 3590.83 | 93362 | 29129 | 122491
+  Active | 2014 | Provost Misc | 2906670 | CESE Salaries | 1161000 | OPTUI | 5111 | Wang, Guiling | 873405 | 148473 | 1 | 1 | Professor | Faculty- Tenure Track | 028 | 09 | TN |  |  | 1901-01-02 00:00:00 | 01/01/2003 | NL |  | 1238 | Civil and Environ Engineering |  | 100 | 1 | 6957.5 | 180895 | 56439 | 237334
+  Active | 2014 | Provost Misc | 2906670 | CESE Salaries | 1161000 | OPTUI | 5111 | Zhang, Chuanrong | 074502 | 146735 | 1 | 1 | Professor | Faculty- Tenure Track | 028 | 09 | TN |  |  | 1901-01-02 00:00:00 | 08/23/2008 | NL |  | 1285 | Geography |  | 50 | 0.5 | 3135.62 | 81526 | 25436 | 106962
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Staff Hourly
+────────────────────────────────────────────────────────────────────────────────
+  0
+  FY21 Hourly Rates for CESE Staff (estimated)
+  Professional Employee |  |  |  | Graduate Assistant
+  Paid Hours per Week |  | 35 |  | Paid Hours per Week |  | 20 |  | 40
+  Weeks per Year | x | 52 |  | Weeks per Year | x | 52 |  | 52
+  Total Paid Hours per Year |  | 1820 |  | Total Paid Hours per Year |  | 1040 |  | 2080
+  Vacation Days |  | 22 |  | Vacation Days |  | 22 |  | 22
+  Sick Time |  | 15 |  | Sick Time |  | 15 |  | 15
+  Personal Time | + | 2 |  | Personal Time | + | 2 |  | 1
+  Days Off per Year |  | 39 |  | Days Off per Year |  | 39 |  | 38
+  Hours per Day | x | 7 |  | Hours per Day | x | 4 |  | 8
+  Total Hours Off per Year |  | 273 |  | Total Hours Off per Year |  | 156 |  | 304
+  Paid Hours per Year |  | 1820 |  | Paid Hours per Year |  | 1040 |  | 2080
+  Hours Off per Year | - | 273 |  | Hours Off per Year | - | 156 |  | 304
+  Total Hours Worked per Year |  | 1547 |  | Total Hours Worked per Year |  | 884 |  | 1776
+  Phill Caron - FY21 salary plus fringes |  | 165412 |  | L II Grad Asst. - FY21 salary plus fringes |  | 40087.9
+  Hours Worked per Year | / | 1547 |  | Hours Worked per Year | / | 884
+  Phill Caron - FY21 Hourly Rate |  | 106.925 |  | Grad Asst. - FY21 Hourly Rate |  | 45.3483
+  Kathy Allard - FY21 salary plus fringes |  | 0
+  Hours Worked per Year | / | 1547
+  Kathy Allard - FY21 Hourly Rate |  | 0 |  | Student Labor @ $11/hour |  | 11
+  Laboratory Asst. - FY21 salary plus fringes |  | 76024
+  Hours Worked per Year | / | 1547
+  Gary's - FY21 Hourly Rate |  | 49.1429
+  Chris Perkins - FY21 salary plus fringes |  | 233832
+  Hours Worked per Year | / | 1547
+  Chris Perkins - FY21 Hourly Rate |  | 151.152
+  Anthony Provatas - FY21 salary plus fringes |  | 173181
+  Hours Worked per Year | / | 1547
+  Anthony Provatas - FY21 Hourly Rate |  | 111.946
+  Sniega Stapcinskaite - FY21 salary plus fringes |  | 124167
+  Hours Worked per Year | / | 1547
+  Sniega Stapcinskaite - FY21 Hourly Rate |  | 80.2629
+  Steph Kexel - FY21 salary plus fringes |  | 129755
+  Hours Worked per Year | / | 1547
+  Steph Kexel - FY21 Hourly Rate |  | 83.8754
+  Terri Brehant - FY21 salary plus fringes |  | 188695
+  Hours Worked per Year | / | 1547
+  Terri Brehant - FY21 Hourly Rate |  | 121.975
+  Marita Decozio-Wiley - FY21 salary plus fringes |  | 163041
+  Hours Worked per Year | / | 1547
+  Marita Decozio-Wiley - FY21 Hourly Rate |  | 105.392
+  Steven Presley - FY21 salary plus fringes |  | 79360.2
+  Hours Worked per Year | / | 1547
+  Steven Presley - FY21 Hourly Rate |  | 51.2994
+  Michael Willig - FY21 salary plus fringes |  | 385995
+  Hours Worked per Year | / | 1547
+  Michael Willig - FY21 Hourly Rate |  | 249.512
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Rate Development
+────────────────────────────────────────────────────────────────────────────────
+  Center for Environmental Sciences & Engineering
+  FY21 Hourly Rates
+  Add 20% Indirect Cost for State Agency Client.  Add 61% Indirect Cost for Outside Client.
+  Method Development |  | Level I | Level II | Level III
+  Laboratory Assistant | 0.6 | 29.4857
+  Christopher Perkins | 0.1 | 15.1152
+  Anthony Provatas | 0.1 | 11.1946
+  Stephanie Kexel | 0.1 | 8.38754
+  Snieguole Stapcinskaite | 0.1 | 8.02629
+   |  | 72.2094
+  Christopher Perkins | 0.3 |  | 45.3456
+  Anthony Provatas | 0.3 |  | 33.5839
+  Stephanie Kexel | 0.1 |  | 8.38754
+  Snieguole Stapcinskaite | 0.1 |  | 8.02629
+  Laboratory Assistant | 0.2 |  | 9.82857
+   |  |  | 105.172
+  Christopher Perkins | 0.5 |  |  | 75.576
+  Anthony Provatas | 0.3 |  |  | 33.5839
+  Stephanie Kexel | 0.05 |  |  | 4.19377
+  Snieguole Stapcinskaite | 0.05 |  |  | 4.01314
+  Michael Willig | 0.1 |  |  | 24.9512
+   |  |  |  | 142.318
+  Administration - Terri Brehant | 0.05 | 6.09874 | 6.09874 | 6.09874
+  Method Development Total |  | 78.3081 | 111.271 | 148.417
+  Instrument Troubleshooting/Instruction/Training |  | Level I | Level II | Level III
+  Christopher Perkins | 0.2 |  | 30.2304
+  Anthony Provatas | 0.2 |  | 22.3893
+  Stephanie Kexel | 0.2 |  | 16.7751
+  Snieguole Stapcinskaite | 0.2 |  | 16.0526
+  Laboratory Assistant | 0.2 |  | 9.82857
+   |  |  | 95.2759
+  Christopher Perkins | 0.55 |  |  | 83.1336
+  Anthony Provatas | 0.25 |  |  | 27.9866
+  Stephanie Kexel | 0.05 |  |  | 4.19377
+  Snieguole Stapcinskaite | 0.05 |  |  | 4.01314
+  Michael Willig | 0.1 |  |  | 24.9512
+   |  |  |  | 144.278
+  Administration - Terri Brehant | 0.05 |  | 6.09874 | 6.09874
+  Instrument Troubleshooting/Instruction/Training Total |  |  | 101.375 | 150.377
+  Field Work/Design |  | Level I | Level II | Level III
+  Laboratory Assistant | 0.6 | 29.4857
+  Stephanie Kexel | 0.3 | 25.1626
+  Christopher Perkins | 0.1 | 15.1152
+   |  | 69.7635
+  Christopher Perkins | 0.4 |  | 60.4608
+  Laboratory Assistant | 0.6 |  | 29.4857
+   |  |  | 89.9465
+  Christopher Perkins | 0.85 |  |  | 128.479
+  Michael Willig | 0.15 |  |  | 37.4268
+   |  |  |  | 165.906
+  Administration - Terri Brehant | 0.05 | 6.09874 | 6.09874 | 6.09874
+  Field Work/Design Total |  | 75.8623 | 96.0453 | 172.005
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Sheet1
+────────────────────────────────────────────────────────────────────────────────
+   |  | RUBRIC FOR ESTIMATING COSTS FOR METHOD DEVELOMENT
+   |  | SERVICE | HOURLY  | ESTIMATED | ESTIMATED | SUBTOTAL
+   |  | LEVEL | RATE | HOURS | COST | ESTIMATE 
+   |  | Level - I | 49.94 | 10 | 499.4
+   |  | Level - II | 72.41 | 10 | 724.1
+   |  | Level - III | 119.37 | 5 | 596.85 | 1820.35
+   |  |  | DEPRECIATION | ESTIMATED | ESTIMATED
+   |  |  | HOURLY RATE | HOURS | COST
+   |  | Instrument X | 23.55 | 10 | 235.5
+   |  | Instrument Y  | 95.55 | 5 | 477.75 | 713.25
+   |  | CONSUMABLE | ESTIMATED | ESTIMATED | ESTIMATED
+   |  | MATERIAL/CHEMICAL | COST/UNIT | UNITS NEEDED  | COST
+   |  | Chemical-1 | 25 | 2 | 50
+   |  | Chemical-2 | 14.65 | 5 | 73.25
+   |  | Chemical-3 | 77.9 | 1 | 77.9
+   |  | Chemical-4 | 14.25 | 10 | 142.5
+   |  | Chemical-5 | 13.33 | 5 | 66.65
+   |  | Miscellaneous | 100 | 1 | 100 | 510.3
+   |  |  |  |  | TOTAL ESTIMATE      = | 3043.9
+
+====================================================================================================
+FILE: CESE Metal Rates FY26 FINAL.xlsx
+====================================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Internal Pricing
+────────────────────────────────────────────────────────────────────────────────
+   | Center for Environmental Sciences & Engineering
+   | University of Connecticut
+   | 3107 Horsebarn Hill Road, Unit 4210
+   | Building 4 Annex
+   | Storrs, CT 06269-4210
+   | Phone: (860) 486-4015      Fax: (860) 486-2283
+   | Web Site: cese.uconn.edu
+  Metals Analysis Price List
+  Internal Pricing 
+  Analytical Testing Services
+  Effective Date: December 31, 2025
+  Water/Liquid Sample for Elemental Analysis 
+  Instrument | # of Elements | Cost per sample
+  ICP-MS | 1 | 11.1177
+   | 2 | 14.0231
+   | 3 | 16.9431
+   | 4 | 19.8631
+   | 5 | 22.7831
+   | Per Element Increase | 2.92
+  ICP-OES | 1 | 5.99689
+   | 2 | 7.29329
+   | 3 | 8.58969
+   | 4 | 9.88609
+   | 5 | 11.1825
+   | Per Element Increase | 1.2964
+  CVAAS
+(mercury in water) | 1 | 5.04184
+  Solid/Tissue Sample for Elemental Analysis 
+  Instrument | # of Elements | Cost per sample
+  ICP-MS | 1 | 13.2273
+   | 2 | 16.1327
+   | 3 | 19.0527
+   | 4 | 21.9727
+   | 5 | 24.8927
+   | Per Element Increase | 2.92
+  ICP-OES | 1 | 7.43681
+   | 2 | 8.73321
+   | 3 | 10.0296
+   | 4 | 11.326
+   | 5 | 12.6224
+   | Per Element Increase | 1.2964
+  CVAAS
+(mercury in solid/tissue) | 1 | 5.01405
+  Percent Moisture and Total Extractable Organics (TEOs) | gravimetric | 7.52
+  Hardness | Ca and Mg calculation | N/C*
+  * No additional charge if customer orders appropriate tests that make up the calculation.
+  Prices are subject to change without notice.
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Internal Enhanced Rep Pricing
+────────────────────────────────────────────────────────────────────────────────
+   | Center for Environmental Sciences & Engineering
+   | University of Connecticut
+   | 3107 Horsebarn Hill Road, Unit 4210
+   | Building 4 Annex
+   | Storrs, CT 06269-4210
+   | Phone: (860) 486-4015      Fax: (860) 486-2283
+   | Web Site: cese.uconn.edu
+  Metals Analysis Price List
+  Internal with Enhanced Reporting Pricing 
+  Analytical Testing Services
+  Effective Date: December 31, 2025
+  Water/Liquid Sample for Elemental Analysis 
+  Instrument | # of Elements | Cost per sample
+  ICP-MS | 1 | 20.1708
+   | 2 | 24.2815
+   | 3 | 28.3923
+   | 4 | 32.503
+   | 5 | 36.6138
+   | Per Element Increase | 4.11074
+  ICP-OES | 1 | 14.3217
+   | 2 | 17.0055
+   | 3 | 19.6893
+   | 4 | 22.3732
+   | 5 | 25.057
+   | Per Element Increase | 2.68384
+  CVAAS
+(mercury in water) | 1 | 17.5181
+  Solid/Tissue Sample for Elemental Analysis 
+  Instrument | # of Elements | Cost per sample
+  ICP-MS | 1 | 25.0662
+   | 2 | 29.177
+   | 3 | 33.2877
+   | 4 | 37.3985
+   | 5 | 41.5092
+   | Per Element Increase | 4.11074
+  ICP-OES | 1 | 19.4578
+   | 2 | 22.1417
+   | 3 | 24.8255
+   | 4 | 27.5094
+   | 5 | 30.1932
+   | Per Element Increase | 2.68384
+  CVAAS
+(mercury in solid/tissue) | 1 | 22.8799
+  Percent Moisture and Total Extractable Organics (TEOs) | gravimetric | 16.7
+  Hardness | Ca and Mg calculation | N/C*
+  * No additional charge if customer orders appropriate tests that make up the calculation.
+  Prices are subject to change without notice.
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: External Pricing
+────────────────────────────────────────────────────────────────────────────────
+   | Center for Environmental Sciences & Engineering
+   | University of Connecticut
+   | 3107 Horsebarn Hill Road, Unit 4210
+   | Building 4 Annex
+   | Storrs, CT 06269-4210
+   | Phone: (860) 486-4015      Fax: (860) 486-2283
+   | Web Site: cese.uconn.edu
+  Metals Analysis Price List
+  External Pricing (includes IDC)
+  Analytical Testing Services
+  Effective Date: December 31, 2025
+  Water/Liquid Sample for Elemental Analysis 
+  Instrument | # of Elements | Cost per sample
+  ICP-MS | 1 | 43.2317
+   | 2 | 50.2292
+   | 3 | 57.2266
+   | 4 | 64.2241
+   | 5 | 71.2215
+   | Per Element Increase | 6.99745
+  ICP-OES | 1 | 32.4466
+   | 2 | 37.1467
+   | 3 | 41.8468
+   | 4 | 46.547
+   | 5 | 51.2471
+   | Per Element Increase | 4.70014
+  CVAAS
+(mercury in water) | 1 | 57.0577
+  Solid/Tissue Sample for Elemental Analysis 
+  Instrument | # of Elements | Cost per sample
+  ICP-MS | 1 | 54.1035
+   | 2 | 61.101
+   | 3 | 68.0984
+   | 4 | 75.0959
+   | 5 | 82.0934
+   | Per Element Increase | 6.99745
+  ICP-OES | 1 | 44.6831
+   | 2 | 49.3833
+   | 3 | 54.0834
+   | 4 | 58.7835
+   | 5 | 63.4837
+   | Per Element Increase | 4.70014
+  CVAAS
+(mercury in solid/tissue) | 1 | 71.4751
+  Percent Moisture and Total Extractable Organics (TEOs) | gravimetric | 33.18
+  Hardness | Ca and Mg calculation | N/C*
+  * No additional charge if customer orders appropriate tests that make up the calculation.
+  Prices are subject to change without notice.
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Cost Calculation
+────────────────────────────────────────────────────────────────────────────────
+  ELEMENTAL ANALYSIS COST CALCULATIONS
+  2025-12-18 00:00:00
+  Water/Liquid Sample for Elemental Analysis
+   |  |  |  |  |  |  |  |  |  |  |  | Internal |  | External
+   |  | Internal Enhanced | External | Internal | Internal Enhanced | External | Internal | Internal Enhanced | External | Internal | All | Internal Enhanced | External | Rate | Internal
+  Instrument | # of Elements | Analysis Cost | Analysis Cost | Analysis Cost |  Prep Cost | Prep Cost |  Prep Cost | Admin/QA Cost (see note) | Admin/QA Cost | Admin/QA Cost | Depreciation | Rate (No IDC) | Rate (No IDC) | (with 61% IDC) | Rate
+  ICP-MS | 1 | 8.13379 | 10.9379 | 5.56644 | 8.74562 | 12.9335 | 3.19212 | 1.86447 | 1.55373 | 0.932235 | 1.4269 | 20.1708 | 26.852 | 43.2317 | 11.1177
+   | 2 | 8.95316 | 12.3035 | 6.11268 | 8.74562 | 12.9335 | 3.19212 | 3.72894 | 3.10745 | 1.86447 | 2.85381 | 24.2815 | 31.1982 | 50.2292 | 14.0231
+  Each Additional Element |  | 0.819369 | 1.36561 | 0.546246 | 0 | 0 | 0 | 1.86447 | 1.55373 | 0.932235 | 1.4269 | 4.11074 | 4.34624 | 6.99745 | 2.90539
+  ICP-OES | 1 | 6.21401 | 8.77529 | 3.46457 | 6.24317 | 9.82412 | 1.60008 | 1.86447 | 1.55373 | 0.932235 | 0 | 14.3217 | 20.1531 | 32.4466 | 5.99689
+   | 2 | 7.03337 | 10.1409 | 3.82873 | 6.24317 | 9.82412 | 1.60008 | 3.72894 | 3.10745 | 1.86447 | 0 | 17.0055 | 23.0725 | 37.1467 | 7.29329
+  Each Additional Element |  | 0.819369 | 1.36561 | 0.364164 | 0 | 0 | 0 | 1.86447 | 1.55373 | 0.932235 | 0 | 2.68384 | 2.91934 | 4.70014 | 1.2964
+  CVAAS | 1 | 6.05856 | 9.72448 | 1.65218 | 9.59504 | 14.839 | 2.45743 | 1.86447 | 10.8761 | 0.932235 | 0 | 17.5181 | 35.4396 | 57.0577 | 5.04184
+  Sediment/Tissue/Solid Sample for Elemental Analysis
+   |  | Internal Enhanced | External | Internal | Internal Enhanced | External | Internal | Internal Enhanced | External | Internal | All | Internal Enhanced | External | External | Internal
+  Instrument | # of Elements | Analysis Cost | Service Analysis Cost | Analysis Cost |  Prep Cost | Service Prep Cost |  Prep Cost | Admin/QA Cost (see note) | Service Admin/QA Cost | Admin/QA Cost | Depreciation | Rate (No IDC) | Rate (No IDC) | Rate (with 61% IDC) | Rate
+  ICP-MS | 1 | 8.13379 | 10.9379 | 5.56644 | 13.6411 | 19.6862 | 5.30172 | 1.86447 | 1.55373 | 0.932235 | 1.4269 | 25.0662 | 33.6047 | 54.1035 | 13.2273
+   | 2 | 8.95316 | 12.3035 | 6.11268 | 13.6411 | 19.6862 | 5.30172 | 3.72894 | 3.10745 | 1.86447 | 2.85381 | 29.177 | 37.9509 | 61.101 | 16.1327
+  Each Additional Element |  | 0.819369 | 1.36561 | 0.546246 | 0 | 0 | 0 | 1.86447 | 1.55373 | 0.932235 | 1.4269 | 4.11074 | 4.34624 | 6.99745 | 2.90539
+  ICP-OES | 1 | 6.21401 | 8.77529 | 3.46457 | 11.3794 | 17.4245 | 3.04001 | 1.86447 | 1.55373 | 0.932235 | 0 | 19.4578 | 27.7535 | 44.6831 | 7.43681
+   | 2 | 7.03337 | 10.1409 | 3.82873 | 11.3794 | 17.4245 | 3.04001 | 3.72894 | 3.10745 | 1.86447 | 0 | 22.1417 | 30.6728 | 49.3833 | 8.73321
+  Each Additional Element |  | 0.819369 | 1.36561 | 0.364164 | 0 | 0 | 0 | 1.86447 | 1.55373 | 0.932235 | 0 | 2.68384 | 2.91934 | 4.70014 | 1.2964
+  CVAAS | 1 | 6.05856 | 9.72448 | 1.65218 | 14.9569 | 23.7939 | 2.42964 | 1.86447 | 10.8761 | 0.932235 | 0 | 22.8799 | 44.3945 | 71.4751 | 5.01405
+  Note: Due to more rigorous reporting and data management requirements for the State of Connecticut and Federal Agency Contracts, the QA/Admins costs are twice that of other clinets and are reflective as a surcharge in that cost structure
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Consumables
+────────────────────────────────────────────────────────────────────────────────
+   |  |  |  | Adjusted
+  Consumables | Unit Price | Container | Units | Price | Unit Cost | Notes | Supplier | comments
+  Reagents
+  Hydrogen Peroxide, Optima  (H2O2) | 377.65 | 500 | ml | 415.415 | 0.83083 |  | Fisher P170-500
+  Hydrochloric Acid, trace metal | 151.26 | 2500 | ml | 166.386 | 0.0665544 |  | Fisher A508-P212
+  Nitric Acid, trace metal | 153.95 | 2500 | ml | 169.345 | 0.067738 |  | Fisher A509P212
+  Sulfuric Acid, ACS grade | 149.93 | 2500 | ml | 164.923 | 0.0659692 |  | A300C-212
+  Nitric Acid, Optima | 373.63 | 500 | ml | 410.993 | 0.821986 |  | Fisher A467-500
+  Potassium Permangenate (KMnO4) | 121.27 | 500 | g | 172.47 | 0.34494 |  | Fisher P279-212
+  Potassium Persulfate K2S2O8) | 139.61 | 500 | g | 153.571 | 0.307142 |  | Fisher O6114-500
+  Hydroxylamine Hydrochloride, ACS | 162.16 | 500 | ml | 178.376 | 0.356752 |  | Fisher AC412055000
+  Tin Chloride | 142.42 | 500 | g | 156.662 | 0.313324 |  | Fisher AC222665000 | Updated 7/1/25
+  ICP Standards
+  Gold 1000 ug/ml | 107 | 125 | ml | 117.7 | 0.9416 |  | SCP Science
+  Cesium 1000 ug/ml | 44.6 | 100 | ml | 49.06 | 0.4906 |  | SCP Science
+  Stds A 200.8, ICP Memory CHK, HNO3 | 381 | 100 | ml | 419.1 | 4.191 |  | CPI
+  Std B 200.8, ICP Memory CHK, HNO3 | 105 | 100 | ml | 115.5 | 1.155 |  | CPI
+  ICP Interference Chk, solution A | 330 | 500 | ml | 363 | 0.726 |  | Inorganic Ventures
+  ICP-MS Interference CHK Solutions A & AB | 473 | 500 | ml | 520.3 | 1.0406 |  | High-Purity Stds
+  ICP-MS Interference CHK Solutions A & B, HNO3 TR | 229 | 250 | ML | 251.9 | 1.0076 |  | High-Purity Stds
+  CLP ICP Interference CHK Solution B4 | 131 | 125 | ml | 144.1 | 1.1528 |  | Inorganic Ventures
+  Standards, Multi-element (5) calibration | 429.4 | 100 | ml | 472.34 | 4.7234 |  | SPEX Certiprep
+  Standards, ICP/ICP-MS, 2. | 325.85 | 100 | ml | 358.435 | 3.58435 |  | SPEX Certiprep
+  Standard, 200.7 Quality Control 1 | 380 | 125 | ml | 418 | 3.344 |  | Inorganic Ventures
+  Standard, 200.7 Quality Control 2 | 121 | 125 | ml | 133.1 | 1.0648 |  | Inorganic Ventures
+  ICP-OES
+  EPA CLP ICP interference standard A | 330 | 500 | ml | 363 | 0.726 |  | Inorganic Ventures CLPP-ICS-A-500 ml
+  EPA CLP ICP interference standard B4 | 131 | 125 | ml | 144.1 | 1.1528 |  | Inorganic Ventures CLPP-ICS-B4-125 ml
+  EPA Method 200.7 Quality control Standard 1 | 380 | 125 | ml | 418 | 3.344 |  | QCP-QCS-1-125 ml
+  EPA Method 200.7 quality control Standard 2 | 121 | 125 | ml | 133.1 | 1.0648 |  | QCP-QCS-2-125 ml
+  EPA Method 200.7 Calibration Standard 6 | 147 | 100 | ml | 161.7 | 1.617 |  | High Purity Standards ICP-200.7-6-A-100
+  ICP Stock Standard A | 197 | 100 | ml | 216.7 | 2.167 |  | High Purity Standards ICP-MS-MCS-A-100
+  ICP Stock Standard B | 197 | 100 | ml | 216.7 | 2.167 |  | High Purity Standards ICP-MS-MCS-B-100
+  Yttrium | 48 | 100 | ml | 52.8 | 0.528 |  | HPS 100067-2-100
+  Scandium | 69 | 100 | ml | 75.9 | 0.759 |  | 100048-1-100
+  ICP-MS
+  ICP-MS Memory Check Solution A | 197 | 100 |  | 216.7 | 2.167 |  | High Purity Standards ICP-MS-MCS-A
+  ICP-MS Memory Check Solution B | 197 | 100 |  | 216.7 | 2.167 |  | HPS: ICP-MS-MCS-B
+  ICP-MS Interference Check Standard A | 229 | 250 |  | 251.9 | 1.0076 |  | Environmental Express ICP-MS-ICS
+  ICP-MS Interference Check Standard AB | 229 | 250 |  | 251.9 | 1.0076 |  | Environmental Express ICP-MS-ICS
+  Multi Element Solution method 200.8 |  |  |  | 0 |  |  | CPI 4400-010037
+  IS Standards | 118 | 100 |  | 129.8 | 1.298 |  | High Purity Standards ICP-MS-IS-1
+  Hg | 57 | 100 |  | 62.7 | 0.627 |  | HPS 10-33-1-100
+  Single Element Standards
+  Mercury 1000ug/ml | 60.3 | 100 | ml | 66.33 | 0.6633 |  | Env Express HP133-1100
+  Cesium 1000ppm | 43.5 | 125 | ml | 47.85 | 0.3828 |  | SCP Science
+  Platinum 1000ug/ml | 56 | 100 | ml | 61.6 | 0.616 |  | Env Express
+  Gold 1000 ug/ml | 136 | 100 | ml | 149.6 | 1.496 |  | Env Express
+  Gold 1000ppm | 107 | 125 | ml | 117.7 | 0.9416 |  | SCP Science
+  Indium Std 1000ppm | 43.5 | 125 | ml | 47.85 | 0.3828 |  | SCP Science
+  Germanium Std, 1000ppm | 43.5 | 125 | ml | 47.85 | 0.3828 |  | SCP Science
+  Molybdenum 1000ppm | 43.5 | 125 | ml | 47.85 | 0.3828 |  | SCP Science
+  Lithium 1000ppm | 39.3 | 125 | ml | 43.23 | 0.34584 |  | SCP Science
+  Lithium-6 1000ppm | 115 | 100 | ml | 126.5 | 1.265 |  | Env Express HP100029-6I100
+  Phosphorus 1000ppm | 39.3 | 125 | ml | 43.23 | 0.34584 |  | SCP Science
+  Tin 1000ppm | 43.5 | 125 | ml | 47.85 | 0.3828 |  | SCP Science
+  Stronthium 1000ppm | 96.6 | 125 | ml | 106.26 | 0.85008 |  | SCP Science
+  Titanium 1000ppm | 43.5 | 125 | ml | 47.85 | 0.3828 |  | SCP Science
+  Silica 1000ppm | 43.5 | 125 | ml | 47.85 | 0.3828 |  | SCP Science
+  Beryllium 1000ppm | 43.5 | 125 | ml | 47.85 | 0.3828 |  | SCP Science
+  Vanadium 1000ppm | 43.5 | 125 | ml. | 47.85 | 0.3828 |  | SCP Science
+  Terbium 1000ppm | 43.5 | 125 | ml | 47.85 | 0.3828 |  | SCP Science
+  Thallium 1000ppm | 43.5 | 125 | ml | 47.85 | 0.3828 |  | SCP Science
+  Digitubes w/out racklock | 231 | 750 | ea | 254.1 | 0.3388 |  | SCP
+  Gloves, Nitrile | 68.18 | 1000 | ea | 74.998 | 0.074998
+  BTLS, W/M 4oz | 220.65 | 500 | ea | 242.715 | 0.48543
+  BTLS, extraction plastic 2L  12/cs  | 43.5 | 12 | ea | 47.85 | 3.9875 |  | Analytical Testing
+  Pipettes, Grad Trns 5.8ml | 13.57 | 500 | ea | 14.927 | 0.029854
+  Spatula, 15cm | 10.92 | 1 | ea | 12.012 | 12.012 |  | PE - No mark ups
+  12.5 cm Filter pper Whatman41 | 30.56 | 100 | ea | 33.616 | 0.33616
+  Stirrers, Pipette 5.8ml | 19.52 | 500 | ea | 21.472 | 0.042944
+  Tips, metal free 1000U CLR | 42.11 | 1000 | pk | 46.321 | 0.046321
+  Finn Tips 62 1-5ml | 11.57 | 75 | pk | 12.727 | 0.169693
+  Tubes, centrifuge 15ml | 92.52 | 500 | cs | 101.772 | 0.203544 |  | Fisher
+  Tubing, silicone purple/white, 2.79 mm | 24 | 1 | ea | 26.4 | 26.4 |  | PE
+  Tubing, PTFE 1000mm | 12.8 | 1 | ea | 14.08 | 14.08 |  | PE
+  Tubing, PVC RED/RED | 14.91 | 12 | ea | 16.401 | 1.36675
+  Tubing, Sol Flex RED/RED | 24.11 | 1 | ea | 26.521 | 26.521
+  Tubing, PVC  BLK/BLK | 14.91 | 12 | ea | 16.401 | 1.36675
+  Tubing, Sol Flex BLK/BLK | 24.11 | 1 | ea | 26.521 | 26.521
+  Tubing, PVC ORG/GRN | 14.91 | 12 | ea | 16.401 | 1.36675
+  Watch Glasses, disposable, Digitube | 135 | 1000 | ea | 148.5 | 0.1485 |  | SCP | centrifuge tubes
+  Watch Glasses, Ribbed 19.5mm  1000/pk | 100 | 1000 | ea | 110 | 0.11 |  | Env Express
+  Wiper, DURX 670 12x12" | 26.05 | 150 | pk | 28.655 | 0.191033
+  Weighing Boats (Aluminum) | 34.42 | 100 | pk | 37.862 | 0.37862
+  Shoe Covers, non-skid | 33.02 | 50 | pk | 33.02
+  Mat, adhesive 18x36  | 108 | 4 | ea | 108
+  Lab coats | 21.16 | 1 | ea | 21.16
+  Gases | Unit Price/Tank | Container | Unit | Unit Cost |  | Notes
+  Argon, LQ 180LTR  230PSI | 555.43 | 180000 | mL | 0.00308572 |  |  | AR230LT230   updated: 11/1/24
+  Nitrogen, LQ 180LTR  230PSI | 125.43 | 180000 | mL | 0.000696833 |  |  | NI230LT230   updated: 11/1/24
+  Nitrogen, zero grade 300 | 75.88 | 3000 | mL | 0.0252933
+  Nitrogen, UHP300 | 86.37 | 3000 | mL | 0.02879 |  |  | NI UHP300
+  Methane, UHP300 | 448.44 | 3000 | mL | 0.14948 |  |  | ME UHP300
+  Total Cost |  |  |  |  |  |  |  | Updated 7/1/25
+  Personnel Cost  | FY26 | FY26 | Units | Cost | Unit Cost | Notes
+  Extternal Client Rates (100% of Salaries and Fringes)
+  Sniega | 44.2 wks @35 hrs/wk | 92820 | mins | 112672 | 1.21388
+  Students (0) |  | 60 | mins | 20 | 0.333333
+  Internal to UConn Rate (60% of Permanenet Employees - Ledger 2 salaries removed)
+  Sniega | 44.2 wks @35 hrs/wk | 92820 | mins | 67603.4 | 0.728328
+  Students (0) |  | 60 | mins | 20 | 0.333333 |  |  | Updated 7/1/25
+   |  |  |  |  | Updated 7/1/25
+  ICP-OES Consumables - Time based | Unit Price | Container | Units/Year | Adjusted Price | Total Cost | Notes
+  Maintenance - Estimate | 5000 | 1 | ea | 5000
+  Torch, Optima 7300DV | 216 | 1 | ea | 237.6
+  Total Cost -  | # Samples | 1500 |  | 5237.6 | 3.49173
+  ICP-MS Consumables - Time based | Unit Price | Container | Units/Year | Adjusted Price | Total Cost | Notes
+  Maintenance - Estimate (Service contract included) | 5000 | 1 | ea | 5000 | 5000
+  Sampler, Nickel  | 764 | 1 | ea | 840.4 | 840.4
+  Skimmer | 962 | 1 | ea | 1058.2 | 1058.2
+  Total Cost | # Samples | 1500 |  | 6902.09 | 4.60139
+  CVAAS Consumables - Time based | Unit Price | Container | Units/Year | Adjusted Price | Total Cost | Notes
+  Mercury Source - CVAAS | 180 | 1 | ea | 198 | 198
+  Window Assy - CVAAS | 93.6 | 1 | ea | 112.32 | 112.32
+  FIMS Cell body CVAAS | 70.8 | 1 | ea | 84.96 | 84.96
+  Mercury Adsorber - CVAAS | 91.2 | 1 | ea | 109.44 | 109.44
+  PTFE Membranes - CVAAS | 300 | 50 | ea | 360 | 7.2
+   |  |  |  | Total | 511.92
+  Cost per sample | # Samples | 150 |  | Cost per sample | 3.4128
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Water_Liquid Prep
+────────────────────────────────────────────────────────────────────────────────
+  Water Sample Preparation for Mercury
+  Total Samples per Batch: | 32 |  | Number of Actual Samples: | 20
+  Water Preparation for Mercury |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Balance and Pipette Calibration | 5 | min per group |  | Disposible Digitubes  | 32 | 0.3388 | 10.8416
+  Transfer samples into digestion tubes | 2 | min per sample |  | Digitube covers | 32 | 0.11 | 3.52
+   |  |  |  | Pipette Tips | 32 | 0.046321 | 1.48227
+  Preparing LCS and spike sample  | 10 | min per group |  | Gloves | 5 | 0.074998 | 0.37499
+  Set up samples on hot block (adding reagents) | 1.5 | min per sample | Hot Block | Bottles, 4 oz. wide-mouth HDPE w/closure | 1 | 0.48543 | 0.48543
+  Bring samples to final volume  cap and shake | 2 | min per sample | 2 hour digestion | Mercury stock solution | 2.5 | 0.627 | 1.5675
+  Decolor  |  |  |  | HNO3 | 32 | 0.067738 | 2.16762
+   |  |  |  | H2SO4 | 128 | 0.0659692 | 8.44406
+  Record Keeping | 25 | min per group |  | KMNO4 | 10 | 0.34494 | 3.4494
+   |  |  |  | K2S2O8  | 5 | 0.307142 | 1.53571
+  Grad Student Supervision | 20 | min per group |  | Hydroxylamine | 2 | 0.356752 | 0.713504
+   |  |  |  | SubTotal |  |  | 34.5821
+   |  |  | Unit Cost for Labor | Total Cost for Labor | TOTAL PREP COST PER BATCH |  |  | Prep Cost Per Sample | N
+  External UConn Labor Rates |  |  |  |  | External Cost |  | 296.78 | 14.839 | 20
+  Total Labor - Sniega | 216 | mins per group | 1.21388 | 262.198 | State/Federal Cost |  | 191.901 | 9.59504 | 20
+  Internal Full Service |  |  |  |  | Grad/Walkup Cost |  | 49.1486 | 2.45743 | 20
+  Total Labor - Sniega | 216 | mins per group | 0.728328 | 157.319
+  Internal Grad Assisted Rates
+  Total Labor - Sniega - Supervision  | 20 | mins per group | 0.728328 | 14.5666
+  Grad Student Labor | 216 | mins per group | 0 | 0
+  Water Sample Preparation for ICP-OES Analysis
+  Total Samples per Batch: | 25 |  | Number of Actual Samples: | 20
+  Water Preparation for Metals |  |  | Equipment used |  | Units/  | Unit | Total
+  ICP | Labor Time |  |  | Consumables | group | Cost | Group Cost
+   |  |  |  | Disposible Digitubes  | 25 | 0.3388 | 8.47
+  Labeling tubes and transfer samples to digestion tubes | 1.5 | min per sample | Hot Block | Digitube covers | 25 | 0.1485 | 3.7125
+   |  |  | about 4 - 6 hours digestion time | Pipette Tips | 25 | 0.046321 | 1.15803
+   |  |  |  | Gloves | 5 | 0.074998 | 0.37499
+  Balance and Pipette Calibration | 5 | min per group |  | QCS1 + QCS2 | 0.5 | 4.4088 | 2.2044
+  Preparing Spike  and LCS samples | 5 | min per group
+  Set up samples on hot block (adding reagents) | 1 | min per sample |  | HNO3 Trace Metal | 15 | 0.067738 | 1.01607
+  Record Keeping | 25 | min per group |  | HCl   Trace Metal | 7.5 | 0.0665544 | 0.499158
+  Bring samples to final volume  cap and shake | 2 | min per sample
+  Grad Student Supervision | 20 | min per group |  | SubTotal |  |  | 17.4351
+   |  |  | Unit Cost for Labor | Total Cost for Labor | TOTAL PREP COST PER BATCH |  |  | Prep Cost Per Sample | N
+  External UConn Labor Rates |  |  |  |  | External Cost |  | 196.482 | 9.82412 | 20
+  Total Labor - Sniega | 147.5 | mins per group | 1.21388 | 179.047 | State/Federal Cost |  | 124.863 | 6.24317 | 20
+  Internal Full Service |  |  |  |  | Grad/Walkup Cost |  | 32.0017 | 1.60008 | 20
+  Total Labor - Sniega | 147.5 | mins per group | 0.728328 | 107.428
+  Internal Grad Assisted Rates
+  Total Labor - Sniega - Supervision  | 20 | mins per group | 0.728328 | 14.5666
+  Grad Student Labor | 147.5 | mins per group | 0 | 0
+  Water Sample Preparation for ICP-MS Analysis
+  Total Samples per Batch: | 25 |  | Number of Actual Samples: | 20
+  Water Preparation for Metals |  |  | Equipment used |  | Units/  | Unit | Total
+  ICP MS | Labor Time |  |  | Consumables | group | Cost | Group Cost
+   |  |  |  | Disposible Digitubes  | 25 | 0.3388 | 8.47
+  Labeling tubes and transfer samples to digestion tubes | 1.5 | min per sample | Hot Block | Digitube covers | 25 | 0.1485 | 3.7125
+   |  |  | about 4 - 6 hours digestion time |  Pipette Tips | 20 | 0.046321 | 0.92642
+   |  |  |  | Gloves | 5 | 0.074998 | 0.37499
+  Balance and Pipette Calibration | 5 | min per group |  | QCS1 + QCS2 | 0.5 | 4.4088 | 2.2044
+  Preparing Spike  and LCS samples | 5 | min per group |  | MCSA+B | 0.5 | 4.334 | 2.167
+  Set up samples on hot block (adding reagents) | 2 | min per sample |  | HNO3  Optima | 25 | 0.821986 | 20.5497
+  Record Keeping | 25 | min per group |  | Hydrogen Peroxide Optima | 12.5 | 0.83083 | 10.3854
+  Bring samples to final volume  cap and shake | 2 | min per sample |  | Bottles, 4 oz. wide-mouth HDPE w/closure | 1 | 0.48543 | 0.48543
+   |  |  |  | SubTotal |  |  | 49.2758
+   |  |  | Unit Cost for Labor | Total Cost for Labor | TOTAL PREP COST PER BATCH |  |  | Prep Cost Per Sample | N
+  External UConn Labor Rates |  |  |  |  | External Cost |  | 258.67 | 12.9335 | 20
+  Total Labor - Sniega | 172.5 | mins per group | 1.21388 | 209.394 | State/Federal Cost |  | 174.912 | 8.74562 | 20
+  Internal Full Service |  |  |  |  | Grad/Walkup Cost |  | 63.8423 | 3.19212 | 20
+  Total Labor - Sniega | 172.5 | mins per group | 0.728328 | 125.637
+  Internal Grad Assisted Rates
+  Total Labor - Sniega - Supervision  | 20 | mins per group | 0.728328 | 14.5666
+  Grad Student Labor | 172.5 | mins per group | 0 | 0
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Tissue_Sed_Solid Prep
+────────────────────────────────────────────────────────────────────────────────
+  Tissue/Sediment/Solids Sample Preparation for Mercury
+  Total Samples per Batch: | 32 |  | Number of Actual Samples: | 20
+  Water Preparation for Mercury |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Balance and Pipette Calibration | 5 | min per group |  | Disposible Digitubes  | 32 | 0.3388 | 10.8416
+  Weigh samples  | 4 | min per sample |  | Digitube covers | 32 | 0.11 | 3.52
+  Transfer samples into digestion tubes | 2 | min per sample |  | Pipette Tips | 20 | 0.046321 | 0.92642
+  Preparing LCS and spike sample  | 25 | min per group |  | Gloves | 5 | 0.074998 | 0.37499
+  Set up samples on hot block (adding reagents) | 1.5 | min per sample | Hot Block | Bottles, 4 oz. wide-mouth HDPE w/closure | 1 | 0.48543 | 0.48543
+  Bring samples to final volume  cap and shake | 2 | min per sample | 2 hour digestion | Mercury stock solution | 2.5 | 0.627 | 1.5675
+   |  |  |  | HNO3 | 32 | 0.067738 | 2.16762
+  Record Keeping | 30 | min per group |  | H2SO4 | 128 | 0.0659692 | 8.44406
+   |  |  |  | KMNO4 | 10 | 0.34494 | 3.4494
+  Grad Student Supervision | 20 | min per group |  | K2S2O8  | 5 | 0.307142 | 1.53571
+   |  |  |  | Hydroxylamine | 2 | 0.356752 | 0.713504
+   |  |  |  | SubTotal |  |  | 34.0262
+   |  |  | Unit Cost for Labor | Total Cost for Labor | TOTAL PREP COST PER BATCH |  |  | Prep Cost Per Sample | N
+  External UConn Labor Rates |  |  |  |  | External Cost |  | 475.878 | 23.7939 | 20
+  Total Labor - Sniega | 364 | mins per group | 1.21388 | 441.852 | State/Federal Cost |  | 299.138 | 14.9569 | 20
+  Internal Full Service |  |  |  |  | Grad/Walkup Cost |  | 48.5928 | 2.42964 | 20
+  Total Labor - Sniega | 364 | mins per group | 0.728328 | 265.111
+  Internal Grad Assisted Rates
+  Total Labor - Sniega - Supervision  | 20 | mins per group | 0.728328 | 14.5666
+  Grad Student Labor | 364 | mins per group | 0 | 0
+  Tissue/Sediment/Solids Sample Preparation for ICP-OES Analysis
+  Total Samples per Batch: | 24 |  | Number of Actual Samples: | 20
+  Water Preparation for Metals |  |  | Equipment used |  | Units/  | Unit | Total
+  ICP | Labor Time |  |  | Consumables | group | Cost | Group Cost
+   |  |  |  | Disposible Digitubes  | 24 | 0.3388 | 8.1312
+  Labeling tubes and transfer samples to digestion tubes | 3 | min per sample | Hot Block | Digitube covers | 24 | 0.1485 | 3.564
+  Balance and Pipette Calibration | 5 | min per group | about 4 - 6 hours digestion time | Pipette Tips | 5 | 0.046321 | 0.231605
+  Weighing samples | 2 | min per sample |  | Gloves | 5 | 0.074998 | 0.37499
+  Grad Student Supervision | 20 | min per group |  | Filter Paper | 24 | 0.33616 | 8.06784
+   |  |  |  | QCS1 + QCS2 | 1 | 4.4088 | 4.4088
+  Preparing Spike  and LCS samples | 5 | min per group |  | H2O2 (Optima) | 24 | 0.83083 | 19.9399
+  Set up samples on hot block (adding reagents) | 1.5 | min per sample |  | HNO3 (1ml/ samp)  Trace Metal | 15 | 0.067738 | 1.01607
+  Record Keeping | 35 | min per group |  | HCl (0.25ml/ samp)  Trace Metal | 7.5 | 0.0665544 | 0.499158
+  Bring samples to final volume  cap and shake | 2 | min per sample
+   |  |  |  | SubTotal |  |  | 46.2336
+   |  |  | Unit Cost for Labor | Total Cost for Labor | TOTAL PREP COST PER BATCH |  |  | Prep Cost Per Sample | N
+  External UConn Labor Rates |  |  |  |  | External Cost |  | 348.49 | 17.4245 | 20
+  Total Labor - Sniega | 249 | mins per group | 1.21388 | 302.256 | State/Federal Cost |  | 227.587 | 11.3794 | 20
+  Internal Full Service |  |  |  |  | Grad/Walkup Cost |  | 60.8001 | 3.04001 | 20
+  Total Labor - Sniega | 249 | mins per group | 0.728328 | 181.354
+  Internal Grad Assisted Rates
+  Total Labor - Sniega - Supervision  | 20 | mins per group | 0.728328 | 14.5666
+  Grad Student Labor | 249 | mins per group | 0 | 0
+  Tissue/Sediment/Solids Sample Preparation for ICP-MS Analysis
+  Total Samples per Batch: | 24 |  | Number of Actual Samples: | 20
+  Water Preparation for Metals |  |  | Equipment used |  | Units/  | Unit | Total
+  ICP MS | Labor Time |  |  | Consumables | group | Cost | Group Cost
+   |  |  |  | Disposible Digitubes  | 24 | 0.3388 | 8.1312
+  Labeling tubes and transfer samples to digestion tubes | 3 | min per sample | Hot Block | Digitube covers | 24 | 0.1485 | 3.564
+  Weighing samples | 2 | min per sample | about 4 - 6 hours digestion time |  Pipette Tips | 5 | 0.046321 | 0.231605
+  Grad Student Supervision | 20 | min per sample |  | Filter Paper | 24 | 0.33616 | 8.06784
+   |  |  |  | Gloves | 5 | 0.074998 | 0.37499
+  Balance and Pipette Calibration | 5 | min per group |  | QCS1 + QCS2 | 1 | 4.4088 | 4.4088
+  Preparing Spike  and LCS samples | 5 | min per group |  | MCSA+B | 1 | 4.334 | 4.334
+  Set up samples on hot block (adding reagents) | 1.5 | min per sample |  | HNO3 (2.5ml/ samp)  Optima | 50 | 0.821986 | 41.0993
+  Record Keeping | 35 | min per group |  | Hydrogen Peroxide (0.5ml/ samp)  Optima | 25 | 0.83083 | 20.7708
+  Bring samples to final volume  cap and shake | 2 | min per sample |  | Bottles, 4 oz. wide-mouth HDPE w/closure | 1 | 0.48543 | 0.48543
+   |  |  |  | SubTotal |  |  | 91.4679
+   |  |  | Unit Cost for Labor | Total Cost for Labor | TOTAL PREP COST PER BATCH |  |  | Prep Cost Per Sample | N
+  External UConn Labor Rates |  |  |  |  | External Cost |  | 393.724 | 19.6862 | 20
+  Total Labor - Sniega | 249 | mins per group | 1.21388 | 302.256 | State/Federal Cost |  | 272.822 | 13.6411 | 20
+  Internal Full Service |  |  |  |  | Grad/Walkup Cost |  | 106.034 | 5.30172 | 20
+  Total Labor - Sniega | 249 | mins per group | 0.728328 | 181.354
+  Internal Grad Assisted Rates
+  Total Labor - Sniega - Supervision  | 20 | mins per group | 0.728328 | 14.5666
+  Grad Student Labor | 249 | mins per group | 0 | 0
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Analysis Costs
+────────────────────────────────────────────────────────────────────────────────
+  Mercury Analysis by CVAAS
+  Analysis of 1 sample that will include: Blank, Cal Std 1-5, icb, icv, ccb1, ccv1, PQL, PB,LCS,DUP,SPK.
+  Total Samples per Batch: | 33 |  | Number of Actual Samples: | 20
+  CVAAS Analysis |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+   |  |  |  | Gloves | 8 | 0.074998 | 0.599984
+  Daily Optimization Procedure | 10 | min per group | CVAAS
+  Preparation of Inst. Stds. | 10 | min per group
+  Transfer samples to poly tubes | 1 | min per sample |  | Pipette tips | 33 | 0.046321 | 1.52859
+  Sample Dilution (sample dependent - assume 10% dilution) | 1 | min per sample
+  Data Review and Reporting | 30 | min per group
+   |  |  |  | Tin Chloride | 11 | 0.313324 | 3.44656
+  Grad Supervision | 30 | min per group |  | Nitric Acid, trace metal | 8 | 0.067738 | 0.541904
+  1 metal (+ possible interferences sources) | 2 | min per sample |  | HCL, trace metal | 25 | 0.0665544 | 1.66386
+   |  |  |  | Instrument Consuambles | 1 | 3.4128 | 3.4128
+   |  |  |  | Gasses | 33 | 0 | 0
+   |  |  | Unit Cost for Labor | Total Cost for Labor | Total consumables/ Batch |  | 11.1937
+  External UConn Labor Rates |  |  |  |  | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Staff - Sniega | 151 | mins per group | 1.21388 | 183.296 | External Cost |  | 194.49 | 9.72448 | 20
+  Internal Full Service |  |  |  |  | State/Federal Cost |  | 121.171 | 6.05856 | 20
+  Staff - Sniega | 151 | mins per group | 0.728328 | 109.978 | Grad/Walkup Cost |  | 33.0435 | 1.65218 | 20
+  Internal Grad Assisted Rates
+  Staff - Sniega - Supervision | 30 | mins per group | 0.728328 | 21.8498
+  Graduate Student | 151 | mins per group | 0 | 0
+  Elemental Analysis by ICP-OES
+  Analysis of 1 sample that will include: Blank, Cal Std, Int std, icb, icv, icsa, ccb1, ccv1, PQL, PB,LCS,DUP,SPK.
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+  ICP-OES |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+   |  |  |  | Gloves- average of 3-4 pairs per batch | 8 | 0.074998 | 0.599984
+  Daily Optimization Procedure | 10 | min per group | ICP-OES
+  Preparation of Inst. Stds. | 10 | min per group |  | Sampe Tubes | 30 | 0.203544 | 6.10632
+  Transfer samples to poly tubes | 1 | min per sample |  | pipet tips | 30 | 0.046321 | 1.38963
+  Sample Dilution (sample dependent - assume 10% dilution) | 1 | min per sample
+  Data Review and Reporting | 30 | min per group |  | ICS A+B | 0.25 | 1.8788 | 0.4697
+   |  |  |  | QC Solutions | 0.25 | 4.4088 | 1.1022
+  1 metal (+ possible interferences sources) | 0.75 | min per sample |  | Argon Gasses | 200 | 0.00308572 | 0.617144
+  2 Metals (+ possible interferences sources) | 1.5 | min per sample |  | Trace Metal HNO3 | 12 | 0.067738 | 0.812856
+   |  |  |  | Internal Std. (Yt/Sc) | 1 | 1.287 | 1.287
+  Grad Supervision - 1 elements | 30 | min per group |  | Instrument Consuambles | 10 | 3.49173 | 34.9173
+  Grad Supervision - 2 elements | 40 | min per group |  | Nitrogen Gasses | 200 | 0.000696833 | 0.139367
+   |  |  | Unit Cost for Labor | Total Cost for Labor | Total consumables/ Batch |  | 47.4415
+  External UConn Labor Rates |  |  |  |  | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  1 Metal- Staff - Sniega | 105.5 | mins per group | 1.21388 | 128.064 | External Cost
+  2 Metals- Staff - Sniega | 128 | mins per group | 1.21388 | 155.377 | 1 | element | 175.506 | 8.77529 | 20
+   |  |  |  |  | 2 | elements | 202.818 | 10.1409 | 20
+  Internal Full Service
+  1 Metal- Staff - Sniega | 105.5 | mins per group | 0.728328 | 76.8386 | Each addl | element |  | 1.36561
+  2 Metals- Staff - Sniega | 128 | mins per group | 0.728328 | 93.226 | State/Federal Cost
+   |  |  |  |  | 1 | element | 124.28 | 6.21401 | 20
+  Internal Grad Assisted Rates |  |  |  |  | 2 | elements | 140.667 | 7.03337 | 20
+  1- Metal -Staff - Sniega - Supervision | 30 | mins per group | 0.728328 | 21.8498 | Each addl | element |  | 0.819369 | 20
+  1- Metal - Graduate Student | 105.5 | mins per group | 0 | 0 | Grad/Walkup Cost
+  2- Metal -Staff - Sniega - Supervision | 40 | mins per group | 0.728328 | 29.1331 | 1 | element | 69.2914 | 3.46457 | 20
+  2- Metal - Graduate Student | 128 | mins per group | 0 | 0 | 2 | elements | 76.5746 | 3.82873 | 20
+   |  |  |  |  | Each addl | element |  | 0.364164
+  Elemental Analysis by ICP-MS
+  Analysis of 1 sample that will include: Blank, stds 1,2,3, icb, icv, icsa, icsb, ccb1, ccv1, PQL, PB,LCS,DUP,SPK.
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+  ICP-MS analysis |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+   |  |  |  | Gloves- average of 2-3 pairs per batch | 8 | 0.074998 | 0.599984
+  Daily Optimization Procedure | 20 | min per group | ICP-MS | Centrrfuge Tubes | 12 | 0.203544 | 2.44253
+  Preparation of Inst. Stds. | 10 | min per group |  | Sampe Tubes | 30 | 0.203544 | 6.10632
+  Transfer samples to poly tubes | 1 | min per sample |  | pipet tips | 30 | 0.046321 | 1.38963
+  Sample Dilution (sample dependent - assume 10% dilution) | 1 | min per sample
+  Data Review and Reporting | 30 | min per group |  | MCS A+B | 0.5 | 4.334 | 2.167
+   |  |  |  | ICS A+B | 0.5 | 2.0152 | 1.0076
+   |  |  |  | ICP-MS Consumables - Time based | 10 | 4.60139 | 46.0139
+  1 metal (+ possible interferences sources) | 0.75 | min per sample |  | Nitrogen Gasses | 200 | 0.000696833 | 0.139367
+  2 Metals (+ possible interferences sources) | 1.5 | min per sample |  | Optima HNO3 | 20 | 0.821986 | 16.4397
+   |  |  |  | Optima HCl | 5 | 0.0665544 | 0.332772
+  Grad Supervision - 1 elements | 45 | min per group |  | ICP MSInternal Std. | 1 | 1.298 | 1.298
+  Grad Supervision - 2 elements | 60 | min per group |  | Argon Gasses | 200 | 0.00308572 | 0.617144
+   |  |  | Unit Cost for Labor | Total Cost for Labor | Total Consumables/Batch |  | 78.554
+  External UConn Labor Rates |  |  |  |  | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  1 Metal- Staff - Sniega | 115.5 | mins per group | 1.21388 | 140.203 | External Cost
+  2 Metals- Staff - Sniega | 138 | mins per group | 1.21388 | 167.515 | 1 | element | 218.757 | 10.9379 | 20
+   |  |  |  |  | 2 | elements | 246.069 | 12.3035 | 20
+  Internal Full Service
+  1 Metal- Staff - Sniega | 115.5 | mins per group | 0.728328 | 84.1219 | Each addl | element |  | 1.36561
+  2 Metals- Staff - Sniega | 138 | mins per group | 0.728328 | 100.509 | State/Federal Cost
+   |  |  |  |  | 1 | element | 162.676 | 8.13379 | 20
+  Internal Grad Assisted Rates |  |  |  |  | 2 | elements | 179.063 | 8.95316 | 20
+  1- Metal -Staff - Sniega - Supervision | 45 | mins per group | 0.728328 | 32.7748 | Each addl | element |  | 0.819369
+  1- Metal - Graduate Student | 115.5 | mins per group | 0 | 0 | Grad/Walkup Cost
+  2- Metal -Staff - Sniega - Supervision | 60 | mins per group | 0.728328 | 43.6997 | 1 | element | 111.329 | 5.56644 | 20
+  2- Metal - Graduate Student | 138 | mins per group | 0 | 0 | 2 | elements | 122.254 | 6.11268 | 20
+   |  |  |  |  | Each addl | element |  | 0.546246
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Depreciation & Admin Costs
+────────────────────────────────────────────────────────────────────────────────
+  Depreciation FY26
+   | Total Depreciation  | Average Elements Per Sample | Total Samples FY25 | Depreciation per sample (CVAAS) | Depreciation per Element (ICP/ICPMS) | UC Tag #s | Depreciated Date
+  ICP-MS  Perkin Elmer Nexion 2200 | 14982.5 | 7 | 1500 | 9.98833 | 1.4269 | K09350 | 2034-01-01 00:00:00
+  ICP-OES | 0 | 7 | 1500 | 0 | 0 |  | Fully Depreciated
+  CVAAS | 0 | 1 | 150 | 0 | 0 |  | Fully Depreciated
+  Hot Blocks | 0 |  | 3150 | 0 |  |  | Fully Depreciated
+  Quality Assurance/ Lab Support Services Costs
+  QA/ Lab Support FY26
+   | Total Expense  | Average Elements Per Sample | Total Samples FY25 | Expense per sample (CVAAS) | Expense per Element (ICP/ICPMS)
+  Total Cost - External Clients | 19827.2 | 7 | 6300 | 3.14718 | 0.449597
+  Total Cost - UConn Clients | 11896.3 | 7 | 6300 | 1.88831 | 0.269758
+  Staff and Department Admin Costs FY26
+   | Total Expense  | Average Elements Per Sample | Total Samples FY25 | Expense per sample (CVAAS) | Expense per Element (ICP/ICPMS)
+  Total Cost - External Clients | 48692.1 | 7 | 6300 | 7.7289 | 1.10413
+  Total Cost - UConn Clients | 29215.2 | 7 | 6300 | 4.63734 | 0.662477
+   | Organics Lab | Analytical | Laboratory QA  | Laboratory Admin |  |  | Salary
+  Staff and Lab Allocation | Allocation | Salary & FB | Salary & FB | Salary & FB | Salary | Fringe Benefits (FB @27.8%/31.2%) | & FB | % CESE Labs Salary Allocation
+  Sarah Bothell -25% | 0.25 |  |  | 14170.4 | 86405 | 26958.4 | 113363 | 0.5
+  Chris Perkins-25% (12.5%/12.5%) | 0.25 |  | 19827.2 | 19827.2 | 161197 | 50293.5 | 211490 | 0.75
+  Administrative Support (Vacant) - 25% | 0.25 |  |  | 14694.4 | 56000 | 17472 | 73472 | 0.5
+  Sniega Stapcinskaite-100% | 1 | 112672 |  |  | 88163 | 24509.3 | 112672 | 1
+   |  | Extternal Client Rates (100% of Salaries and Fringes) | 19827.2 | 48692.1
+   |  | UConn Internal Rate (60% of Full time Staff - Ledger 2 salaries removed) | 11896.3 | 29215.2
+   |  |  |  | QA and Administrative Lab Allocation
+   |  |  |  | 0.25 | Metals Lab Allocation
+   |  |  |  | 0.4 | Organics Lab Allocation
+   |  |  |  | 0.35 | Nutrients lab Allocation
+
+====================================================================================================
+FILE: CESE Nut Rates FY26 FINAL.xlsx
+====================================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Internal Pricing
+────────────────────────────────────────────────────────────────────────────────
+   | Center for Environmental Sciences & Engineering
+   | University of Connecticut
+   | 3107 Horsebarn Hill Road, Unit 4210
+   | Building 4 Annex
+   | Storrs, CT 06269-4210
+   | Phone: (860) 486-4015      Fax: (860) 486-2283
+   | Web Site: cese.uconn.edu
+  Nutrients Analysis Price List
+  Internal Pricing 
+  Environmental Analytical Testing Services
+  Effective Date: December 31, 2025
+  Test Name | Test Method | Method Detection Limit | External client
+  Nitrogen and Phosphorus
+  Ammonia (NH3) | EPA 350.1 | 0.003 (mg/l) | 6.57914
+  Nitrate+Nitrite (NOx) | EPA 353.2 | 0.003 (mg/l) | 6.57914
+  Nitrite (NO2) | EPA 353.2 | 0.003 (mg/l) | 6.57914
+  Orthophosphate (O-Phos) | EPA 365.1 | 0.001 (mg/l) | 6.57914
+  Any 2 above | See above | See above | 8.51237
+  Any 3 above | See above | See above | 10.4456
+  All 4 above | See above | See above | 12.3788
+  Total Phosphorus (TP) | EPA 365.1 | 0.002 (mg/l) | 7.46449
+  Total Nitrogen (TN) | EPA 353.2 | 0.008 (mg/l) | 7.46449
+  Total Nitrogen and Total Phosphorus | See above | See above | 9.39771
+  Total Dissolved Phosphorus (TDP) | EPA 365.1 | 0.002 (mg/l) | 9.0583
+  Total Dissolved Nitrogen (TDN) | EPA 353.2 | 0.008 (mg/l) | 9.0583
+  Total Dissolved Nitrogen and Total Dissolved Phosphorus | See above | See above | 10.9915
+  Nitrate (NO3) | By calculation | NOx - Nitrite | N/C*
+  Total Kjeldahl Nitrogen (TKN) | By calculation | Organic N + Ammonia | N/C*
+  Organic Nitrogen | By calculation | TN - (Ammonia + NOx) | N/C*
+  Particulate Nutrients - On Filters
+  Particulate Phosphorus (PP) | EPA 365.1 | 0.001 (mg/l) | 7.46449
+  Carbon | EPA 440.0 | 0.013 (mg/l) | 13.7105
+  Nitrogen | EPA 440.0 | 0.003 (mg/l) | 13.7105
+  Carbon and Nitrogen (CHN) | EPA 440.0 | See above | 14.2904
+  Silica Series
+  Total Silica | EPA 370.1 | 0.002 (mg/l) | 5.94095
+  Dissolved Silica | EPA 370.1 | 0.002 (mg/l) | 7.53476
+  Biogenic Silica | EPA 370.1 | 0.001 (mg/l) | 6.8263
+  Total and Biogenic Silica | EPA 370.1 | See above | 8.93599
+  Organic Carbon
+  Total Organic Carbon (TOC) |  |  | 5.85443
+  Dissolved Organic Carbon (DOC) |  |  | 7.44824
+  Ion Analysis
+  Chloride |  |  | 8.09125
+  Miscellaneous Analyses
+  Chlorophyll a | EPA 445.0 | 0.1 (ug/l) | 5.85367
+  Turbidity | EPA 180.1 | 0.1 NTU | 3.65805
+  Total Suspended Solids | EPA 160.2 | 3 (mg/l) | 6.69481
+  Total Solids | EPA 160.3 | 22 (mg/l) | 4.01086
+  Total Dissolved Solids | EPA 160.1 | 10 (mg/l) | 6.69481
+  pH | EPA 150.1 | N/A | 4.20986
+  Alkalinity | EPA 310.1 | 2 (mg/l) | 4.20986
+  pH and Alkalinity | EPA 150.1/310.1 | See above | 4.3831
+  Conductivity | EPA 415.1 | 0.5 (mg/l) | 3.25653
+  BOD NOx 30 day (The NOx analysis cost is extra) |  |  | 4.43595
+  * No additional charge if customer orders appropriate tests that make up the calculation.
+  Prices are subject to change without notice.
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Internal Enhanced Rep Pricing
+────────────────────────────────────────────────────────────────────────────────
+   | Center for Environmental Sciences & Engineering
+   | University of Connecticut
+   | 3107 Horsebarn Hill Road, Unit 4210
+   | Building 4 Annex
+   | Storrs, CT 06269-4210
+   | Phone: (860) 486-4015      Fax: (860) 486-2283
+   | Web Site: cese.uconn.edu
+  Nutrients Analysis Price List
+  Internal with Enhanced Reporting Pricing 
+  Environmental Analytical Testing Services
+  Effective Date: December 31, 2025
+  Test Name | Test Method | Method Detection Limit | External client
+  Nitrogen and Phosphorus
+  Ammonia (NH3) | EPA 350.1 | 0.003 (mg/l) | 11.2365
+  Nitrate+Nitrite (NOx) | EPA 353.2 | 0.003 (mg/l) | 11.2365
+  Nitrite (NO2) | EPA 353.2 | 0.003 (mg/l) | 11.2365
+  Orthophosphate (O-Phos) | EPA 365.1 | 0.001 (mg/l) | 11.2365
+  Any 2 above | See above | See above | 13.8415
+  Any 3 above | See above | See above | 16.4465
+  All 4 above | See above | See above | 19.0514
+  Total Phosphorus (TP) | EPA 365.1 | 0.002 (mg/l) | 13.1865
+  Total Nitrogen (TN) | EPA 353.2 | 0.008 (mg/l) | 13.1865
+  Total Nitrogen and Total Phosphorus | See above | See above | 15.7915
+  Total Dissolved Phosphorus (TDP) | EPA 365.1 | 0.002 (mg/l) | 16.647
+  Total Dissolved Nitrogen (TDN) | EPA 353.2 | 0.008 (mg/l) | 16.647
+  Total Dissolved Nitrogen and Total Dissolved Phosphorus | See above | See above | 19.252
+  Nitrate (NO3) | By calculation | NOx - Nitrite | N/C*
+  Total Kjeldahl Nitrogen (TKN) | By calculation | Organic N + Ammonia | N/C*
+  Organic Nitrogen | By calculation | TN - (Ammonia + NOx) | N/C*
+  Particulate Nutrients - On Filters
+  Particulate Phosphorus (PP) | EPA 365.1 | 0.001 (mg/l) | 13.1865
+  Carbon | EPA 440.0 | 0.013 (mg/l) | 26.0409
+  Nitrogen | EPA 440.0 | 0.003 (mg/l) | 26.0409
+  Carbon and Nitrogen (CHN) | EPA 440.0 | See above | 29.0305
+  Silica Series
+  Total Silica | EPA 370.1 | 0.002 (mg/l) | 10.8339
+  Dissolved Silica | EPA 370.1 | 0.002 (mg/l) | 16.2444
+  Biogenic Silica | EPA 370.1 | 0.001 (mg/l) | 12.7839
+  Total and Biogenic Silica | EPA 370.1 | See above | 16.3754
+  Organic Carbon
+  Total Organic Carbon (TOC) |  |  | 19.304
+  Dissolved Organic Carbon (DOC) |  |  | 22.7645
+  Ion Analysis
+  Chloride |  |  | 15.072
+  Miscellaneous Analyses
+  Chlorophyll a | EPA 445.0 | 0.1 (ug/l) | 11.7602
+  Turbidity | EPA 180.1 | 0.1 NTU | 7.43431
+  Total Suspended Solids | EPA 160.2 | 3 (mg/l) | 10.3661
+  Total Solids | EPA 160.3 | 22 (mg/l) | 7.29886
+  Total Dissolved Solids | EPA 160.1 | 10 (mg/l) | 10.3661
+  pH | EPA 150.1 | N/A | 9.70443
+  Alkalinity | EPA 310.1 | 2 (mg/l) | 9.70443
+  pH and Alkalinity | EPA 150.1/310.1 | See above | 11.4875
+  Conductivity | EPA 415.1 | 0.5 (mg/l) | 7.63278
+  BOD NOx 30 day (The NOx analysis cost is extra) |  |  | 37.7326
+  * No additional charge if customer orders appropriate tests that make up the calculation.
+  Prices are subject to change without notice.
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: External Pricing
+────────────────────────────────────────────────────────────────────────────────
+   | Center for Environmental Sciences & Engineering
+   | University of Connecticut
+   | 3107 Horsebarn Hill Road, Unit 4210
+   | Building 4 Annex
+   | Storrs, CT 06269-4210
+   | Phone: (860) 486-4015      Fax: (860) 486-2283
+   | Web Site: cese.uconn.edu
+  Nutrients Analysis Price List
+  External Pricing (includes IDC)
+  Environmental Analytical Testing Services
+  Effective Date: December 31, 2025
+  Test Name | Test Method | Method Detection Limit | External client
+  Nitrogen and Phosphorus
+  Ammonia (NH3) | EPA 350.1 | 0.003 (mg/l) | 18.822
+  Nitrate+Nitrite (NOx) | EPA 353.2 | 0.003 (mg/l) | 18.822
+  Nitrite (NO2) | EPA 353.2 | 0.003 (mg/l) | 18.822
+  Orthophosphate (O-Phos) | EPA 365.1 | 0.001 (mg/l) | 18.822
+  Any 2 above | See above | See above | 23.4467
+  Any 3 above | See above | See above | 28.0715
+  All 4 above | See above | See above | 32.6962
+  Total Phosphorus (TP) | EPA 365.1 | 0.002 (mg/l) | 22.3962
+  Total Nitrogen (TN) | EPA 353.2 | 0.008 (mg/l) | 22.3962
+  Total Nitrogen and Total Phosphorus | See above | See above | 27.0209
+  Total Dissolved Phosphorus (TDP) | EPA 365.1 | 0.002 (mg/l) | 28.404
+  Total Dissolved Nitrogen (TDN) | EPA 353.2 | 0.008 (mg/l) | 28.404
+  Total Dissolved Nitrogen and Total Dissolved Phosphorus | See above | See above | 33.0287
+  Nitrate (NO3) | By calculation | NOx - Nitrite | N/C*
+  Total Kjeldahl Nitrogen (TKN) | By calculation | Organic N + Ammonia | N/C*
+  Organic Nitrogen | By calculation | TN - (Ammonia + NOx) | N/C*
+  Particulate Nutrients - On Filters
+  Particulate Phosphorus (PP) | EPA 365.1 | 0.001 (mg/l) | 22.3962
+  Carbon | EPA 440.0 | 0.013 (mg/l) | 50.9758
+  Nitrogen | EPA 440.0 | 0.003 (mg/l) | 50.9758
+  Carbon and Nitrogen (CHN) | EPA 440.0 | See above | 58.5328
+  Silica Series
+  Total Silica | EPA 370.1 | 0.002 (mg/l) | 18.5139
+  Dissolved Silica - includes Filtration | EPA 370.1 | 0.002 (mg/l) | 27.6612
+  Biogenic Silica | EPA 370.1 | 0.001 (mg/l) | 25.6623
+  Total and Biogenic Silica | EPA 370.1 | See above | 28.474
+  Organic Carbon
+  Total Organic Carbon (TOC) |  |  | 42.0576
+  Dissolved Organic Carbon (DOC) - includes Filtration if needed |  |  | 48.0654
+  Ion Analysis
+  Chloride |  |  | 28.4885
+  Miscellaneous Analyses
+  Chlorophyll a - includes Filtration if needed | EPA 445.0 | 0.1 (ug/l) | 25.1754
+  Turbidity | EPA 180.1 | 0.1 NTU | 12.5085
+  Total Suspended Solids | EPA 160.2 | 3 (mg/l) | 16.7924
+  Total Solids | EPA 160.3 | 22 (mg/l) | 11.854
+  Total Dissolved Solids | EPA 160.1 | 10 (mg/l) | 16.7924
+  pH | EPA 150.1 | N/A | 16.5999
+  Alkalinity | EPA 310.1 | 2 (mg/l) | 16.5999
+  pH and Alkalinity | EPA 150.1/310.1 | See above | 20.222
+  Conductivity | EPA 415.1 | 0.5 (mg/l) | 12.8281
+  BOD NOx 30 day (also add the associated NOx analysis cost) |  |  | 77.5681
+  * No additional charge if customer orders appropriate tests that make up the calculation.
+  Prices are subject to change without notice.
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Costs Calculations
+────────────────────────────────────────────────────────────────────────────────
+  Center for Environmental Sciences & Engineering (CESE)
+  Nutrients Division Rates
+  2025-11-18 00:00:00
+   |  |  |  |  |  |  |  |  |  |  |  | Internal Enhanced |  |  | TN/ TP/ BioS/ PP | No Digestion |  | TN/ TP/ BioS/ PP | No Digestion | TN/ TP/ BioS/ PP | No Digestion | TN/ TP/ BioS/ PP | No Digestion
+   |  |  | Internal Enhanced | External | Internal | Internal Enhanced | External | Internal | Internal Enhanced | External | Internal | QA/Admin | External | Internal | Total Analysis | Total  | DEP | Total Analysis | Total  | Total Analysis | Total  | Total Analysis | Total 
+  Parameter | Tests | Instrument | Analysis Cost | Analysis Cost | Analysis Cost |  Prep Cost | Prep Cost |  Prep Cost | Depreciation | Depreciation | Depreciation | (See Note) | QA/Admin | QA/Admin | Internal Enhanced | Internal Enhanced | Cost | External (No IDC) | External (No IDC)  | Internal | Internal | External (with 61% IDC) | External (with 61% IDC)
+  Nitrogen and Phosphorus | Individual | Seal | 6.39244 | 7.59595 | 3.98313 | 1.95 | 2.22 | 0.885346 | 0.347962 | 0.347962 | 0.347962 | 4.49609 | 3.74674 | 2.24805 | 13.1865 | 11.2365 | 13.4838 | 13.9107 | 11.6907 | 7.46449 | 6.57914 | 22.3962 | 18.822
+   | 2 Tests |  | 8.30297 | 9.83176 | 5.5684 | 1.95 | 2.22 | 0.885346 | 0.695925 | 0.695925 | 0.695925 | 4.84258 | 4.03548 | 2.24805 | 15.7915 | 13.8415 | 16.6098 | 16.7832 | 14.5632 | 9.39771 | 8.51237 | 27.0209 | 23.4467
+   | 3 Tests (Trio) |  | 10.2135 | 12.0676 | 7.15366 | 1.95 | 2.22 | 0.885346 | 1.04389 | 1.04389 | 1.04389 | 5.18906 | 4.32422 | 2.24805 | 18.3965 | 16.4465 | 19.7358 | 19.6557 | 17.4357 | 11.3309 | 10.4456 | 31.6457 | 28.0715
+   | 4 Tests (Quad) |  | 12.124 | 14.3034 | 8.73892 | 1.95 | 2.22 | 0.885346 | 1.39185 | 1.39185 | 1.39185 | 5.53555 | 4.61296 | 2.24805 | 21.0014 | 19.0514 |  | 22.5282 | 20.3082 | 13.2642 | 12.3788 | 36.2704 | 32.6962
+   | Preparation for TN/TP |  | 0 | 0 | 0 | 1.95 | 2.22 | 0.885346 | 0 | 0 | 0 | 0 | 0 | 0 | 1.95 | N/A |  | 2.22 | N/A | 0.885346 | N/A | 3.5742 | N/A
+  Silica | Individual | Seal | 5.98985 | 7.40462 | 3.34494 | 1.95 | 2.22 | 0.885346 | 0.347962 | 0.347962 | 0.347962 | 4.49609 | 3.74674 | 2.24805 | 12.7839 | 10.8339 | 13.0007 | 13.7193 | 11.4993 | 6.8263 | 5.94095 | 22.0881 | 18.5139
+   | Dissolved individual |  | 5.98985 | 7.40462 | 3.34494 | 1.95 | 2.22 | 0.885346 | 0.347962 | 0.347962 | 0.347962 | 4.49609 | 3.74674 | 2.24805 |  | 16.2444 | 19.4933 |  | 17.1809 |  | 8.42011 | 0 | 27.6612
+   | 2 Tests |  | 6.93692 | 8.51431 | 4.04809 | 1.95 | 2.22 | 0.885346 | 0.695925 | 0.695925 | 0.695925 | 4.84258 | 4.03548 | 2.42129 | 14.4254 | 12.4754 | 14.9705 | 15.4657 | 13.2457 | 8.05065 | 7.1653 | 24.8998 | 21.3256
+   | Preparation for Biogenic Si |  | 0 | 0 | 0 | 1.95 | 2.22 | 0.885346 | 0 | 0 | 0 | 0 | 0 | 0 | 1.95 | N/A |  | 2.22 | N/A | 0.885346 | N/A | 3.5742 | N/A
+  Anions  | Individual - Cl | IC/Titration | 10.576 | 13.948 | 5.84321 | 0 | 0 | 0 | 0 | 0 | 0 | 4.49609 | 3.74674 | 2.24805 |  | 15.072 | 18.0865 |  | 17.6947 |  | 8.09125 | 0 | 28.4885
+   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 |  | 0
+  Organic Carbon | Total (TOC) or Dissolved (DOC) | TOC | 14.8079 | 22.376 | 3.60638 | 0 | 0 | 0 | 0 | 0 | 0 | 4.49609 | 3.74674 | 2.24805 |  | 19.304 | 23.1648 |  | 26.1227 |  | 5.85443 | 0 | 42.0576
+  Particulate Carbon/Nitrogen | Individual | CHN | 18.8467 | 25.2171 | 8.76432 | 0 | 0 | 0 | 2.69818 | 2.69818 | 2.69818 | 4.49609 | 3.74674 | 2.24805 |  | 26.0409 | 31.2491 |  | 31.662 |  | 13.7105 | 0 | 50.9758
+   | 2 Compounds |  | 21.4897 | 29.6221 | 9.17094 | 0 | 0 | 0 | 2.69818 | 2.69818 | 2.69818 | 4.84258 | 4.03548 | 2.42129 |  | 29.0305 | 34.8365 |  | 36.3558 |  | 14.2904 | 0 | 58.5328
+  pH | Individual | Probe | 5.20834 | 6.56375 | 1.96181 | 0 | 0 | 0 | 0 | 0 | 0 | 4.49609 | 3.74674 | 2.24805 |  | 9.70443 |  |  | 10.3105 |  | 4.20986 | 0 | 16.5999
+  Alkalinity | Individual | Titrator | 5.20834 | 6.56375 | 1.96181 | 0 | 0 | 0 | 0 | 0 | 0 | 4.49609 | 3.74674 | 2.24805 |  | 9.70443 | 11.6453 |  | 10.3105 |  | 4.20986 | 0 | 16.5999
+  pH and Alkalinity | Individual | Titrator | 6.64488 | 8.81353 | 1.96181 | 0 | 0 | 0 | 0 | 0 | 0 | 4.84258 | 3.74674 | 2.42129 |  | 11.4875 |  |  | 12.5603 |  | 4.3831 | 0 | 20.222
+  Total Suspended/Dissolved Solids | Individual | N/A | 5.87005 | 6.68329 | 4.44676 | 0 | 0 | 0 | 0 | 0 | 0 | 4.49609 | 3.74674 | 2.24805 |  | 10.3661 | 12.4394 |  | 10.43 |  | 6.69481 | 0 | 16.7924
+  Total Solids | Individual | N/A | 2.80277 | 3.61601 | 1.76281 | 0 | 0 | 0 | 0 | 0 | 0 | 4.49609 | 3.74674 | 2.24805 |  | 7.29886 | 8.75863 |  | 7.36275 |  | 4.01086 | 0 | 11.854
+  Turbidity | Individual | Turbidimeter | 2.93821 | 4.02254 | 1.41 | 0 | 0 | 0 | 0 | 0 | 0 | 4.49609 | 3.74674 | 2.24805 |  | 7.43431 | 8.92117 |  | 7.76928 |  | 3.65805 | 0 | 12.5085
+  Conductivity | Individual | Probe | 3.13669 | 4.22101 | 1.00849 | 0 | 0 | 0 | 0 | 0 | 0 | 4.49609 | 3.74674 | 2.24805 |  | 7.63278 |  |  | 7.96776 |  | 3.25653 | 0 | 12.8281
+  Chlorophyll a | Individual | Fluorimeter | 7.26411 | 8.15859 | 3.60562 | 0 | 0 | 0 | 0 | 0 | 0 | 4.49609 | 3.74674 | 2.24805 |  | 11.7602 | 14.1122 |  | 11.9053 |  | 5.85367 | 0 | 19.1676
+  Sample Filtration (if needed)* | Individual | N/A | 3.46048 | 3.73156 | 1.59381 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |  | 3.46048 |  |  | 3.73156 |  | 1.59381 | 0 | 6.00781
+  BOD 30 Day | Individual | DO Meter | 33.2365 | 44.4322 | 2.1879 | 0 | 0 | 0 | 0 | 0 | 0 | 4.49609 | 3.74674 | 2.24805 |  | 37.7326 | 45.2791 |  | 48.1789 |  | 4.43595 | 0 | 77.5681
+  * Part of another test so no Department Costs added |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2025-11-18 00:00:00
+  Note: Due to more rigorous reporting and data management requirements for the State of Connecticut and Federal Agency Contracts, the QA/Admins costs are twice that of other clientsand are reflective as a surcharge in that cost structure
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Admin and Depreciation
+────────────────────────────────────────────────────────────────────────────────
+  Depreciation FY26
+   | Total Depreciation  | Total tests FY25 | Total Samples FY25 | Depreciation per sample | Depreciation per test | UC Tag #s |  | Depreciated Date
+  Seal Analytical | 7394.2 | 21250 | 8500 | 0.869906 | 0.347962 | K07920 |  | 2032-12-17 00:00:00
+  IC | 0 | 450 | 450 | 0 | 0 | K03683 |  | 2025-07-24 00:00:00
+  Titrator | 0 | 1248 | 624 | 0 | 0 | K01243 |  | 2021-05-01 00:00:00
+  Fluorimeter | 0 | 1020 | 1020 | 0 | 0 | W43355 |  | 2019-07-01 00:00:00
+  CHN - Perkin Elmer | 2968 | 1100 | 1100 | 2.69818 | 2.69818 | K07998 |  | 2032-03-11 00:00:00
+  BOD Meter and Probe | 230 | 1200 | 1200 | 0.191667 | 0.191667 |  |  | 2033-01-01 00:00:00
+  Turbidity | 0 | 280 | 280 | 0 | 0
+  Filtration (TSS/ TS) | 0 | 1100 | 1100 | 0 | 0
+  Autoclave | 0 | 4250 | 8500 | 0 | 0 | W38138 / Z74528 |  | 2019-07-01 00:00:00
+  TOC | 0 | 1260 | 1260 | 0 | 0 | K01305 |  | 2022-05-01 00:00:00
+  QA/ Lab Support FY26
+   | Total Expense  |  | Total Samples FY25 |  | Expense per test
+  Total Cost - Service Clients | 27758.1 |  | 24034 |  | 1.15495
+  Total Cost - Faculty Clients | 16654.9 |  | 24034 |  | 0.692971
+  Staff and Department Admin Costs FY26
+   | Total Expense  |  | Total Samples FY25 |  | Expense per test
+  Total Cost - Service Clients | 62291.1 |  | 24034 |  | 2.59179
+  Total Cost - Faculty Clients | 37374.7 |  | 24034 |  | 1.55507
+   | Nutrients Lab | Analytical | Laboratory QA  | Laboratory Admin |  |  | Salary
+   | Allocation | Salary & FB | Salary & FB | Salary & FB | Salary | Fringe Benefits (FB @27.8%/31.2%) | & FB | % Lab Effort
+  Sarah Bothell-35% | 0.35 |  |  | 19838.6 | 86405 | 26958.4 | 113363 | 0.5
+  Chris Perkins-35% (17.5%/17.5%) | 0.35 |  | 27758.1 | 27758.1 | 161197 | 50293.5 | 211490 | 0.75
+  Administrative Support (Vacant) - 35% | 0.35 |  |  | 14694.4 | 56000 | 17472 | 73472 | 0.5
+  Stephanie Kexel - 100% | 1 | 125809 |  |  | 98442 | 27366.9 | 125809 | 1
+  Sarah Ayers-100% | 1 | 75471 |  |  | 59054 | 16417 | 75471 | 1
+   |  | Service Client Rates (100% of Salaries and Fringes) | 27758.1 | 62291.1
+   |  | UConn Faculty Rate (60% of Full time Staff - Ledger 2 salaries removed) | 16654.9 | 37374.7
+   |  |  | . | QA and Administrative Lab Allocation
+   |  |  |  | 0.25 | Metals Lab Allocation
+   |  |  |  | 0.4 | Organics Lab Allocation
+   |  |  |  | 0.35 | Nutrients
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: consumable unit costs
+────────────────────────────────────────────────────────────────────────────────
+   |  |  |  | Adjusted |  |  |  |  | Supplier and Item Number
+  Consumables | Unit Price | Container | Units | Price | Unit Cost | Notes | linked | comments
+  Minerals, WasteWatR (alkalinity, IC, TSS)  (506) | 131 | 500 | ml | 144.1 | 0.2882 | x | x | 24.25 Shipping | ERA
+  Turbidity, PotableWatR | 105 | 500 | ml | 115.5 | 0.231 | x | x | 24.25 Shipping | ERA
+  Phosphorous Stds  1000 PPM  500ml | 34 | 100 | ml | 37.4 | 0.374 | x | x | x
+  Ammonium as Nitrogen Cation Std | 45 | 100 | ml | 49.5 | 0.495 | x |  | x | AccuStandard
+  Chloride; Sulfate; Nitrate as Nitrogen; Phosphate as Phosphorous Anion Std | 45 | 100 | ml | 49.5 | 0.495 | x | x | x | AccuStandard
+  Ricca SiO2  120ml | 46.4 | 120 | ml | 51.04 | 0.425333 | x |  | x | Fisher
+  Silica 1000 PPM  120ml | 82.42 | 500 | ml | 90.662 | 0.181324 | x |  | x | Fisher
+  Acetone HPLC grade  | 74.88 | 4000 | ml | 82.368 | 0.020592 | x | x | x | Fisher
+  Acetanilide 2G | 1830 | 2000 | mg | 2013 | 1.0065 | x | x | x | Perkin Elmer, Contact for price | check sigma
+  Sulfanilimide  98%  500g | 104.14 | 500 | g | 114.554 | 0.229108 | x | x | x
+  Phenol Crystals ACS 500g | 181.99 | 500 | g | 200.189 | 0.400378 | x | x | x
+  Oxalic Acid 500g | 103.57 | 500 | g | 113.927 | 0.227854 | x | x | x | Sigma 247537-500G
+  Ammonium Hydroxide 2.5L | 77.06 | 2500 | ml | 84.766 | 0.0339064 | x | x | x
+  Ammonium Molybdate Tetrahydrate  500g | 162.36 | 500 | g | 178.596 | 0.357192 | x | x | x
+  Hydrochloric Acid   2.5L | 43.64 | 2500 | ml | 48.004 | 0.0192016 | x | x | x
+  Sulfuric Acid N50 | 36.4 | 1000 | ml | 40.04 | 0.04004 | x |  | x | Fisher SA226-4
+  Sulfuric Acid | 121.96 | 4000 | ml | 134.156 | 0.033539
+  Potassium Persulfate ACS low Nitrite | 69.71 | 500 | g | 76.681 | 0.153362 | x |  | x
+  Sodium Ethelenedimintetac (EDTA) ACS 500g | 295.71 | 500 | g | 325.281 | 0.650562 | x |  | x
+  Sodium Dodecyl Sulphate, 100g | 70.48 | 100 | g | 77.528 | 0.77528 | x | x | x
+  L-Ascorbic Acid  500g | 104.85 | 500 | g | 115.335 | 0.23067 | x |  | x | Fisher AA3623736
+  Filters, Polycarbonate  (PCTE) 47mm  100/pk | 196.12 | 100 | ea | 215.732 | 2.15732 | x |  | x | Fisher 18-400-193
+  Scintillation Vials, 20mL | 199.78 | 1000 | ea | 219.758 | 0.219758 |  |  |  | Fisher 03-337-23
+  Cytiva Whatman Microfiber Filter | 94.7 | 100 | pk | 104.17 | 1.0417 |  |  |  | 09-874-71
+  Filters, Syringe, Nylon Membrane | 209.89 | 150 | pk | 230.879 | 1.53919
+  Filters, PP syringe | 88.05 | 50 | pk | 96.855 | 1.9371 |  |  |  | 09-719-007
+  Syringe Filters, Sterile | 309.32 | 100 | pk | 340.252 | 3.40252 |  |  |  | 09-719-008
+  Filter, PCTE, Plain Hydrophillic | 230.37 | 100 | pk | 253.407 | 2.53407 |  |  |  | 09-720-4
+  TSS glass microfiber filters | 109.81 | 100 | pk | 120.791 | 1.20791 |  |  |  | 09-924-451
+  Filter, ProWeigh gravimetric analysis | 212.17 | 100 | pk | 233.387 | 2.33387 |  |  |  | 09-735-59
+  IC Filter Caps  5ml (250/pk) | 155.25 | 250 | ea | 170.775 | 0.6831 | x | x | x
+  Finnitip Pipette Tips  (.2-10ul)  960/pk | 393.75 | 3840 | pk | 433.125 | 0.112793 | x | x | z
+  Pipettes  10ml  500/cs | 67.63 | 500 | ml | 74.393 | 0.148786 | x | x | x
+  BD Syringes Luer Lock  10ml  850/pk | 153.8 | 1200 | ea | 169.18 | 0.140983 | x | x | x
+  BD Syringes Luer Lock  5ml  125/pk | 11.82 | 100 | ea | 13.002 | 0.13002 | x | x | old price
+  Flat Tin Discs 100/PK | 198.9 | 100 | ea | 218.79 | 2.1879 | x | x | x
+  Test Tubes, Disposable Glass | 76.19 | 1000 | pk | 83.809 | 0.083809
+  Test Tubes, TOC   16x100mm   1000/cs; Test Tubes, Lachat | 49 | 1000 | ea | 53.9 | 0.0539 | x | x | x
+  Tubes, Digestion  750/cs | 231 | 750 | ea | 254.1 | 0.3388 | x | x | x | SCP 010-500-263
+  Test Tubes 12mm x 75mm (Fluorometer) | 71.9 | 100 | cs | 79.09 | 0.7909 | x
+  Tubes, Nonsterile plastic  13x100mm  1000/cs | 124.7 | 1000 | ea | 137.17 | 0.13717 | x |  | x
+  Weighing Dishes | 42.63 | 250 | ea | 46.893 | 0.187572 | x | x | x
+  Gloves, Nitrile | 61.88 | 1000 | ea | 68.068 | 0.068068 | x | x | x
+  Sodium Hydroxide | 158.9 | 2500 | g | 174.79 | 0.069916 | x | x | x
+  Sodium Nitroprusside | 93.14 | 100 | g | 102.454 | 1.02454 | x |  | x
+  sodium hypochlorite (bleach) | 62.89 | 1000 | ml | 69.179 | 0.069179 | x |  | x
+  N-1-napthylethylenediamine dihydrochloride (NED) | 158.45 | 25 | g | 174.295 | 6.9718 | x |  | x
+  phosphoric acid | 57.26 | 2000 | ml | 62.986 | 0.031493 | x | x | x
+  Nitrite Nitrogen Std 1000ppm (3285 NO2-), Ricca | 81.07 | 120 | mL | 89.177 | 0.743142 |  |  |  | R5444900120
+  Nitrite Nitrogen Std 1000ppm (4427 NO3-), Ricca | 41.2 | 120 | mL | 45.32 | 0.377667 |  |  |  | R5307900120
+  Personnel Cost  | FY26 | FY26 | Units | Cost | Unit Cost | Notes |  |  | Updated 7/26/25
+  Service Client Rates (100% of Salaries and Fringes)
+  Stephanie | 44.2 wks @35 hrs/wk | 92820 | mins | 125809 | 1.35541 |  |  | x |  | Salary & Fringes/Longevity Pay & Fringes (excludes vacation, sick, personal time)
+  Sarah | 44.2 wks @35 hrs/wk | 92820 | mins | 75471 | 0.81309
+  Students (3) |  | 60 | mins | 20 | 0.333333 |  |  | x
+  Internal to UConn Faculty Rate (60% of Permanenet Employees - Ledger 2 salaries removed)
+  Stephanie | 44.2 wks @35 hrs/wk | 92820 | mins | 75485.3 | 0.813244
+  Sarah | 44.2 wks @35 hrs/wk | 92820 | mins | 45282.6 | 0.487854
+  Students (3) |  | 60 | mins | 20 | 0.333333
+  Gasses | Unit Price/ Tank | Container | Units | Unit Cost |  | Notes
+  Oxygen - 300 | 204.1 | 3000 | mL | 0.0680333 |  |  |  | x
+  AIR Compressed - 300 | 75.88 | 3000 | mL | 0.0252933
+  Helium - 300 | 277.72 | 3000 | mL | 0.0925733 |  |  |  | x
+  Nitrogen UHP - 300 | 86.37 | 3000 | mL | 0.02879
+  Note: Used with Ion Chromatograph, TOC, CHN
+  Ion Chromatograph (IC Consumables) | Unit Price | Container | Units/Year | Adjusted Price | Total Cost | Notes
+  Column - AS9 | 2095.85 | 1 | 1 | 2305.43 | 2305.43 |  |  |  | NC9827902
+  Column- AS22 | 720.62 | 1 | 1 | 792.682 | 792.682
+  Pistons | 236.3 | 1 | 1 | 259.93 | 259.93 | Dionex |  |  | NC0018667
+  Position Guide | 103.14 | 1 | 1 | 113.454 | 113.454
+  Nuts, Bolts, o-Rings, Tubing, Pressure Pads, Ferrules | 68.365 | 1 | 1 | 75.2015 | 75.2015
+  Supressor | 1735.3 | 1 | 1 | 1908.83 | 1908.83
+  Guard Column | 548 | 1 | 1 | 602.8 | 602.8
+  Total Cost | # Samples | 450 |  | 6058.33 | 13.463 |  | x
+  SEAL AA500 | Unit Price | Container | Units/Year | Adjusted Price | Total Cost | Notes
+   |  |  |  |  |  |  |  |  | Hach/FIA lab (SEAL Analytical)
+  Service Contract
+   |  |  |  |  |  |  |  |  | 50237A
+   |  |  |  |  |  |  |  |  | 71015
+  Autosampler
+  AS pump tubing only | 22.5 | 1 | 2 | 24.75 | 49.5 |  |  |  | 168+9420-01 
+  AS pump heads with tubes | 79.5 | 1 | 2 | 87.45 | 174.9 |  |  |  | 168+9425-01 
+  Sampler Probe (PTFE coated, 0.75 mm ID) | 245 | 1 | 2 | 269.5 | 539 |  |  |  | 175+9000-12
+  Pump Tubing
+  yellow/yellow | 49 | 1 | 8 | 53.9 | 431.2 |  |  |  | 116-0549-12 
+  orange/green | 49 | 1 | 8 | 53.9 | 431.2 |  |  |  | 116-0549-04 
+  orange/white | 49 | 1 | 8 | 53.9 | 431.2 |  |  |  | 116-0549-06 
+  black/black | 49 | 1 | 8 | 53.9 | 431.2 |  |  |  | 116-0549-07 
+  white/white | 49 | 1 | 8 | 53.9 | 431.2 |  |  |  | 116-0549-09 
+  orange/white | 49 | 1 | 8 | 53.9 | 431.2 |  |  |  | 116-0548-06 
+  orange/orange | 49 | 1 | 8 | 53.9 | 431.2 |  |  |  | 116-0549-08 
+  orange/yellow | 49 | 1 | 8 | 53.9 | 431.2 |  |  |  | 116-0549-05 
+  gray/gray | 49 | 1 | 8 | 53.9 | 431.2 |  |  |  | 116-0548-11
+  yellow/blue | 51 | 1 | 8 | 56.1 | 448.8 |  |  |  | 116-0549-19 
+  Glass Tubing/Fittings
+  (a) injection fitting 3.pt | 79.5 | 1 | 3 | 87.45 | 262.35 |  |  |  | 116-0489-01 
+  (d) Glass tubing, I = 44 mm | 33 | 1 | 3 | 36.3 | 108.9 |  |  |  | 116-G004-02
+  (e) Glass fitting, I=51mm | 47.5 | 1 | 3 | 52.25 | 156.75 |  |  |  | 116-G004-03 
+  (cl) Glass tubing, HB in/out | 47.5 | 1 | 3 | 52.25 | 156.75 |  |  |  | 116-G004-03 
+  (ae) Glass tubing "U" | 47.5 | 1 | 3 | 52.25 | 156.75 |  |  |  | 116-0223-48
+  (A10) Connector T | 72 | 1 | 3 | 79.2 | 237.6 |  |  |  | 116-B034-01 
+  (cw) Debubbler | 114.5 | 1 | 3 | 125.95 | 377.85 |  |  |  | 116+G035-02 
+  (cx) Debubbler | 139 | 1 | 3 | 152.9 | 458.7 |  |  |  | 163+G035-03 
+  (5TM+NEorPT) Coil 5 Turns + Pt Nipple | 32 | 1 | 3 | 35.2 | 105.6 |  |  |  | 163+G003-05 
+  (10TM) Coil 10 Turns | 23.5 | 1 | 3 | 25.85 | 77.55 |  |  |  | 163+G001-10
+  (10TM+NEorPE) Coil 10 Turns + Pt Nipple | 58.5 | 1 | 3 | 64.35 | 193.05 |  |  |  | 163+G003-10
+  (20TM) Coil 20 turns | 110 | 1 | 3 | 121 | 363 |  |  |  | 163+G001-20 
+  (20TM+PT) Coil 20 turns + PT nipple | 155.5 | 1 | 3 | 171.05 | 513.15 |  |  |  | 163+G003-20 
+  (c) Glass Tubing, I=25mm | 16.5 | 1 | 3 | 18.15 | 54.45 |  |  |  | 116-G004-01 
+  (m) Glass Tubing, I=38mm | 41 | 1 | 3 | 45.1 | 135.3 |  |  |  | 116-G004-09
+  (cr) Glass Tubing "U" | 47.5 | 1 | 3 | 52.25 | 156.75 |  |  |  | 163+G025-01
+  (as) Glass tubing "S" | 47.5 | 1 | 3 | 52.25 | 156.75 |  |  |  | 170-0504-001
+  (y) Glass Tubing "L" | 47.5 | 1 | 3 | 52.25 | 156.75 |  |  |  | 116-0223-46 
+  Nipples and Connectors
+  (N5) Nipple 6/pk | 2 | 1 | 3 | 2.2 | 6.6 |  |  |  | 116-0002-01 
+  (N6) Nipple 6/pk | 2 | 1 | 3 | 2.2 | 6.6 |  |  |  | 116-0004-01 
+  (N7) Nipple 6/pk | 2 | 1 | 3 | 2.2 | 6.6 |  |  |  | 116+0005-01
+  (N8) Nipple 6/pK | 2 | 1 | 3 | 2.2 | 6.6 |  |  |  | 116-0003-01 
+  (R13) Nipple 6/pk | 13.5 | 1 | 3 | 14.85 | 44.55 |  |  |  | 116+B152-01
+  (tw) "Y" Connector Cd column | 2 | 1 | 3 | 2.2 | 6.6 |  |  |  | 822624
+  (tw) "Y" connector, I=1.1mm | 2 | 1 | 3 | 2.2 | 6.6 |  |  |  | 822624
+  Manifold Tubing
+  air bar tubing | 69 | 1 | 2 | 75.9 | 151.8 |  |  |  | 117+0540-07
+  air line tubing | 18.5 | 1 | 2 | 20.35 | 40.7 |  |  |  | 562-2002-01 
+  (R01S or T01S) clear reagent tubing | 14.5 | 1 | 2 | 15.95 | 31.9 |  |  |  | 116+1011-01
+  (R02S or T02S) red small reagent tubing | 17.5 | 1 | 2 | 19.25 | 38.5 |  |  |  | 116+1011-02
+  (R03S or T03S) blue small reagent tubing | 17.5 | 1 | 2 | 19.25 | 38.5 |  |  |  | 116+1011-03
+  green small reagent tubing | 17.5 | 1 | 2 | 19.25 | 38.5 |  |  |  | 116+1101-04 
+  (PM07) Tubing Norprene for air inject lines | 69 | 1 | 2 | 75.9 | 151.8 |  |  |  | 117+0540-07 
+  (PE02) Tubing PE | 18.5 | 1 | 2 | 20.35 | 40.7 |  |  |  | 562-2002-01 
+  (PE15) Tubing PE | 30 | 1 | 2 | 33 | 66 |  |  |  | 562-2015-01 
+  (T11) Tygon Tubing | 24.5 | 1 | 2 | 26.95 | 53.9 |  |  |  | 116-0536-11 
+  (T16) Tygon Tubing | 20.5 | 1 | 2 | 22.55 | 45.1 |  |  |  | 116-0536-16
+  (T18) Tygon Tubing | 25.5 | 1 | 2 | 28.05 | 56.1 |  |  |  | 116-0536-18
+  (KF07) KelF tubing to photometer | 185.5 | 1 | 2 | 204.05 | 408.1 |  |  |  | 562-3007-01
+  Valves
+  (4w v 21) Cd column valve | 1697.5 | 1 | 1 | 1867.25 | 1867.25 |  |  |  | 161+B340-01
+  Photometer Parts
+  Flowcell 10 mm - 1 every 2 years | 1027 | 1 | 0.5 | 1129.7 | 564.85 |  |  |  | 169+B045-10 
+  Optic Assy 10mm - 1 every 2 years | 2052 | 1 | 0.5 | 2257.2 | 1128.6 |  |  |  | 161+B650-10 
+  Glass coil 7 turn | 89.5 | 1 | 1 | 98.45 | 98.45 |  |  |  | 161+G500-01
+  630NM led NH3 | 1368 | 1 | 1 | 1504.8 | 1504.8 |  |  |  | 161+B661-63
+  540NM led Nox analysis | 1368 | 1 | 1 | 1504.8 | 1504.8 |  |  |  | 161+B661-54
+  880NM led PO4 | 1368 | 1 | 1 | 1504.8 | 1504.8 |  |  |  | 161+B661-88
+  820NM led SiO2 | 1368 | 1 | 1 | 1504.8 | 1504.8
+  Other Special Parts
+  coil 13 turns 5mL | 488 | 1 | 1 | 536.8 | 536.8 |  |  |  | 163+B410-11
+  Total Cost/Sample | # Samples | 8500 |  | 20381.9 | 2.39787
+  Fluorometer  (Trilogy Consumables) | Unit Price | Container | Units | Price | Unit Cost | Notes
+  Turner Chlorophyll standards (1 every year) | 1150 | 1 | ea | 1150 | 1150 |  |  | x
+  Total Cost/Sample | # Samples | 1020 |  | 1150 | 1.12745 |  | x
+  TOC Shimadzu (TOC Consumables) | Unit Price | Container | Units | Price | Unit Cost | Notes |  |  | Shimadzu:
+  Consumable Kit (Includes the following) | 2243 | 1 | 1 | 2467.3 | 2467.3 |  |  | Sales Rep referred me to this kit to purchase the following items | 638-92464-04
+  platinum catalyst small beads |  |  |  |  |  |  |  |  | 638-60246-00
+  platinum catalyst large beads |  |  |  |  |  |  |  |  | 638-60193-00
+  white o-ring |  |  |  |  |  |  |  |  | 638-15025-00
+  combustion tube o-ring |  |  |  |  |  |  |  |  | 036-11219-84
+  high salts combustion tube |  |  |  |  |  |  |  |  | 638-42076-00
+  halogen scrubber |  |  |  |  |  |  |  |  | 630-00992
+  slider combustion o-ring |  |  |  |  |  |  |  |  | 036-11209-84
+  quartz wool |  |  |  |  |  |  |  |  | 630-00557
+  ceramic fiber |  |  |  |  |  |  |  |  | 638-60074
+  ceramic plate |  |  |  |  |  |  |  |  | 638-58195-00
+  white o-ring on top of furnace |  |  |  |  |  |  |  |  | 036-11408-84
+  black o-ring on bottom of furnace |  |  |  |  |  |  |  |  | 036-11209-84
+  syring plunger tip |  |  |  |  |  |  |  |  | 638-59296-01
+  combustion tube slider |  |  |  |  |  |  |  |  | 638-32033-00
+  combustion tube block |  |  |  |  |  |  |  |  | 638-17054-00
+  co2 scrubber |  |  |  |  |  |  |  |  | 630-00999-00
+  Nut TC gas connection |  |  |  |  |  |  |  |  | 035-66036-00
+  black o-ring on gas connection |  |  |  |  |  |  |  |  | 036-15550-08
+  TC slider block assembly |  |  |  |  |  |  |  |  | 638-17079-01
+  combustion tube elbow |  |  |  |  |  |  |  |  | 035-66215-07
+  combustion tube fitting |  |  |  |  |  |  |  |  | 035-66114-01
+  smaller combustion tube fitting |  |  |  |  |  |  |  |  | 035-66112-01
+  glass elbow |  |  |  |  |  |  |  |  | 638-59180-06
+  detector cell |  |  |  |  |  |  |  |  | 638-65383-02
+  ceramic plate |  |  |  |  |  |  |  |  | 638-58227-00
+  Total Cost/Sample | # Samples | 1260 |  | 2467.3 | 1.95817 |  | x
+  CHN PE 2400 (CHN Consumables) | Unit Price | Container | Units/Year | Adjusted Price | Total Cost | Notes |  |  | Perkin Elmer
+  Tubes, Quartz Combustion PE2400 - 3 per year | 237.6 | 1 | 3 | 261.36 | 784.08 | PE |  | x
+  Vial Receptacle Metal | 74.4 | 1 | 1 | 81.84 | 81.84 | PE |  | x
+  Reagent EA-1000  50g | 505.8 | 1 | 1 | 556.38 | 556.38 | PE |  | x
+  EDTA 500g  | 145.08 | 1 | 1 | 159.588 | 159.588 |  |  | x
+  Silver Vanadate, 40g | 249 | 1 | 1 | 273.9 | 273.9 | PE |  | x
+  Silver Tungstate/Mag Oxide  100g | 918 | 1 | 1 | 1009.8 | 1009.8 | PE |  | x
+  Reduction Tube - 3 per year | 192.8 | 1 | 3 | 212.08 | 636.24
+   
+  Total Cost/Sample | 1100 | 1100 |  | 3501.83 | 3.18348 |  | x
+  This Cost to Be shared across all analyses rather than to specific instruments
+  General Lab stuff (Other Consumables) | Unit Price | Container | Units | Price | Unit Cost | Notes
+  Sample bottles, wide mouth HDPE 4 oz. 125ml  | 198.09 | 72 | pk | 217.899 | 3.02638 |  |  | x | 02-893-5F
+  Service Contract - Pipette Repair Svs | 900 | 1 | ea | 990
+  Caps | 40 | 1 | ea | 44
+  Proficiency Testing | 1145.4 | 1 | ea | 1259.94
+  Misc Office and Lab Suplies | 475 | 1 | ea | 522.5
+  Total Cost/Sample | # Samples | 24034 |  | 3034.34 | 0.126252 |  | x
+  BOD (BOD Consumables) | Unit Price | Container | Units | Price | Unit Cost | Notes
+  DO Probe - 1 every 2 years | 750 | 0.5 | ea | 412.5 | 750
+  Air Pump - 1 every 5 years | 1000 | 0.2 | ea | 220 | 1000
+  Total Cost/Sample | # Samples | 1200 |  | 632.5 | 0.527083 |  | x
+  Conductivity | Unit Price | Container | Units | Price | Unit Cost | Notes
+  Standards | 89.6 | 1 | ea | 98.56 | 89.6 |  |  | x
+   |  |  | ea | 0 | 0
+  Total Cost/Sample | # Sample Groups | 25 |  | 98.56 | 3.9424
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Prep_FIltration
+────────────────────────────────────────────────────────────────────────────────
+  Sample Preparation for Total Nitrogen, Phosphorus, and Biogenic Silica
+  Total Samples per Batch: | 32 |  | Number of Actual Samples: | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+  TP/ TN/ PP/ BioSilica | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Label Sample Tubes | 0.5 | min per sample | Autoclave |  |  |  | 0
+  Pipette samples | 0.5 | min per sample |  | Gloves | 6 | 0.068068 | 0.408408
+  Measure and add reagents | 1 | min per sample |  | Pipettes - 10 ml | 32 | 0.148786 | 4.76115
+   |  |  |  | pipette tips | 10 | 0.112793 | 1.12793
+  Supervision | 10 | min per group |  | Potasium Persulfate | 20 | 0.153362 | 3.06724
+   |  |  |  | Sodium Hydroxide | 3 | 0.069916 | 0.209748
+   |  |  |  |  |  |  | 0
+   |  |  |  |  |  |  | 0
+   |  |  |  |  |  |  | 0
+   |  |  |  |  |  |  | 0
+   |  |  |  |  | Consumables |  | 9.57448
+   |  |  |  |  | Depreciation |  | 0
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost | TOTAL PREP COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Staff (Sarah) | 0 | mins per group | 0.81309 | 0 | External Cost |  | 44.4619 | 2.22309 | 20
+  Students | 64 | mins per group | 0.333333 | 21.3333 | Internal Enhanced Cost |  | 39.0403 | 1.95201 | 20
+  Supervision (Steph) | 10 | mins per group | 1.35541 | 13.5541 | Internal Cost |  | 17.7069 | 0.885346 | 20
+  Internal Enhanced Labor Rates
+  Staff (Sarah) | 0 | mins per group | 0.487854 | 0
+  Students | 64 | mins per group | 0.333333 | 21.3333
+  Supervision (Steph) | 10 | mins per group | 0.813244 | 8.13244
+  Internal Labor Rates (Grad Assisted)
+  Grad Student | 64 | mins per group | 0 | 0
+  Students | 0 | mins per group | 0.333333 | 0
+  Supervision (Steph) | 10 | mins per group | 0.813244 | 8.13244
+  Sample Filtration
+  Total Samples per Batch: | 32 |  | Number of Actual Samples: | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+  TP/ TN/ PP/ BioSilica | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Label Sample Tubes | 0.5 | min per sample | Filtration apparatus |  |  |  | 0
+  Filter Samples | 3 | min per sample |  | Gloves | 6 | 0 | 0
+   |  |  |  | Pipettes - 10 ml | 32 | 0.487854 | 15.6113
+   |  |  |  | pipette tips | 10 | 0.813244 | 8.13244
+  Supervision | 10 | min per group
+   |  |  |  |  |  |  | 0
+   |  |  |  |  | Consumables |  | 23.7438
+   |  |  |  |  | Depreciation |  | 0
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost | TOTAL PREP COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Staff (Sarah) | 0 | mins per group | 0.81309 | 0 | External Cost |  | 74.6312 | 3.73156 | 20
+  Students | 112 | mins per group | 0.333333 | 37.3333 | Internal Full Service Cost |  | 69.2095 | 3.46048 | 20
+  Supervision (Steph) | 10 | mins per group | 1.35541 | 13.5541 | Internal Grad Asst Cost |  | 31.8762 | 1.59381 | 20
+  Internal UConn Labor Rates
+  Staff (Sarah) | 0 | mins per group | 0.487854 | 0
+  Students | 112 | mins per group | 0.333333 | 37.3333
+  Supervision (Steph) | 10 | mins per group | 0.813244 | 8.13244
+  Internal Grad Assisted Labor Rates
+  Grad Student | 112 | mins per group | 0 | 0
+  Students | 0 | mins per group | 0.333333 | 0
+  Supervision (Steph) | 10 | mins per group | 0.813244 | 8.13244
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Conductivity
+────────────────────────────────────────────────────────────────────────────────
+  Conductivity
+  Total Samples per Batch: | 23 |  | Number of Actual Samples: | 20
+  Turbidity |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analtyical Run Set-up | 20 | min per group | Conductivity Meter
+   |  |  |  | Turbidity, PotableWatR | 40 | 0.231 | 9.24
+  Transfer samples to vessel | 0.5 | min per sample |  | Gloves | 4 | 0.068068 | 0.272272
+  Read Instrument | 1 | min per sample
+  Data review and Reporting | 30 | min per group |  | Misc Consumables | 20 | 0.126252 | 2.52504
+  Student Supervision | 10 | min per group
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 12.0373
+  Conductivity - Student | 54.5 | mins per group | 0.333333 | 18.1667 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Conductivity - Staff - Steph 100% | 40 | mins per group | 1.35541 | 54.2163 | External Cost |  | 84.4203 | 4.22101 | 20
+  Internal Enhanced Labor Rates |  |  |  |  | Internal Enhanced Cost |  | 62.7337 | 3.13669 | 20
+  Conductivity - Student | 54.5 | mins per group | 0.333333 | 18.1667 | Internal Cost |  | 20.1698 | 1.00849 | 20
+  Conductivity - Staff - Steph 100% | 40 | mins per group | 0.813244 | 32.5298
+  Internal Labor Rates (Grad Assisted)
+  Conductivity - Grad Student | 54.5 | mins per group | 0 | 0
+  Supervision - Staff - Steph 100% | 10 | mins per group | 0.813244 | 8.13244
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Nutrients (Seal)
+────────────────────────────────────────────────────────────────────────────────
+  Nutrient Analysis
+  Nitrogen and Phosphorus Series
+  Total Samples per Batch: | 32 |  | Number of Actual Samples: | 20
+  Lachat |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 25 | min per group | Seal  | Test Tubes | 32 | 0.13717 | 4.38944
+  Preparation of Stds. | 30 | min per group | Autoanalyzer | Weighing Dishes | 5 | 0.187572 | 0.93786
+  Transfer samples to poly tubes | 0.5 | min per sample | AA500 | Analytical Standards | 10 | 0.374 | 3.74
+  Sample Dilution (sample dependent - assume 5% dilution) | 0.5 | min per sample |  | Sulfanilimide  98%  500g | 10 | 0.229108 | 2.29108
+   |  |  |  | Sodium Dodecyl Sulphate, 100g | 6 | 0.77528 | 4.65168
+  Data Review and Reporting (1 Nutrnent) | 20 | min per group |  | Phenol Crystals ACS 500g | 14 | 0.400378 | 5.60529
+  Data Review and Reporting (2 Nutrnents) | 30 | min per group |  | L-Ascorbic Acid | 10 | 0.23067 | 2.3067
+  Data Review and Reporting (3 Nutrnents) | 40 | min per group |  | Hydrochloric Acid   2.5L | 50 | 0.0192016 | 0.96008
+  Data Review and Reporting (4 Nutrnents) | 50 | min per group |  | Ammonium Hydroxide 2.5L | 20 | 0.0339064 | 0.678128
+   |  |  |  | Finnitip Pipette Tips  (.2-10ul)  960/pk | 8 | 0.0459021 | 0.367217
+  Tech Instrument Time
+  1 Nutrient | 0.5 | min per sample |  | Other Consumables | 20 | 0.126252 | 2.52504
+  2 Nutrients | 0.75 | min per sample
+  Trio (3 Nutrients) | 1 | min per sample |  | Seal Consumables | 20 | 2.39787 | 47.9574
+  Quad (4 Nutrients) | 1.25 | min per sample
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost | Consumables - 1 Nut |  | 76.4099
+  1 Nutrient - Student | 46 | mins per group | 0.333333 | 15.3333 | Consumables - 2 Nut |  | 104.862
+  2 Nutrients - Student | 46 | mins per group | 0.333333 | 15.3333 | Consumables - Trio |  | 133.315
+  Trio (3 Nutrients) - Student | 46 | mins per group | 0.333333 | 15.3333 | Consumables - Quad |  | 161.767
+  Quad (4 Nutrients) - Student | 46 | mins per group | 0.333333 | 15.3333 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  1 Nutrient - Staff (50% Stehanie/50% Sarah) | 55.5 | mins per group | 1.08425 | 60.1758 | External - 1 Nutrient  |  | 151.919 | 7.59595 | 20
+  2 Nutrients - Staff (50% Stehanie/50% Sarah) | 70.5 | mins per group | 1.08425 | 76.4395 | External - 2 Nutrients |  | 196.635 | 9.83176 | 20
+  Trio (3 Nutrients) - Staff (50% Stehanie/50% Sarah) | 85.5 | mins per group | 1.08425 | 92.7032 | External - Trio (3 Nutrients) |  | 241.352 | 12.0676 | 20
+  Quad (4 Nutrients) - Staff (50% Stehanie/50% Sarah) | 100.5 | mins per group | 1.08425 | 108.967 | External - Quad (4 Nutrients) |  | 286.068 | 14.3034 | 20
+  Internal Enhanced Labor Rates |  |  |  |  | Internal Enhanced  - 1 Nutrient  |  | 127.849 | 6.39244 | 20
+  1 Nutrient - Student | 46 | mins per group | 0.333333 | 15.3333 | Internal Enhanced  - 2 Nutrients |  | 166.059 | 8.30297 | 20
+  2 Nutrients - Student | 46 | mins per group | 0.333333 | 15.3333 | Internal Enhanced  - Trio (3 Nutrients) |  | 204.27 | 10.2135 | 20
+  Trio (3 Nutrients) - Student | 46 | mins per group | 0.333333 | 15.3333 | Internal Enhanced  - Quad (4 Nutrients) |  | 242.481 | 12.124 | 20
+  Quad (4 Nutrients) - Student | 46 | mins per group | 0.333333 | 15.3333 | Internal - 1 Nutrient  |  | 79.6627 | 3.98313 | 20
+  1 Nutrient - Staff (50% Stehanie/50% Sarah) | 55.5 | mins per group | 0.650549 | 36.1055 | Internal - 2 Nutrients |  | 111.368 | 5.5684 | 20
+  2 Nutrients - Staff (50% Stehanie/50% Sarah) | 70.5 | mins per group | 0.650549 | 45.8637 | Internal  - Trio (3 Nutrients) |  | 143.073 | 7.15366 | 20
+  Trio (3 Nutrients) - Staff (50% Stehanie/50% Sarah) | 85.5 | mins per group | 0.650549 | 55.6219 | Internal - Quad (4 Nutrients) |  | 174.778 | 8.73892 | 20
+  Quad (4 Nutrients) - Staff (50% Stehanie/50% Sarah) | 100.5 | mins per group | 0.650549 | 65.3802
+  Internal Labor Rates (Grad Assisted)
+  1 Nutrient - Grad Student | 101.5 | mins per group | 0 | 0
+  2 Nutrients - Grad Student | 116.5 | mins per group | 0 | 0
+  Trio (3 Nutrients) - Grad Student | 131.5 | mins per group | 0 | 0
+  Quad (4 Nutrients) - Grad Student | 146.5 | mins per group | 0 | 0
+  1 Nutrient - Supervision - Staff (50% Stehanie/50% Sarah) | 5 | mins per group | 0.650549 | 3.25275
+  2 Nutrients - Supervision - Staff (50% Stehanie/50% Sarah) | 10 | mins per group | 0.650549 | 6.50549
+  Trio (3 Nutrients) - Supervision - Staff (50% Stehanie/50% Sarah) | 15 | mins per group | 0.650549 | 9.75824
+  Quad (4 Nutrients) - Supervision - Staff (50% Stehanie/50% Sarah) | 20 | mins per group | 0.650549 | 13.011
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Alkalinity
+────────────────────────────────────────────────────────────────────────────────
+  Total Samples per Batch: | 26 |  | Number of Actual Samples: | 20
+  Alkalinity |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analtyical Run Set-up | 30 | min per group | Alkalinity Titrator
+  Calibration Procedure | 20 | min per group |  | Minerals, WasteWatR (alkalinity, IC, TSS)  (506) | 70 | 0.2882 | 20.174
+  Preparation of Stds. | 30 | min per group |  |  |  |  | 0
+  Transfer samples to  tubes | 0.5 | min per sample |  | Gloves | 4 | 0.068068 | 0.272272
+  Sample Dilution (sample dependent - assume 10% dilution) | 1 | min per sample
+  Data Review and Reporting - Alkalinity | 30 | min per group
+  Data Review and Reporting - Alkalinity + pH | 60 | min per group
+  Staff Supervision | 20 | min per group
+  Tech Instrument Time
+  Alkalinity or pH | 1 | min per sample |  | Other Consumables | 20 | 0.126252 | 2.52504
+  Alkalinity +pH | 1.5 | min per sample
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 22.9713
+  Alkalinity or pH - Student | 121.6 | mins per group | 0.333333 | 40.5333 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Alkalinity +pH - Student | 134.6 | mins per group | 0.333333 | 44.8667 | External -Alkalinity or pH |  | 131.275 | 6.56375 | 20
+  Alkalinity of pH - Staff (Steph) | 50 | mins per group | 1.35541 | 67.7703 | External - Alkalinity+pH |  | 176.271 | 8.81353 | 20
+  Alkalinity + pH - Staff (Steph) | 80 | mins per group | 1.35541 | 108.433 | Internal Enhanced -Alkalinity or pH |  | 104.167 | 5.20834 | 20
+  Internal Enhanced Labor Rates |  |  |  |  | Internal Enhanced - Alkalinity+pH |  | 132.898 | 6.64488 | 20
+  Alkalinity or pH - Student | 121.6 | mins per group | 0.333333 | 40.5333 | Internal -Alkalinity or pH |  | 39.2362 | 1.96181 | 20
+  Alkalinity +pH - Student | 134.6 | mins per group | 0.333333 | 44.8667 | Internal  - Alkalinity+pH |  | 39.2362 | 1.96181 | 20
+  Alkalinity or pH - Staff (Steph) | 50 | mins per group | 0.813244 | 40.6622
+  Alkalinity + pH - Staff (Steph) | 80 | mins per group | 0.813244 | 65.0595
+  Internal Labor Rates (Grad Assisted)
+  Alkalinity or pH - Grad Student | 151.6 | mins per group | 0 | 0
+  Alkalinity +pH - Grad Student | 194.6 | mins per group | 0 | 0
+  Alkalinity or pH - Supervision - Staff (Steph) | 20 | mins per group | 0.813244 | 16.2649
+  Alkalinity + pH - Supervision - Staff (Steph) | 20 | mins per group | 0.813244 | 16.2649
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Silica
+────────────────────────────────────────────────────────────────────────────────
+  Silica Analysis
+  Total and Biogenic
+  Total Samples per Batch: | 32 |  | Number of Actual Samples: | 20
+  Lachat |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 45 | min per group | Seal  | Finnitip Pipette Tips  (.2-10ul)  960/pk | 4 | 0.112793 | 0.451172
+  Preparation of Stds. | 30 | min per group | Autoanalyzer
+  Transfer samples to poly tubes | 0.5 | min per sample | AA500 | Calibration Standard | 10 | 0.374 | 3.74
+  Sample Dilution (sample dependent - assume 10% dilution) | 1 | min per sample |  | Ammonium Molybdate Tetrahydrate  500g | 2 | 0.357192 | 0.714384
+  Data Review and Reporting | 30 | min per group |  | Oxalic Acid 500g | 12 | 0.227854 | 2.73425
+  Supervision - Staff - Grad/Walkup | 10 | min per group |  | Phenol Crystals ACS 500g | 12 | 0.400378 | 4.80454
+   |  |  |  | Gloves | 10 | 0.068068 | 0.68068
+  Tech Instrument Time |  |  |  | Weighing Dishes | 5 | 0.187572 | 0.93786
+  1 Nutrient | 0.5 | min per sample
+  2 Nutrients | 1 | min per sample
+   |  |  |  | Seal Consumables | 20 | 2.39787 | 47.9574
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost | Consumables - 1 Nut |  | 62.0203
+  1 Nutrient - Student | 46 | mins per group | 0.333333 | 15.3333 | Consumables - 2 Nut |  | 76.0832
+  2 Nutrients - Student | 46 | mins per group | 0.333333 | 15.3333 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  1 Nutrient - Staff ( Sarah) | 87 | mins per group | 0.81309 | 70.7388 | External - 1 Nutrient  |  | 148.092 | 7.40462 | 20
+  2 Nutrients - Staff (Sarah) | 97 | mins per group | 0.81309 | 78.8697 | External - 2 Nutrients |  | 170.286 | 8.51431 | 20
+  Internal Enhanced Labor Rates |  |  |  |  | Internal Enhanced - 1 Nutrient  |  | 119.797 | 5.98985 | 20
+  1 Nutrient - Student | 46 | mins per group | 0.333333 | 15.3333 | Internal Enhanced  - 2 Nutrients |  | 138.738 | 6.93692 | 20
+  2 Nutrients - Student | 46 | mins per group | 0.333333 | 15.3333 | Internal - 1 Nutrient  |  | 66.8988 | 3.34494 | 20
+  1 Nutrient - Staff ( Sarah) | 87 | mins per group | 0.487854 | 42.4433 | Internal - 2 Nutrients |  | 80.9617 | 4.04809 | 20
+  2 Nutrients - Staff ( Sarah) | 97 | mins per group | 0.487854 | 47.3218
+  Internal Labor Rates (Grad Assisted)
+  1 Nutrient - Grad Student | 133 | mins per group | 0 | 0
+  2 Nutrients - GradStudent | 143 | mins per group | 0 | 0
+  1 Nutrient - Supervision - Staff ( Sarah) | 10 | mins per group | 0.487854 | 4.87854
+  2 Nutrients - Supervision - Staff ( Sarah) | 10 | mins per group | 0.487854 | 4.87854
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: IC
+────────────────────────────────────────────────────────────────────────────────
+  Ion Analysis
+  Chloride, Sulfate, Fluoride
+  Total Samples per Batch: | 31 |  | Number of Actual Samples: | 20
+  Ion Chromatograph |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+   |  |  |  | Sulfate Standard | 5 | 0.495 | 2.475
+  Preparation of Stds. | 20 | min per group | Ion Chromatograph | Chloride; Sulfate; Nitrate as Nitrogen; Phosphate as Phosphorous Anion Std | 5 | 0.495 | 2.475
+  Sample Filtration | 0.5 | min per sample | (IC) | IC Filter Caps  5ml (250/pk) | 31 | 0.6831 | 21.1761
+  Analytical Run Set-up | 30 | min per group | Titration | Minerals, WasteWatR (alkalinity, IC, TSS)  (506) | 5 | 0.2882 | 1.441
+  Sample Dilution (sample dependent - assume 10% dilution) | 2 | min per sample |  | Nitrite  Std 1000ppm, Ricca | 5 | 0.743142 | 3.71571
+   |  |  |  | Syringe Filters | 31 | 1.53919 | 47.715
+  Tech Instrument Time |  |  |  | BD Syringes Luer Lock  10ml  850/pk | 31 | 0.140983 | 4.37048
+  1 Ion (+ possible interferences sources) | 1.5 | min per sample |  | IC Consumables | 2 | 13.463 | 26.9259
+  2-4 Ions (+ possible interferences sources) | 5.5 | min per sample |  | Gasses | 0.5 | 0.02879 | 0.014395
+  Grad Supervision | 10 | min per group
+  Data Review and Reporting | 45 | min per group |  | Other Consumables | 20 | 0.126252 | 2.52504
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost | Supply Cost/Group |  | 110.359
+  1 ion (50% Stehanie/50% Sarah) | 155.5 | mins per group | 1.08425 | 168.601 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal Enhanced Labor Rates |  |  |  |  | External Cost |  | 278.959 | 13.948 | 20
+  1 ion (50% Stehanie/50% Sarah) | 155.5 | mins per group | 0.650549 | 101.16 | Internal Enhanced Cost |  | 211.519 | 10.576 | 20
+  Internal Labor Rates (Grad Assisted) |  |  |  |  | Internal Cost |  | 116.864 | 5.84321 | 20
+  Grad Student | 155.5 | mins per group | 0 | 0
+  Grad Supervision - (50% Stehanie/50% Sarah) | 10 | mins per group | 0.650549 | 6.50549
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: TOC
+────────────────────────────────────────────────────────────────────────────────
+  Total Organic Carbon
+  Dissolved Organic Carbon - Filtration
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+  TOC |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 50 | min per group | Total Organic Carbon | Pipettes  10ml  500/cs | 2 | 0.148786 | 0.297572
+  Daily Calibration Procedure | 45 | min per group | Shimadzu | Test Tubes, TOC   16x100mm   | 30 | 0.0539 | 1.617
+  Preparation of Stds. | 50 | min per group |  | Tubes, Digestion  750/cs | 30 | 0.3388 | 10.164
+  Transfer samples to  tubes | 1 | min per sample
+  Sample Dilution (sample dependent - assume 10% dilution) | 2 | min per sample
+  Data Review and Reporting | 80 | min per group |  | Hydrochloric Acid   2.5L | 168 | 0.0192016 | 3.22587
+  Grad Student Supervision | 20 | min per group |  | Gloves | 4 | 0.068068 | 0.272272
+   |  |  |  | TOC Consumables | 20 | 1.95817 | 39.1635
+  Tech Instrument Time |  |  |  | Other Consumables | 20 | 0.126252 | 2.52504
+  Total Organic Carbon | 6 | min per sample |  | Gasses | 20 | 0.0925733 | 1.85147
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 59.1167
+  TOC/DOC - Student | 30 | mins per group | 0.333333 | 10 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  TOC/DOC - Staff  (50% Stehanie/50% Sarah) | 349 | mins per group | 1.08425 | 378.403 | External Cost - TOC/DOC |  | 447.519 | 22.376 | 20
+  Internal Enhanced Labor Rates |  |  |  |  | Internal Enhanced Cost - TOC/DOC |  | 296.158 | 14.8079 | 20
+  TOC/DOC - Student | 30 | mins per group | 0.333333 | 10 | Internal Cost - TOC/DOC |  | 72.1277 | 3.60638 | 20
+  TOC/DOC - Staff  (50% Stehanie/50% Sarah) | 349 | mins per group | 0.650549 | 227.042
+  Internal Labor Rates (Grad Assisted)
+  TOC/DOC - Grad Student | 379 | mins per group | 0 | 0
+  TOC/DOC - Suprvision - Staff  (50% Stehanie/50% Sarah) | 20 | mins per group | 0.650549 | 13.011
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: PC_PN
+────────────────────────────────────────────────────────────────────────────────
+  Partiulate Carbon and Nitrrogen Analysis (PC/PN)
+  Perkin Elmer CHN Analyzer
+  Total Samples per Batch: | 26 |  | Number of Actual Samples: | 20
+  PC/PN |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+   |  |  | Perkin Elmer 
+  Analtyical Run Set-up | 30 | min per group | CHN | Acetanilide 2G | 30 | 1.0065 | 30.195
+  K factor Calibration Procedure | 30 | min per group |  | Flat Tin Discs 100/PK | 26 | 2.1879 | 56.8854
+  Preparation of Stds. | 30 | min per group
+  Pelletize samples  | 1 | min per sample
+   |  |  |  | Gloves | 4 | 0.068068 | 0.272272
+  Data Review and Reporting | 45 | min per group |  | Gasses | 200 | 0.0680333 | 13.6067
+  Grad Supervision - Staff  - PC or PN | 10 | min per group
+  Grad Supervision - Staff  - PC and PN | 20 | min per group
+  Tech Instrument Time |  |  |  | CHN Consumables | 20 | 3.18348 | 63.6696
+  PC or PN | 5 | min per sample |  | Other Consumables | 20 | 0.126252 | 2.52504
+  PC and PN | 7.5 | min per sample
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 167.154
+  PC or PN - Student | 56 | mins per group | 0.333333 | 18.6667 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  PC and PN  - Student | 56 | mins per group | 0.333333 | 18.6667 | External - PC or PN |  | 504.341 | 25.2171 | 20
+  PC or PN - Staff - Steph 100% | 235 | mins per group | 1.35541 | 318.521 | External - PN and PN |  | 592.443 | 29.6221 | 20
+  PC and PN - Staff - Steph 100% | 300 | mins per group | 1.35541 | 406.622 | Internal Enhanced- PC or PN |  | 376.933 | 18.8467 | 20
+  Internal Enhanced Labor Rates |  |  |  |  | Internal Enhanced - PN and PN |  | 429.794 | 21.4897 | 20
+  PC or PN - Student | 56 | mins per group | 0.333333 | 18.6667 | Internal - PC or PN |  | 175.286 | 8.76432 | 20
+  PC and PN  - Student | 56 | mins per group | 0.333333 | 18.6667 | Internal - PN and PN |  | 183.419 | 9.17094 | 20
+  PC or PN - Staff - Steph 100% | 235 | mins per group | 0.813244 | 191.112
+  PC and PN - Staff - Steph 100% | 300 | mins per group | 0.813244 | 243.973
+  Internal Labor Rates (Grad Assisted)
+  PC or PN - Grad Student | 291 | mins per group | 0 | 0
+  PC and PN  - Grad Student | 356 | mins per group | 0 | 0
+  PC or PN - Supervision - Staff - Steph 100% | 10 | mins per group | 0.813244 | 8.13244
+  PC and PN - Supervision - Staff - Steph 100% | 20 | mins per group | 0.813244 | 16.2649
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: BOD 30
+────────────────────────────────────────────────────────────────────────────────
+  BOD 30 analysis - With NOx measurements
+  Total Samples per Batch: | 23 |  | Number of Actual Samples: | 20
+  BOD 30 |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+   |  |  | Mettler
+  Sample Prepartion (warming) | 20 | min per group | BOD Meter | NOx scintillation vials | 69 | 0.219758 | 15.1633
+  Calibrate Meter | 20 | min per group |  | pipette tips | 3 | 0.112793 | 0.338379
+   |  |  |  | Gloves | 10 | 0.068068 | 0.68068
+  Transfer samples to BOD Bottles | 0.5 | min per sample
+  Pour off NOx samples - 3 times over 30 days. | 1 | min per sample |  | Other Consumables | 1 | 0.126252 | 0.126252
+  Measure BOD - 6 discrete measurements over 30 days. | 6 | min per sample |  | BOD Consumables | 1 | 0.527083 | 0.527083
+  Record Keeping | 1 | min per sample |  | Misc Supplies | 20 | 0.126252 | 2.52504
+  Data Review/reporting - BOD 30 | 45 | min per group
+  Grad Student Supervision - Staff | 30 | min per group
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 19.3607
+  BOD 30 - Student | 928.5 | mins per group | 0.333333 | 309.5 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  BOD 30 - Staff - Steph 100% | 413 | mins per group | 1.35541 | 559.783 | External Cost |  | 888.644 | 44.4322 | 20
+  Internal Enhanced Labor Rates |  |  |  |  | Internal Enhanced Cost |  | 664.731 | 33.2365 | 20
+  BOD30 - Student | 928.5 | mins per group | 0.333333 | 309.5 | Internal Cost |  | 43.7581 | 2.1879 | 20
+  BOD30 - Staff - Steph 100% | 413 | mins per group | 0.813244 | 335.87
+  Internal Labor Rates (Grad Assisted)
+  BOD30 - Grad Student | 1341.5 | mins per group | 0 | 0
+  BOD30 - Staff - Steph 100% | 30 | mins per group | 0.813244 | 24.3973
+  The NOx costs will be added in  with the Nox per sample cost rate
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Chlorophyll
+────────────────────────────────────────────────────────────────────────────────
+  Chlorophyll a
+  without Lab filtration
+  Total Samples per Batch: | 25 |  | Number of Actual Samples: | 20
+  Chlorphyll a |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analtyical Run Set-up | 15 | min per group | Turner Fluorimeter | Acetone HPLC grade  | 180 | 0.020592 | 3.70656
+  Creation of Standards | 60 | min per group
+   |  |  |  | Filters, GFF | 25 | 1.20791 | 30.1977
+  Extract Filter/ Agitation | 2 | min per sample |  | Test Tubes | 25 | 0.7909 | 19.7725
+  Filter Samples | 10 | min per sample |  | Gloves | 6 | 0.068068 | 0.408408
+  Read Instrument | 3 | min per sample |  | Pipette tips | 25 | 0.112793 | 2.81982
+   |  |  |  | Trilogy Consumables | 20 | 1.12745 | 22.549
+  Data Review and Reporting (Sarah) | 30 | min per group |  | Other Consumables | 20 | 0.126252 | 2.52504
+  Student Supervision (Steph) | 15 | min per group
+  Grad Student Supervision | 25 | min per group
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost | CESE Filtration | Supply Cost/Group | 81.9791
+  Staff (Sarah) | 30 | mins per group | 0.81309 | 24.3927 | No Filtration |  | 51.7814
+  Students - | 200 | mins per group | 0.333333 | 66.6667 | TOTAL PREP COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Supervision (Steph) | 15 | mins per group | 1.35541 | 20.3311 | External Cost | No Filtration | 163.172 | 8.15859 | 20
+  Internal Enhanced Labor Rates |  |  |  |  | Internal Enhanced Cost | No Filtration | 145.282 | 7.26411 | 20
+  Staff (Sarah) | 30 | mins per group | 0.487854 | 14.6356 | Internal  Cost | No Filtration | 72.1125 | 3.60562 | 20
+  Students - | 200 | mins per group | 0.333333 | 66.6667
+  Supervision (Steph) | 15 | mins per group | 0.813244 | 12.1987
+  Internal Labor Rates (Grad Assisted)
+  Grad Students | 230 | mins per group | 0 | 0
+  Grad Supervision - Staff (Steph) | 25 | mins per group | 0.813244 | 20.3311
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: TS_TSS
+────────────────────────────────────────────────────────────────────────────────
+  Total Solids and Total Suspended Solids
+  Including CTDEEP LISS TSS
+  Total Samples per Batch: | 23 |  | Number of Actual Samples: | 20
+  TSS/TS |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analtyical Run Set-up | 15 | min per group | Oven/ Filtration App | Filters, Proweigh | 23 | 2.33387 | 53.679
+   |  |  |  | Minerals, WasteWatR (alkalinity, IC, TSS)  (506) | 50 | 0.2882 | 14.41
+   |  |  |  | Hydrochloric Acid - 1N | 100 | 0.0192016 | 1.92016
+  Transfer samples to  Grad Cylinder | 0.5 | min per sample |  | Gloves | 2 | 0.068068 | 0.136136
+  Filter Sample | 1 | min per sample
+  Weigh Samples | 0.5 | min per sample
+  Weigh Samples- CTDEEP LISS | 0.5 | min per sample |  | Other Consumables | 20 | 0.126252 | 2.52504
+  Data Review and Reporting | 20 | min per group
+  Student Supervision | 10 | min per group
+  Grad Student Supervision  | 20 | min per group |  |  | TS | Supply Cost/Group | 18.9913
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost | TSS | Supply Cost/Group | 72.6703
+  TSS - Student | 61 | mins per group | 0.333333 | 20.3333 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  TS - Student | 38 | mins per group | 0.333333 | 12.6667 | External - TSS |  | 133.666 | 6.68329 | 20
+  TSS - Staff  (Steph) | 30 | mins per group | 1.35541 | 40.6622 | External - TS |  | 72.3202 | 3.61601 | 20
+  TS - Staff  (Steph) | 30 | mins per group | 1.35541 | 40.6622 | Internal Enhanced  - TSS |  | 117.401 | 5.87005 | 20
+  Internal Enhanced Labor Rates |  |  |  |  | Internal Enhanced  - TS |  | 56.0553 | 2.80277 | 20
+  TSS - Student | 61 | mins per group | 0.333333 | 20.3333 | Internal Cost - TSS |  | 88.9352 | 4.44676 | 20
+  TS - Student | 38 | mins per group | 0.333333 | 12.6667 | Internal Cost - TS |  | 35.2562 | 1.76281 | 20
+  TSS - Staff  (Steph) | 30 | mins per group | 0.813244 | 24.3973
+  TS - Staff  (Steph) | 30 | mins per group | 0.813244 | 24.3973
+  Internal Labor Rates (Grad Assisted)
+  TSS - Student | 81 | mins per group | 0 | 0
+  TS - Student | 58 | mins per group | 0 | 0
+  TSS - Staff  (Steph) | 20 | mins per group | 0.813244 | 16.2649
+  TS - Staff  (Steph) | 20 | mins per group | 0.813244 | 16.2649
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Turbidity
+────────────────────────────────────────────────────────────────────────────────
+  Turbidity
+  Total Samples per Batch: | 23 |  | Number of Actual Samples: | 20
+  Turbidity |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analtyical Run Set-up | 20 | min per group | Turbidity Meter
+   |  |  |  | Turbidity, PotableWatR | 40 | 0.231 | 9.24
+  Transfer samples to  Bottles | 0.5 | min per sample |  | Gloves | 2 | 0.068068 | 0.136136
+  Read Instrument | 0.5 | min per sample
+  Data review and Reporting | 30 | min per group |  | Misc Consumables | 20 | 0.126252 | 2.52504
+  Student Supervision | 10 | min per group
+  Grad Student Supervision | 20 | min per group
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 11.9012
+  Turbidity - Student | 43 | mins per group | 0.333333 | 14.3333 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Turbidity - Staff - Steph 100% | 40 | mins per group | 1.35541 | 54.2163 | External Cost |  | 80.4508 | 4.02254 | 20
+  Internal Enhanced Labor Rates |  |  |  |  | Internal Enhanced Cost |  | 58.7643 | 2.93821 | 20
+  Turbidity - Student | 43 | mins per group | 0.333333 | 14.3333 | Internal Cost |  | 28.1661 | 1.4083 | 20
+  Turbidity - Staff - Steph 100% | 40 | mins per group | 0.813244 | 32.5298
+  Internal Labor Rates (Grad Assisted)
+  Turbidity - Student | 73 | mins per group | 0 | 0
+  Turbidity - Supervision - Staff - Steph 100% | 20 | mins per group | 0.813244 | 16.2649
+
+====================================================================================================
+FILE: CESE Org Rates FY26 FINAL.xlsx
+====================================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Internal Pricing
+────────────────────────────────────────────────────────────────────────────────
+  Organics and Biomolecule Analysis Price List
+  Internal Pricing 
+  Analytical Testing Services
+  Effective Date: December 31, 2025
+  Persistent Organic Pollutants (Pesticides, PCBs, Herbicides, PAHs, PBDEs)
+  Parameter | Cost per sample
+  Persistent Organic Pollutants in Tissue, Soil/Sediment, Blood, Solids | 22.3017
+  Persistent Organic Pollutants in Water | 28.8384
+  Per- and polyfluoroalkyl substances (PFAS)
+  PFAS in Tissue, Soil/Sediment, Blood, Solids - CESE Method (28 compounds) | 80.7676
+  PFAs in Water - EPA 537.1 or CESE Method (28 Compounds) | 80.7262
+  PFAS in  Tissue, Soil/Sediment, Blood, Solids -EPA 1633 | 185.162
+  PFAs in Water  - EPA 1633 | 157.53
+  3 compound PFAS analysis (Any 3 Compounds)- Water | 37.4626
+  3 compound PFAS analysis (Any 3 Compounds)- Tissue, Soil/Sediment, Blood, Solids | 70.8456
+  Harmful Algal Bloom (HAB) Toxins, including Microcystins
+  Microcystin/HABs in Water - up to 14 Toxins | 55.2305
+  Microcystin/HABs in Tissue and Sediment - up to 14 Toxins | 50.6653
+  Small Molecule/ Pharmaceutical/Biomedical/Non-Persistent Compounds
+  Small Molecule/Pharmaceutical/Biomedical Analysis (up to 3 compounds) | 42.2592
+  Small Molecule/Pharmaceutical/Biomedical Analysis (> 3 compounds) | 42.2592
+  Fatty Acid Analysis | 34.8724
+  Short Chain Fatty Acid Analysis | 53.7949
+  Single Compound Purity Assessment | 21.6693
+  Untargeted Analysis - (hourly rate) CESE Chemist included in rate | 114.29
+  Untargeted Analysis - Trained User (per hour) - Training costs additional | 58.7204
+  Analysis For Canabanoids/THC
+  Parameter | Cost per sample
+  THC/CBD  in tissue and plant material | 44.1604
+  Miscellaneous Analyses
+  Percent Moisture or Total Extractable Organics (TEOs) | 7.43737
+  Sample Homgenation and Compositing | 7.6075
+  For analyses not listed please contact anthony.provatas@uconn.edu or christopher.perkins@uconn.edu for pricing.
+  Prices are subject to change without notice.
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Internal Enhanced Rep Pricing
+────────────────────────────────────────────────────────────────────────────────
+  Organics and Biomolecule Analysis Price List
+  Internal with Enhanced Reporting Pricing 
+  Analytical Testing Services
+  Effective Date: December 31, 2025
+  Persistent Organic Pollutants (Pesticides, PCBs, Herbicides, PAHs, PBDEs)
+  Parameter | Cost per sample
+  Persistent Organic Pollutants in Tissue, Soil/Sediment, Blood, Solids | 73.4153
+  Persistent Organic Pollutants in Water | 79.409
+  Per- and polyfluoroalkyl substances (PFAS)
+  PFAS in Tissue, Soil/Sediment, Blood, Solids - CESE Method (28 compounds) | 144.107
+  PFAs in Water - EPA 537.1 or CESE Method (28 Compounds) | 153.547
+  PFAS in  Tissue, Soil/Sediment, Blood, Solids -EPA 1633 | 300.906
+  PFAs in Water  - EPA 1633 | 273.177
+  3 compound PFAS analysis (Any 3 Compounds)- Water | 83.1129
+  3 compound PFAS analysis (Any 3 Compounds)- Tissue, Soil/Sediment, Blood, Solids | 117.003
+  Harmful Algal Bloom (HAB) Toxins, including Microcystins
+  Microcystin/HABs in Water - up to 14 Toxins | 107.492
+  Microcystin/HABs in Tissue and Sediment - up to 14 Toxins | 103.851
+  Small Molecule/ Pharmaceutical/Biomedical/Non-Persistent Compounds
+  Small Molecule/Pharmaceutical/Biomedical Analysis (up to 3 compounds) | 88.4525
+  Small Molecule/Pharmaceutical/Biomedical Analysis (> 3 compounds) | 100.365
+  Fatty Acid Analysis | 83.1374
+  Short Chain Fatty Acid Analysis | 106.27
+  Single Compound Purity Assessment | 42.0018
+  Untargeted Analysis - (hourly rate) CESE Chemist included in rate | 120.554
+  Analysis For Canabanoids/THC
+  Parameter | Cost per sample
+  THC/CBD  in tissue and plant material | 86.53
+  Miscellaneous Analyses
+  Percent Moisture or Total Extractable Organics (TEOs) | 16.5244
+  Sample Homgenation and Compositing | 19.956
+  For analyses not listed please contact anthony.provatas@uconn.edu or christopher.perkins@uconn.edu for pricing.
+  Prices are subject to change without notice.
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: External Pricing
+────────────────────────────────────────────────────────────────────────────────
+  Organics and Biomolecule Analysis Price List
+  External Pricing 
+  Analytical Testing Services
+  Effective Date: December 31, 2025
+  Persistent Organic Pollutants (Pesticides, PCBs, Herbicides, PAHs, PBDEs)
+  Parameter | Cost per sample
+  Persistent Organic Pollutants in Tissue, Soil/Sediment, Blood, Solids | 164.714
+  Persistent Organic Pollutants in Water | 170.644
+  Per- and polyfluoroalkyl substances (PFAS)
+  PFAS in Tissue, Soil/Sediment, Blood, Solids - CESE Method (28 compounds) | 289.647
+  PFAs in Water - EPA 537.1 or CESE Method (28 Compounds) | 312.392
+  PFAS in  Tissue, Soil/Sediment, Blood, Solids -EPA 1633 | 606.342
+  PFAs in Water  - EPA 1633 | 555.189
+  3 compound PFAS analysis (Any 3 Compounds)- Water | 172.16
+  3 compound PFAS analysis (Any 3 Compounds)- Tissue, Soil/Sediment, Blood, Solids | 226.916
+  Harmful Algal Bloom (HAB) Toxins, including Microcystins
+  Microcystin/HABs in Water - up to 14 Toxins | 220.871
+  Microcystin/HABs in Tissue and Sediment - up to 14 Toxins | 216.773
+  Small Molecule/ Pharmaceutical/Biomedical/Non-Persistent Compounds
+  Small Molecule/Pharmaceutical/Biomedical Analysis (up to 3 compounds) | 184.477
+  Small Molecule/Pharmaceutical/Biomedical Analysis (> 3 compounds) | 216.442
+  Fatty Acid Analysis | 177.31
+  Short Chain Fatty Acid Analysis | 219.609
+  Single Compound Purity Assessment | 84.2286
+  Untargeted Analysis - (hourly rate) CESE Chemist included in rate | 253.03
+  Analysis For Canabanoids/THC
+  Parameter | Cost per sample
+  THC/CBD  in tissue and plant material | 193.72
+  Miscellaneous Analyses
+  Percent Moisture or Total Extractable Organics (TEOs) | 32.8703
+  Sample Homgenation and Compositing | 26.8422
+  For analyses not listed please contact anthony.provatas@uconn.edu or christopher.perkins@uconn.edu for pricing.
+  Prices are subject to change without notice.
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Total Cost Summary
+────────────────────────────────────────────────────────────────────────────────
+  Center for Environmental Sciences & Engineering (CESE)
+  Organics Division Rates 
+  2025-12-18 00:00:00
+   |  |  | Internal Enhanced | External | Internal | Internal Enhanced | External | Internal |  |  |  | Internal Enhanced |  | Grad Assisted |  | Internal
+   |  |  | Preparation | Preparation | Preparation | Analysis | Analysis | Analysis | Internal Enhanced | External | Ingternal | QA/Admin | External | UConn Research | Ingternal | Enhanced | External | External | Internal
+  Parameter | Instrument | Preparation | Cost | Cost | Cost | Cost | Cost | Cost | Depreciation | Depreciation | Depreciation | (See Note) | QA/Admin | Rate (No IDC) | QA/Admin | Rate (No IDC) | Rate (No IDC) | Rate (with 61% IDC) | Rate | Notes
+  Persistent Organics Pollutants (POPs) - Pesticides, PCBs, PAHs, PBDEs
+  POPs in Tissue, Solids, Soil, Blood | GC/MS/MS | QuEChERS  | 23.8682 | 31.5695 | 12.5093 | 36.8501 | 60.1568 | 3.44387 | 0 | 0 | 0 | 12.697 | 10.5808 | 73.4153 | 6.3485 | 73.4153 | 102.307 | 164.714 | 22.3017
+  POPs in Water | GC/MS/MS | SPE | 29.8619 | 35.2525 | 19.046 | 36.8501 | 60.1568 | 3.44387 | 0 | 0 | 0 | 12.697 | 10.5808 | 79.409 | 6.3485 | 79.409 | 105.99 | 170.644 | 28.8384
+  Per- and polyfluoroalkyl substances (PFAS)
+  PFAS in  Tissue, Solids, Soil, Blood - CESE Method (28 compounds) | UPLC/MS/MS | Quechers/ SPE | 67.5379 | 75.2392 | 52.7577 | 63.8724 | 94.0848 | 21.6614 | 0 | 0 | 0 | 12.697 | 10.5808 | 144.107 | 6.3485 | 144.107 | 179.905 | 289.647 | 80.7676
+  PFAs in Water - EPA 537.1 or CESE Method (28 Compounds) | UPLC/MS/MS | SPE | 67.8102 | 75.0199 | 51.3176 | 73.0399 | 108.432 | 23.06 | 0 | 0 | 0 | 12.697 | 10.5808 | 153.547 | 6.3485 | 153.547 | 194.032 | 312.392 | 80.7262
+  PFAS in  Tissue, Solids, Soil, Blood -EPA 1633 | UPLC/MS/MS | Quechers/ SPE | 163.385 | 176.982 | 144.108 | 124.824 | 189.047 | 34.705 | 0 | 0 | 0 | 12.697 | 10.5808 | 300.906 | 6.3485 | 300.906 | 376.61 | 606.342 | 185.162
+  PFAs in Water  - EPA 1633 | UPLC/MS/MS | SPE | 135.656 | 145.21 | 116.476 | 124.824 | 189.047 | 34.705 | 0 | 0 | 0 | 12.697 | 10.5808 | 273.177 | 6.3485 | 273.177 | 344.838 | 555.189 | 157.53
+  3 compound PFOS/PFOA analysis- Water | UPLC/MS/MS | SPE | 29.8619 | 35.2525 | 19.046 | 40.554 | 61.0985 | 12.0681 | 0 | 0 | 0 | 12.697 | 10.5808 | 83.1129 | 6.3485 | 83.1129 | 106.932 | 172.16 | 37.4626
+  3 compound PFOS/PFOA analysis- Tissue, Solids, Soil, Blood | UPLC/MS/MS | Quechers/ SPE | 63.7516 | 69.2621 | 52.429 | 40.554 | 61.0985 | 12.0681 | 0 | 0 | 0 | 12.697 | 10.5808 | 117.003 | 6.3485 | 117.003 | 140.941 | 226.916 | 70.8456
+  Pharmaceuticals
+  Single Compound Purity Assessment | UPLC/MS/MS | No Prep-Dilution | 0 | 0 | 0 | 29.3048 | 41.7351 | 15.3208 | 0 | 0 | 0 | 12.697 | 10.5808 | 42.0018 | 6.3485 | 42.0018 | 52.3159 | 84.2286 | 21.6693
+  HAB Toxins
+  Microcystin/HABs in Water | UPLC/QTOF | Dir. Evap | 27.5094 | 34.1152 | 17.0746 | 46.2956 | 71.5013 | 10.8176 | 20.9898 | 20.9898 | 20.9898 | 12.697 | 10.5808 | 107.492 | 6.3485 | 107.492 | 137.187 | 220.871 | 55.2305
+  Microcystin/HABs in Tissue andSediment | UPLC/QTOF | QuEChERS | 23.8682 | 31.5695 | 12.5093 | 46.2956 | 71.5013 | 10.8176 | 20.9898 | 20.9898 | 20.9898 | 12.697 | 10.5808 | 103.851 | 6.3485 | 103.851 | 134.641 | 216.773 | 50.6653
+  Small Molecules/ Biomedical/Non-Persistent Compounds
+  Pharmaceutical/Biomedical Analysis (up to 3 compounds) | UPLC/MS/MS | Quechers/SPE | 35.2014 | 42.9027 | 23.8426 | 40.554 | 61.0985 | 12.0681 | 0 | 0 | 0 | 12.697 | 10.5808 | 88.4525 | 6.3485 | 88.4525 | 114.582 | 184.477 | 42.2592
+  Pharmaceutical/Biomedical Analysis (> 3 compounds) | UPLC/MS/MS | Quechers/SPE | 35.2014 | 42.9027 | 23.8426 | 52.4664 | 80.9523 | 12.0681 | 0 | 0 | 0 | 12.697 | 10.5808 | 100.365 | 6.3485 | 100.365 | 134.436 | 216.442 | 42.2592
+  Fatty Acid Anaysis | GC/MS/MS | Quechers/SPE | 35.2014 | 42.9027 | 23.8426 | 35.2389 | 56.6465 | 4.68128 | 0 | 0 | 0 | 12.697 | 10.5808 | 83.1374 | 6.3485 | 83.1374 | 110.13 | 177.31 | 34.8724
+  Short Chain Fatty Acids | GC/MS/MS | Derivitization | 58.3343 | 69.1759 | 42.7651 | 35.2389 | 56.6465 | 4.68128 | 0 | 0 | 0 | 12.697 | 10.5808 | 106.27 | 6.3485 | 106.27 | 136.403 | 219.609 | 53.7949
+  Hemp and Hemp Derived Products
+  THC/CBD in Hemp and Hemp products | HPLC PDA | LLE/Centrifuge | 8.7222 | 22.3309 | 6.25043 | 64.4498 | 87.4112 | 31.5615 | 0 | 0 | 0 | 12.697 | 10.5808 | 85.869 | 6.3485 | 85.869 | 120.323 | 193.72 | 44.1604
+  Misc.
+  Sample homgenation and compositing | None | None | 7.25899 | 9.83549 | 1.25899 | 0 | 0 | 0 | 0 | 0 | 0 | 12.697 | 10.5808 | 19.956 | 6.3485 | 19.956 | 20.4163 | 32.8703 | 7.6075 | No Administration/QA -  This is part of larger test that would be required for multiple analyses
+  Percent Moisture or Total Extractable Organics (TEOs) | Gravimetric | CESE | 0 | 0 | 0 | 3.82744 | 6.09132 | 1.08886 | 0 | 0 | 0 | 12.697 | 10.5808 | 16.5244 | 6.3485 | 16.5244 | 16.6722 | 26.8422 | 7.43737 | Prep included in analysis cost - no Admin cost since part of PAH metabolites (not stand alone test)
+  Instrument Use Rate (No QA/QC)
+  Untargeted Analysis - CESE Chemist oversees trained user | UPLC/QToF | None | 0 | 0 | 0 | 23.4544 | 28.4629 | 23.5398 | 28.8321 | 28.8321 | 28.8321 | 12.697 | 7.25133 | 64.9836 | 6.3485 | 64.9836 | 64.5464 | 103.92 | 58.7204 | Note - Training and Instruction Level II hourly personnel rate - includes administrative overhead
+  Untargeted Analysis - Full Service - Does not include Staff hourly rate | UPLC/QToF | None | 0 | 0 | 0 | 23.4544 | 28.4629 | 23.5398 | 28.8321 | 28.8321 | 28.8321 | 12.697 | 7.25133 | 64.9836 | 6.3485 | 64.9836 | 64.5464 | 103.92 | 58.7204 | Note - Does not include any CESE Staff time for analysis
+  Note: All instrument use rates are hourly based.  The Analysis charge is based on the CESE approved Training and Instruction rates
+  Note: Due to more rigorous reporting and data management requirements for the State of Connecticut and Federal Agency Contracts, the QA/Admins costs are twice that of other clients and are reflective as a surcharge in that cost structure
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: consumables
+────────────────────────────────────────────────────────────────────────────────
+  Center for Environmental Sciences & Engineering (CESE)
+  Organics Division Consumable Costs 
+   | Package |  | Package | Cost w/ | Unit
+  Container | Amount | Units | Cost | 15% surcharge | Cost | Shipping Cost |  | Item number and Vendor | Color Key
+   |  |  |  |  |  |  |  |  | Green= New consumables
+  Solvents |  |  |  |  |  |  |  |  | Red=Remove these
+  Dichloromethane HPLC  | 4000 | ml | 152.99 | 175.939 | 0.0439846 |  |  | Fisher Scientific AA22917K7 | Yellow=Current price 6/2025
+  Formic Acid OPTIMA LC/MS | 50 | ml | 48.21 | 55.4415 | 1.10883 |  |  | Fisher Scientific A117-2AMP
+  N-Hexane 95% OPTIMA | 4000 | ml | 134.45 | 154.617 | 0.0386544 |  |  | Fisher Scientific H306-4
+  Acetonitrile LC/MXS OPTIMA  4L/cs-4 | 4000 | ml | 121.73 | 139.989 | 0.0349974 |  |  | Fisher Scientific A955-4
+  Water Optima LC/MS, 4L | 4000 | ml | 32.38 | 37.237 | 0.00930925 |  |  | Fisher Scientific W64
+  Methanol, Optima Grade/ LC/MS Grade | 1000 | ml | 84.7 | 97.405 | 0.097405 |  |  | Fisher Scientific A456-4
+  Methylene Chloride - GC Resolve) | 4000 | ml | 50.81 | 58.4315 | 0.0146079 |  |  | Fisher Scientific  D154-4
+  Hexanes (Certified ACS) | 4000 | ml | 26.98 | 31.027 | 0.00775675 |  |  | Fisher Scientific H292-4
+  Hexanes HPLC | 4000 | ml | 47.03 | 54.0845 | 0.0135211 |  |  | Fisher Scientific H302SK-4
+  Hexanes, Optima for HPCL and GC | 4000 | ml | 79.88 | 91.862 | 0.0229655 |  |  | Fisher Scientific H303SK-4
+  TFA, Optima | 10 | ml | 108.35 | 124.602 | 12.4602 |  |  | Fisher A116-10X1AMP
+  TFA, 99%, TCI | 500 | g | 89.51 | 102.936 | 0.205873 |  |  | Fisher T0431500G
+  TFA, HPLC, 99.5% | 500 | ml | 438.37 | 504.125 | 1.00825 |  |  | Fisher AA44630AP
+  Misc Chemicals
+  Chicken Red Blood Cells | 15 | ml | 117 | 134.55 | 8.97 |  |  | Lampire 7241408
+  Beta Glucaronidase from Helix pomatia | 25 | ml | 839 | 964.85 | 38.594 |  |  | Millipore G7017
+  QuEChERS Extraction Salts Kit (50 samples) | 50 | ea | 248.4 | 285.66 | 5.7132 |  |  | Fisher 06-611-961
+  Sodium Acetate-Anhydrous | 1000 | g | 67.52 | 77.648 | 0.077648 |  |  | Fisher BP333-1
+  Supplies
+  Wide-Mouth PTFE Bottles 250 ml | 1 | ea | 78.76 | 90.574 | 90.574 |  |  | Fisher 02-617-19
+  Wide-Mouth PTFE Bottles 500 ml | 1 | ea | 223.39 | 256.898 | 256.898 |  |  | Fisher 02-617-20
+  Nalgene wide-mouth HDPE 30ml | 12 | ea | 42.87 | 49.3005 | 4.10837 |  |  | Fisher 02-893-5A
+  sep-pak C18 6 cc Vac Cartridge, 500mg 30/pk | 30 | ea | 197.1 | 226.665 | 7.5555 |  |  | Fisher 50-785-510
+  Gloves, nitrile 100/pk | 100 | ea | 6.19 | 7.1185 | 0.071185 |  |  | Fisher 19-130-1597D
+  Pipet Disp 5 3/4 DWK Life Sciences | 1440 | cs | 182.16 | 209.484 | 0.145475 |  |  | Fisher S00180
+  Hamilton Syringe Restek, 5 micro-L 24G | 1 | ea | 207.96 | 239.154 | 239.154 |  |  | Fisher 06-712-345
+  Hamilton Syringe Restek, 1 mL 22s G | 1 | ea | 98.82 | 113.643 | 113.643 |  |  | Fisher 06-712-367
+  Pipet Tips, Sterile 200microL | 960 | ea | 43.43 | 49.9445 | 0.0520255 |  |  | Fisher 02-100-505
+  Tubes, centrifuge 15mL | 500 | ea | 85.97 | 98.8655 | 0.197731 |  |  | Fisher 05-539-4
+  Tube, Globe Scientific 15mL | 500 | ea | 85.89 | 98.7735 | 0.197547 |  |  | Fisher 22-171-716
+  Microcentrifuge tubes, 2.0mL | 500 | ea | 17.81 | 20.4815 | 0.040963 |  |  | Fisher 05-408-138
+  Vials Support serum 16-20mm | 1 | ea | 39.68 | 45.632 | 45.632 |  |  | Fisher 14-809-21
+  Vials, 4 ml, glass screw thread | 100 | ea | 61.83 | 71.1045 | 0.711045 |  |  | Fisher 03-375-3H
+  Vials with Fused insert CLEAR | 100 | ea | 168.45 | 193.717 | 1.93717 | 25.34 |  | Microsolve 9532S-WCV-WT-RS
+  Vials, autosampler, clear glass | 100 | ea | 48.18 | 55.407 | 0.55407 | 25.34 |  | Microsolve 9502S-WCV
+  Caps for vials with fused insert | 1000 | ea | 135.73 | 156.089 | 0.156089 | 25.34 |  | Microsolve 9502S-E-10C-B-M
+  Dropper Vial Bulb | 24 | ea | 40 | 46 | 1.91667 |  |  | Millipore sigma HS20629B-24EA
+  Wheaton sample vials rubber lined caps | 144 | ea | 135 | 155.25 | 1.07812 |  |  | Millipore Sigma Z256064-1PAK
+  Vials, sample PTFE CAP 8ml | 144 | ea | 185.2 | 212.98 | 1.47903 |  |  | Fisher 02-993-075
+  Vials, Polypropylene screw neck, 300uL, 12x32 | 100 | ea | 12.67 | 14.5705 | 0.145705 |  |  | Fisher 13-622-124
+  Aluminum Weighing Pan | 100 | ea | 23.37 | 26.8755 | 0.268755 |  |  | Fisher 08-732-110
+  Oasis HLB Cartridge 6CC/500MG | 30 | ea | 455.24 | 523.526 | 17.4509 |  |  | Fisher NC2604851
+  Ferrule, Peek | 1 | ea | 31.51 | 36.2365 | 36.2365 | 33.8 |  | Waters 700003114
+  0.2µm x 4mm PTFE syringe filters | 100 | pk | 117.87 | 135.55 | 1.3555
+  OASIS WAX/GCB Cartridges | 300 | pk | 3600 | 4140 | 13.8
+  Nylon Syringe Filter | 100 | pk | 397 | 456.55 | 4.5655 |  |  | Fisher 03-377-136
+  5mL polyproylene Syringes | 100 | pk | 48.26 | 55.499 | 0.55499 |  |  | Fishrer 50-872-581
+  Analytical Standards
+  U.S. EPA Method 537 Internal Standard Primary Dilution (IS PDS) | 1 | ea | 275 | 316.25 | 316.25 |  |  | Wellington EPA-537IS
+  USEPA Method 537.1 Surrogage Mix | 1 | ea | 325 | 373.75 | 373.75 |  |  | Wellington EPA-537SS-R1
+  PFAS 28 Calibration Standard | 1 | ea | 463 | 532.45 | 532.45 | 38.97 |  | Restek 30734
+  Method 1633 PFC Calibration Standard | 1 | ea | 895 | 1029.25 | 1029.25 | 15 |  | Absolute Standards, Item 65735
+  Labeled PFC Extraction Standard IS | 1 | ea | 300 | 345 | 345 |  |  | Wellington MPFAC-HIF-IS
+  Labeled PFC Extraction Standard ES | 1 | ea | 900 | 1035 | 1035 |  |  | Wellington MPFAC-HIF-ES
+  C7-C40 Saturated Alkanes Standard | 1 | ea | 55.8 | 64.17 | 64.17 |  |  | MilliporeSigma 49452-U
+  Small Molecule Analyitcal Standards | 1 | ea | 125 | 143.75 | 143.75 |  |  | Accustandard/Sigma
+  Deuterated Alkyl PAH standards | 1 | ml | 200 | 230 | 230 |  |  | Accustandard/Sigma
+  Deuterated Parent PAH standards - Pyrene D10 | 5 | ml | 125 | 143.75 | 28.75
+  Parent PAH calibration Standards | 1 | ml | 110 | 126.5 | 126.5
+  Parent PAH standards | 1 | ml | 50 | 57.5 | 57.5
+  Microcystin analytical standards (LR, RR, YR) | 1000 | ug | 1500 | 1725 | 1.725 |  |  | Cayman
+  Anatoxin-a Standard | 1000 | ug | 100 | 115 | 0.115 |  |  | Sigma
+  Domoic Acid Reference Standard | 0.5 | mL | 105 | 120.75 | 241.5 |  |  | NRC Canada
+  Brevetoxin Standards |  |  |  |  |  |  |  | Cayman
+  Deuterated pharma spiking solutions - sum of multiple | 1000 | ul | 475 | 546.25 | 0.54625
+  Pharmaceutical standards | 1000 | ul | 395 | 454.25 | 0.45425
+  THC Standards | 300 | ug | 1385 | 1592.75 | 5.30917 |  |  | 300 samples per batch of Stds
+  Terpene Standards | 50 | ug | 595 | 684.25 | 13.685 |  |  | 50 sam,ples per batch of stads
+  Personnel Cost  | FY26 | FY26 | Units | Loaded Salary | Unit Cost | Hourly Charge
+  Service Client Rates (100% of Salaries and Fringes)
+  Provatas, Anthony | 44.2 wks @35 hrs/wk | 92820 | mins | 160246 | 1.72642 | 103.585 |  |  | updated 7/1/25
+  Marisa Vatteroni | 44.2 wks @35 hrs/wk | 92820 | mins | 67785.1 | 0.730286 |  |  |  | updated 7/1/25
+  Student Support |  | 60 | mins | 20 | 0.333333 |  |  |  | updated 7/1/25
+  Internal to UConn Faculty Rate (60% of Permanenet Employees - Ledger 2 salaries removed)
+  Provatas, Anthony | 44.2 wks @35 hrs/wk | 92820 | mins | 96147.8 | 1.03585 |  |  |  | updated 7/1/25
+  Marisa Vatteroni | 44.2 wks @35 hrs/wk | 92820 | mins | 40671.1 | 0.438171 |  |  |  | updated 7/1/25
+  Student Support |  | 60 | mins | 20 | 0.333333 |  |  |  | updated 7/1/25
+  General Instrument Consumables | Total Price/ Tank | Container | Units | Price + 10% |  | Notes
+  Argon, LQ, 180 230psi | 555.43 |  | tank | 610.973 |  |  |  | Airgas AR 180LT230 | updated 7/1/25
+  Argon UHP | 88.42 |  | tank | 97.262 |  |  |  | Airgas AR UHP300 | updated 7/1/25
+  Nitrogen, LQ, 180 230psi | 125.43 |  | tank | 137.973 |  |  |  | Airgas NI 180LT230 | updated 7/1/25
+  Helium UHP300 | 277.72 |  | tank | 305.492 |  |  |  | Airgas HE UHP300 | updated 7/1/25
+  Methane, UHP300 | 383.33 |  | tank | 421.663 |  |  |  | Airgas ME UHP300 | updated 7/1/25
+  UPLC/MS/MS and QToF Consumables - Time based | Total Price | Container | Units | Price + 10% | Annual Cost | Notes
+  C-18 Column | 1500 | 1 | ea | 1650 | 1650
+  Maintenece Costs - Estimated | 10000 | 1 | ea | 11000 | 11000
+  Nitrogen Generator Refurb Kit | 2500 | 1 | ea | 2750 | 2750
+  Total Cost | # Tests | 2000 |  | 15400 | 7.7
+  GC/MS/MS Consumables - Time based | Total Price | Container | Units | Price + 10% | Annual Cost | Notes
+  DB-XLB Column | 500 | 1 | ea | 550 | 550
+  Maintenece Costs - Estimated | 4000 | 1 | ea | 4400 | 4400
+  Gas Usage-Helium | 305.492 | 2 | ea | 336.041 | 672.082
+  Gas Usage-Argon | 97.262 | 1 | ea | 106.988 | 106.988
+  Total Cost | # Tests | 800 |  | 5729.07 | 7.16134
+  UPLC Consumables - Time based | Total Price | Container | Units | Price + 10% | Annual Cost | Notes
+  C-18 Column | 700 | 1 | ea | 770 | 770
+  Maintenece Costs - Estimated | 2000 | 1 | ea | 2200 | 2200
+  Total Cost | # Tests | 100 |  | 2970 | 29.7
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Prep- Tissue_Soil_Blood
+────────────────────────────────────────────────────────────────────────────────
+  Preparation Methods - Tissue, Solids, Blood, and Soil
+  QuEChERS/SPE - All analyses 
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: |  | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Label Sample Tubes | 1 | min per sample | Centrifuge | SPE Cartridges | 30 | 7.5555 | 226.665
+  Homogenize,  Weigh, Salt Sample | 2 | min per sample |  | Solvent (ACN) | 300 | 0.0349974 | 10.4992
+  Liquid/Liquid Extraction | 3 | min per sample | Vortex Mixer | Pipette tips | 60 | 0.0520255 | 3.12153
+  Transfer Sample | 3 | min per sample |  | Tubes | 30 | 0.197731 | 5.93193
+  SPE cleanup | 5 | min per sample |  | Analytical Stds | 0.05 | 143.75 | 7.1875
+  Concentration | 60 | min per group |  | Gloves | 22 | 0.071185 | 1.56607
+  Add in Stds. | 1 | min per sample |  | Quechers Mix | 30 | 5.7132 | 171.396
+  Cleaning of equipment | 1 | min per sample |  | LC/GC vials | 30 | 0.55407 | 16.6221
+  Record Keeping/Data Entry | 60 | min per group |  |  |  |  | 0
+  Manager Supervision | 20 | min per group |  |  |  |  | 0
+   |  |  |  |  |  |  | 0
+  Graduate Supervision - Staff | 30 | min per group |  |  | Consumables |  | 442.989
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost
+  Staff (Marisa) | 480 | mins per group | 0.730286 | 350.537 | TOTAL ANALYSIS COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Students | 90 | mins per group | 0.333333 | 30 | External Cost |  | 858.055 | 42.9027 | 20
+  Supervision (Anthony) | 20 | mins per group | 1.72642 | 34.5284 | Internal Enhanced |  | 704.029 | 35.2014 | 20
+  Internal Enhanced Reporting Rates |  |  |  |  | Internal |  | 476.852 | 23.8426 | 20
+  Staff (Marisa) | 480 | mins per group | 0.438171 | 210.322
+  Students | 90 | mins per group | 0.333333 | 30
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  Internal Rates
+  Grad Supervision - Staff (Marisa) | 30 | mins per group | 0.438171 | 13.1451
+  Grad Student | 570 | mins per group | 0 | 0
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  QuEChERS ONLY   - All analyses 
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: |  | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Label Sample Tubes | 1 | min per sample | Centrifuge
+  Homogenize,  Weigh | 2 | min per sample |  | Solvent (ACN) | 300 | 0.0349974 | 10.4992
+  Vortex/Sonicate | 3 | min per sample | Vortex Mixer | Pipette tips | 60 | 0.0520255 | 3.12153
+  Centrifuge | 3 | min per sample |  | Tubes | 30 | 0.197731 | 5.93193
+  Transfer | 5 | min per sample |  | Analytical Stds | 0.05 | 143.75 | 7.1875
+  Concentration | 60 | min per group |  | Gloves | 22 | 0.071185 | 1.56607
+  Add in Stds. | 1 | min per sample |  | Quechers Mix | 30 | 5.7132 | 171.396
+  Cleaning of equipment | 1 | min per sample |  | LC/GC vials | 30 | 0.55407 | 16.6221
+  Record Keeping/Data Entry | 60 | min per group
+  Graduate Supervision - Staff | 30 | min per group
+   |  |  |  |  | Consumables |  | 216.324
+  Manager Supervision | 20 | min per group
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost
+  Staff (Marisa) | 480 | mins per group | 0.730286 | 350.537 | TOTAL ANALYSIS COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Students | 90 | mins per group | 0.333333 | 30 | External Cost |  | 631.39 | 31.5695 | 20
+  Supervision (Anthony) | 20 | mins per group | 1.72642 | 34.5284 | Internal Enhanced |  | 477.364 | 23.8682 | 20
+  Internal Enhanced Reporting Rates |  |  |  |  | Internal |  | 250.187 | 12.5093 | 20
+  Staff (Marisa) | 480 | mins per group | 0.438171 | 210.322
+  Students | 90 | mins per group | 0.333333 | 30
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  Internal Rates
+  Grad Supervision - Staff (Marisa) | 30 | mins per group | 0.438171 | 13.1451
+  Grad Student | 570 | mins per group | 0 | 0
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  PFAS in Tissue and Blood QuEChERS/SPE Method (28 Compounds)
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: |  | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Homogenize/ Weigh Sample | 3 | min per sample | Centrifuge | ACN | 180 | 0.0349974 | 6.29953
+  Label Sample Tubes | 1.5 | min per sample | Nvap | Quechers Mix | 30 | 5.7132 | 171.396
+  Add to QuEChERS Tubes/ Vortex | 2 | min per sample | Vortex Mixer | Vials, 8ml | 30 | 1.47903 | 44.3708
+   |  |  |  | PFOS Analy. Stds. | 0.2 | 532.45 | 106.49
+  Load onto SPE | 3 | min per sample |  | PFOS Deuterated std. | 0.2 | 316.25 | 63.25
+  Transfer and Wash | 3 | min per sample |  | PFOS Surrogate stds | 0.2 | 373.75 | 74.75
+  Concentration | 120 | min per group |  | Gloves | 22 | 0.071185 | 1.56607
+  Add in Stds. | 2 | min per sample |  | pipette tips | 60 | 0.0520255 | 3.12153
+  Cleaning of equipment | 6 | min per sample |  | Formic Acid | 3 | 1.10883 | 3.32649
+  Record Keeping/Data Entry | 60 | min per group |  | LC/GC vials | 30 | 0.55407 | 16.6221
+   |  |  |  | SPE Cartridgers (HLB) | 30 | 17.4509 | 523.526
+  Manager Supervision | 20 | min per group
+   |  |  |  |  |  |  | 0
+  Graduate Supervision - Staff | 45 | min per group |  |  |  |  | 0
+   |  |  |  |  | Consumables |  | 1014.72
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost
+  Staff (Marisa) | 480 | mins per group | 0.730286 | 350.537 | TOTAL ANALYSIS COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Students | 315 | mins per group | 0.333333 | 105 | External Cost |  | 1504.78 | 75.2392 | 20
+  Supervision (Anthony) | 20 | mins per group | 1.72642 | 34.5284 | Internal Enhanced |  | 1350.76 | 67.5379 | 20
+  Internal Enhanced Reporting Rates |  |  |  |  | Internal |  | 1055.15 | 52.7577 | 20
+  Staff (Marisa) | 480 | mins per group | 0.438171 | 210.322
+  Students | 315 | mins per group | 0.333333 | 105
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  Internal Rates
+  Grad Supervision - Staff (Marisa) | 45 | mins per group | 0.438171 | 19.7177
+  Grad Student | 795 | mins per group | 0 | 0
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  PFOS EPA 1633 Preparation Method
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: |  | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Homogenize sample | 3 | min per sample |  | Formic Acid (0.3M) | 35 | 1.10883 | 38.809
+  Vortex/weigh sample | 2 | min per sample |  | Methanol | 800 | 0.097405 | 77.924
+  Label Sample Tubes | 1.5 | min per sample | Evap | TFA | 5 | 12.4602 | 62.3012
+  Prepare SPE | 3 | min per sample |  | Tubes | 35 | 0.197547 | 6.91415
+  Load SPE | 4 | min per sample |  | Deuterated Extraction Stds | 1 | 1035 | 1035
+  Elute | 6 | min per sample |  | Optima Water | 35 | 0.00930925 | 0.325824
+  Test/Adjust pH | 2 | min per sample |  | Gloves | 22 | 0.071185 | 1.56607
+  Filtration | 5 | min per sample |  | pipette tips | 60 | 0.0520255 | 3.12153
+  Vortex/pour off sample | 2 | min per sample |  | Spiking Stds. | 0.25 | 1029.25 | 257.312
+  Concentration | 120 | min per group |  | Syringe Filter | 30 | 4.5655 | 136.965
+  Add in Stds. | 1.5 | min per sample |  | LC/GC vials | 30 | 0.145705 | 4.37115
+  Cleaning of equipment | 6 | min per sample |  | Oasis WAX/GDP SPE | 30 | 13.8 | 414
+  Record Keeping/Data Entry | 90 | min per group |  | Surrogate Stds | 0.5 | 1650 | 825
+  Manager Supervision | 30 | min per group
+  Graduate Supervision - Staff | 60 | min per group |  |  | Consumables |  | 2824.8
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost
+  Staff (Marisa) | 860 | mins per group | 0.730286 | 628.046 | TOTAL ANALYSIS COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Students | 105 | mins per group | 0.333333 | 35 | External Cost |  | 3539.64 | 176.982 | 20
+  Supervision (Anthony) | 30 | mins per group | 1.72642 | 51.7926 | Internal Enhanced |  | 3267.7 | 163.385 | 20
+  Internal Enhanced Reporting Rates |  |  |  |  | Internal |  | 2882.17 | 144.108 | 20
+  Staff (Marisa) | 860 | mins per group | 0.438171 | 376.827
+  Students | 105 | mins per group | 0.333333 | 35
+  Supervision (Anthony) | 30 | mins per group | 1.03585 | 31.0756
+  Internal Rates
+  Grad Supervision - Staff (Marisa) | 60 | mins per group | 0.438171 | 26.2903
+  Grad Student | 965 | mins per group | 0 | 0
+  Supervision (Anthony) | 30 | mins per group | 1.03585 | 31.0756
+  PFOS in Tissue and Blood QuEChERS/SPE Method (<3 Compounds)
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: |  | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Homogenize/ Weigh Sample | 2 | min per sample | Centrifuge | ACN | 180 | 0.0349974 | 6.29953
+  Label Sample Tubes | 1.5 | min per sample | Nvap | Quechers Mix | 30 | 5.7132 | 171.396
+  Add to QuEChERS Tubes/ Vortex | 1 | min per sample | Vortex Mixer | Vials, 8ml | 30 | 1.47903 | 44.3708
+  Load onto SPE | 3 | min per sample |  | PFOS Deuterated std. | 0.2 | 316.25 | 63.25
+  Transfer and Wash | 3 | min per sample |  | PFOS Surrogate stds | 0.2 | 373.75 | 74.75
+  Concentration | 60 | min per group |  | PFOS Analy. Stds. | 0.2 | 532.45 | 106.49
+  Add in Stds. | 1 | min per sample |  | Gloves | 22 | 0.071185 | 1.56607
+  Cleaning of equipment | 6 | min per sample |  | pipette tips | 60 | 0.0520255 | 3.12153
+  Record Keeping/Data Entry | 30 | min per group |  | Formic Acid | 3 | 1.10883 | 3.32649
+   |  |  |  | LC/GC vials | 30 | 0.55407 | 16.6221
+  Manager Supervision | 20 | min per group |  | SPE Cartridgers (HLB) | 30 | 17.4509 | 523.526
+   |  |  |  |  |  |  | 0
+  Graduate Supervision - Staff | 30 | min per group |  |  |  |  | 0
+   |  |  |  |  | Consumables |  | 1014.72
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost
+  Staff (Marisa) | 330 | mins per group | 0.730286 | 240.994 | TOTAL ANALYSIS COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Students | 285 | mins per group | 0.333333 | 95 | External Cost |  | 1385.24 | 69.2621 | 20
+  Supervision (Anthony) | 20 | mins per group | 1.72642 | 34.5284 | Internal Enhanced |  | 1275.03 | 63.7516 | 20
+  Internal Enhanced Reporting Rates |  |  |  |  | Internal |  | 1048.58 | 52.429 | 20
+  Staff (Marisa) | 330 | mins per group | 0.438171 | 144.597
+  Students | 285 | mins per group | 0.333333 | 95
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  Internal Rates
+  Grad Supervision - Staff (Marisa) | 30 | mins per group | 0.438171 | 13.1451
+  Grad Student | 615 | mins per group | 0 | 0
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  HEMP --- THC and CBD analysis
+  Total Samples per Batch: | 15 |  | Number of Actual Samples: |  | 10
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Homogenize/ Weigh Sample | 2 | min per sample | Centrifuge | ACN | 75 | 0.0349974 | 2.6248
+  Label Sample Tubes | 1.5 | min per sample
+  Liquid extraction | 2 | min per sample | Vortex Mixer | Tubes | 15 | 0.197731 | 2.96596
+  Centrifuge/Vortex | 2 | min per sample
+  Transfer to vials | 1 | min per sample
+   |  |  |  | Gloves | 4 | 0.071185 | 0.28474
+   |  |  |  | pipette tips | 60 | 0.0520255 | 3.12153
+  Add in Stds. | 1 | min per sample |  | THC/CBD Standards | 10 | 5.30917 | 53.0917
+  Cleaning of equipment | 1 | min per sample
+  Record Keeping/Data Entry | 45 | min per group |  | LC/GC vials | 15 | 1.93717 | 29.0576
+  Manager Supervision | 20 | min per group
+  Graduate Supervision - Staff | 30 | min per group |  |  | Consumables |  | 91.1463
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost
+  Staff (Marisa) | 120 | mins per group | 0.730286 | 87.6343 | TOTAL ANALYSIS COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Students | 30 | mins per group | 0.333333 | 10 | External Cost |  | 223.309 | 22.3309 | 10
+  Supervision (Anthony) | 20 | mins per group | 1.72642 | 34.5284 | Internal Enhanced |  | 174.444 | 8.7222 | 20
+  Internal Enhanced Reporting Rates |  |  |  |  | Internal |  | 125.009 | 6.25043 | 20
+  Staff (Marisa) | 120 | mins per group | 0.438171 | 52.5806
+  Students | 30 | mins per group | 0.333333 | 10
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  Internal Rates
+  Grad Supervision - Staff (Marisa) | 30 | mins per group | 0.438171 | 13.1451
+  Grad Student | 150 | mins per group | 0 | 0
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  Derivitization - Short Chain Fatty Acids
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: |  | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Homogenize/ Weigh Sample | 2 | min per sample | Centrifuge | ACN | 150 | 0.0349974 | 5.24961
+  Label Sample Tubes | 1.5 | min per sample
+  Liquid extraction | 2 | min per sample | Vortex Mixer | Tubes | 30 | 0.197731 | 5.93193
+  Centrifuge/Vortex | 2 | min per sample |  | Glucaronidase | 20 | 38.594 | 771.88
+  Transfer to vials | 1 | min per sample
+  Incubation | 10 | min per sample |  | Gloves | 16 | 0.071185 | 1.13896
+  Centrifuge/Vortex | 3 | min per sample |  | pipette tips | 120 | 0.0520255 | 6.24306
+  Filtration | 10 | min per sample |  | THC/CBD Standards | 0.1 | 143.75 | 14.375
+  Add in Stds. | 1 | min per sample
+  Cleaning of equipment | 3 | min per sample |  | LC/GC vials | 30 | 0.55407 | 16.6221
+  Record Keeping/Data Entry | 45 | min per group
+  Manager Supervision | 20 | min per group
+  Graduate Supervision - Staff | 30 | min per group |  |  | Consumables |  | 821.441
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost
+  Staff (Marisa) | 695 | mins per group | 0.730286 | 507.549 | TOTAL ANALYSIS COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Students | 60 | mins per group | 0.333333 | 20 | External Cost |  | 1383.52 | 69.1759 | 20
+  Supervision (Anthony) | 20 | mins per group | 1.72642 | 34.5284 | Internal Enhanced |  | 1166.69 | 58.3343 | 20
+  Internal Enhanced Reporting Rates |  |  |  |  | Internal |  | 855.303 | 42.7651 | 20
+  Staff (Marisa) | 695 | mins per group | 0.438171 | 304.529
+  Students | 60 | mins per group | 0.333333 | 20
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  Internal Rates
+  Grad Supervision - Staff (Marisa) | 30 | mins per group | 0.438171 | 13.1451
+  Grad Student | 755 | mins per group | 0 | 0
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Prep - Water_Liquid
+────────────────────────────────────────────────────────────────────────────────
+  Preparation Methods - Water and Liquid
+  Direct Evaporation - All analyses (incl. Microcystins and HABs)
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: |  | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Label Sample Tubes | 1 | min per sample |  | Methanol | 800 | 0.097405 | 77.924
+  Transfer samples to 50mL | 2 | min per sample | Genevac | TFA | 2 | 12.4602 | 24.9205
+  Run Genevac | 2 | min per sample |  | Tubes | 35 | 0.197731 | 6.92058
+  Add Methonol/swirl | 1 | min per sample |  | Syringe filters | 35 | 1.3555 | 47.4427
+  Degas | 3 | min per sample
+  Filter | 5 | min per sample |  | Gloves | 22 | 0.071185 | 1.56607
+   |  |  |  | pipette tips | 60 | 0.0520255 | 3.12153
+  Add in Stds. | 1 | min per sample |  | Spiking Stds. | 50 | 1.725 | 86.25
+  Cleaning of equipment | 2 | min per sample |  | Surrogate Standards | 50 | 0.115 | 5.75
+   |  |  |  | LC/GC vials | 30 | 1.93717 | 58.1152
+  Record Keeping/Data Entry | 45 | min per group
+  Manager Supervision | 20 | min per group
+  Graduate Supervision - Staff | 20 | min per group |  |  | Consumables |  | 312.011
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost
+  Staff (Marisa) | 405 | mins per group | 0.730286 | 295.766 | TOTAL ANALYSIS COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Students | 120 | mins per group | 0.333333 | 40 | External Cost |  | 682.305 | 34.1152 | 20
+  Supervision (Anthony) | 20 | mins per group | 1.72642 | 34.5284 | Internal Enhanced |  | 550.187 | 27.5094 | 20
+  Internal Enhanced Reporting Rates |  |  |  |  | Internal |  | 341.491 | 17.0746 | 20
+  Staff (Marisa) | 405 | mins per group | 0.438171 | 177.459
+  Students | 120 | mins per group | 0.333333 | 40
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  Internal Rates
+  Grad Supervision - Staff (Marisa) | 20 | mins per group | 0.438171 | 8.76343
+  Grad Student | 525 | mins per group | 0 | 0
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  SPE  - All analyses 
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: |  | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Label Sample Tubes | 1 | min per sample |  | Methanol | 800 | 0.097405 | 77.924
+  Transfer Samples | 1.5 | min per sample | Genevac | Water - Optima | 100 | 0.00930925 | 0.930925
+  Prepare SPE | 3 | min per sample |  | Tubes | 35 | 0.197731 | 6.92058
+  Load SPE | 2 | min per sample |  | Deuterated Surr. Stds | 25 | 0.54625 | 13.6562
+  Elute | 3 | min per sample
+   |  |  |  | Gloves | 22 | 0.071185 | 1.56607
+  Concentration | 80 | min per group |  | pipette tips | 60 | 0.0520255 | 3.12153
+  Add in Stds. | 2 | min per sample |  | Spiking Stds. | 1 | 0.54625 | 0.54625
+  Cleaning of equipment | 2 | min per sample
+   |  |  |  | LC/GC vials | 30 | 0.145705 | 4.37115
+  Record Keeping/Data Entry | 60 | min per group |  | Sep Pack cartridges | 30 | 7.5555 | 226.665
+  Manager Supervision | 20 | min per group |  |  |  |  | 0
+   |  |  |  | Spiking Standards | 25 | 0.45425 | 11.3562
+   |  |  |  |  |  |  | 0
+  Graduate Supervision - Staff | 30 | min per group |  |  | Consumables |  | 347.058
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost
+  Staff (Marisa) | 440 | mins per group | 0.730286 | 321.326 | TOTAL ANALYSIS COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Students | 110 | mins per group | 0.333333 | 36.6667 | External Cost |  | 705.05 | 35.2525 | 20
+  Supervision (Anthony) | 20 | mins per group | 1.72642 | 34.5284 | Internal Enhanced |  | 597.237 | 29.8619 | 20
+  Internal Enhanced Reporting Rates |  |  |  |  | Internal |  | 380.92 | 19.046 | 20
+  Staff (Marisa) | 440 | mins per group | 0.438171 | 192.795
+  Students | 110 | mins per group | 0.333333 | 36.6667
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  Internal Rates
+  Grad Supervision - Staff (Marisa) | 30 | mins per group | 0.438171 | 13.1451
+  Grad Student | 550 | mins per group | 0 | 0
+  Supervision (Anthony) | 20 | mins per group | 1.03585 | 20.717
+  PFAs (EPA 537.1 and 28 compound method)
+  Total Samples per Batch: | 35 |  | Number of Actual Samples: |  | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Vortex/pour off sample | 1 | min per sample |  | Methanol | 800 | 0.097405 | 77.924
+  Label Sample Tubes | 1.5 | min per sample | Genevac | TFA | 5 | 12.4602 | 62.3012
+  Prepare SPE | 3 | min per sample |  | Tubes | 35 | 0.197731 | 6.92058
+  Load SPE | 2 | min per sample |  | Deuterated Stds | 0.3 | 316.25 | 94.875
+  Elute | 5 | min per sample |  | Optima Water | 35 | 0.00930925 | 0.325824
+   |  |  |  | Gloves | 22 | 0.071185 | 1.56607
+  Concentration | 120 | min per group |  | pipette tips | 70 | 0.0520255 | 3.64179
+  Add in Stds. | 2 | min per sample
+  Cleaning of equipment | 6 | min per sample
+   |  |  |  | LC/GC vials | 35 | 0.145705 | 5.09968
+  Record Keeping/Data Entry | 60 | min per group |  | Oasis HLB | 35 | 17.4509 | 610.78
+   |  |  |  | Surrogate Stds | 0.3 | 373.75 | 112.125
+  Manager Supervision | 30 | min per group
+  Graduate Supervision - Staff | 45 | min per group |  |  | Consumables (Full List) |  | 975.56
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost
+  Staff (Marisa) | 600 | mins per group | 0.730286 | 438.171 | TOTAL ANALYSIS COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Students | 260 | mins per group | 0.333333 | 86.6667 | External Cost |  | 1500.4 | 75.0199 | 20
+  Supervision (Anthony) | 30 | mins per group | 1.72642 | 51.7926 | Internal Enhanced |  | 1356.2 | 67.8102 | 20
+  Internal Enhanced Reporting Rates |  |  |  |  | Internal |  | 1026.35 | 51.3176 | 20
+  Staff (Marisa) | 600 | mins per group | 0.438171 | 262.903
+  Students | 260 | mins per group | 0.333333 | 86.6667
+  Supervision (Anthony) | 30 | mins per group | 1.03585 | 31.0756
+  Internal Rates
+  Grad Supervision - Staff (Marisa) | 45 | mins per group | 0.438171 | 19.7177
+  Grad Student | 860 | mins per group | 0 | 0
+  Supervision (Anthony) | 30 | mins per group | 1.03585 | 31.0756
+  PFOS EPA 1633 Preparation Method
+  Total Samples per Batch: | 35 |  | Number of Actual Samples: |  | 20
+  Sample Preparation  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+   |  |  |  | Formic Acid (0.3M) | 35 | 1.10883 | 38.809
+  Vortex/pour off sample | 1 | min per sample |  | Methanol | 800 | 0.097405 | 77.924
+  Label Sample Tubes | 0 | min per sample | Evap | TFA | 5 | 12.4602 | 62.3012
+  Prepare SPE | 3 | min per sample |  | Tubes | 35 | 0.197731 | 6.92058
+  Load SPE | 4 | min per sample |  | Deuterated Extraction Stds | 1 | 1035 | 1035
+  Elute | 6 | min per sample |  | Optima Water | 35 | 0.00930925 | 0.325824
+  Test/Adjust pH | 1 | min per sample |  | Gloves | 22 | 0.071185 | 1.56607
+  Filtration | 3 | min per sample |  | pipette tips | 70 | 0.0520255 | 3.64179
+  Vortex/pour off sample | 1 | min per sample |  | Spiking Stds. | 0.2 | 1029.25 | 205.85
+  Concentration | 90 | min per group |  | Syringe Filter | 35 | 4.5655 | 159.792
+  Add in Stds. | 1.5 | min per sample |  | LC/GC vials | 35 | 0.145705 | 5.09968
+  Cleaning of equipment | 6 | min per sample |  | Oasis WAX/GDP SPE | 35 | 13.8 | 483
+   |  |  |  | Surrogate Stds | 0.5 | 345 | 172.5
+  Record Keeping/Data Entry | 90 | min per group |  | Syringes | 35 | 0.55499 | 19.4246
+  Manager Supervision | 30 | min per group
+  Graduate Supervision - Staff | 60 | min per group |  |  | Consumables (Full List) |  | 2272.16
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost
+  Staff (Marisa) | 760.5 | mins per group | 0.730286 | 555.382 | TOTAL ANALYSIS COST PER BATCH |  |  | Preparation Cost Per Sample | N
+  Students | 230 | mins per group | 0.333333 | 76.6667 | External Cost |  | 2904.2 | 145.21 | 20
+  Supervision (Anthony) | 30 | mins per group | 1.72642 | 51.7926 | Internal Enhanced |  | 2713.13 | 135.656 | 20
+  Internal Enhanced Reporting Rates |  |  |  |  | Internal |  | 2329.52 | 116.476 | 20
+  Staff (Marisa) | 760.5 | mins per group | 0.438171 | 333.229
+  Students | 230 | mins per group | 0.333333 | 76.6667
+  Supervision (Anthony) | 30 | mins per group | 1.03585 | 31.0756
+  Internal Rates
+  Grad Supervision - Staff (Marisa) | 60 | mins per group | 0.438171 | 26.2903
+  Grad Student | 990.5 | mins per group | 0 | 0
+  Supervision (Anthony) | 30 | mins per group | 1.03585 | 31.0756
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: UPLC Anal.
+────────────────────────────────────────────────────────────────────────────────
+  UPLC Analyitcal Methods
+  Microcystin and HAB Toxins
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+   |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 30 | min per group | UPLC/QToF | Analytical Standards - microcystins | 3 | 1.725 | 5.175
+   |  |  | Nitrogen Generator | Analytical Standards - anatoxins | 10 | 0.115 | 1.15
+  Preparation of Stds. | 120 | min per group |  | Domic Acid Std | 0.01 | 241.5 | 2.415
+  Record Keeping and Data Entry | 45 | min per group
+   |  |  |  | Acetonitrile | 200 | 0.0349974 | 6.99947
+  Grad Supervision - Staff | 45 | min per group |  | Annual UPLC Costs | 20 | 7.7 | 154
+  Tech Instrument Time
+  UPLC/QToF | 2 | min per sample
+  Tech Data Interpretation and Review
+  UPLC/QToF | 15 | min per sample
+  Total Labor - Anthony Provatas |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 169.739
+  External | 730 | mins per group | 1.72642 | 1260.29 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal Enhanced -  Staff Provatas | 730 | mins per group | 1.03585 | 756.172 | External Cost |  | 1430.03 | 71.5013 | 20
+  Internal -  Staff Provatas |  |  |  |  | Internal Enhanced Reporting |  | 925.912 | 46.2956 | 20
+  Grad Student | 730 | mins per group | 0 | 0 | Internal |  | 216.353 | 10.8176 | 20
+  Grad Supervision - Staff | 45 | mins per group | 1.03585 | 46.6134
+  Single Compound Purity Assessment - including Pharmaceuticals
+  Total Samples per Batch: | 10 |  | Number of Actual Samples: | 10
+   |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 30 | min per group | UPLC/MS/MS
+   |  |  | Nitrogen Generator | Analytical Stds - Purity Assessment | 10 | 1.3555 | 13.555
+  Preparation of Stds. | 20 | min per group
+   |  |  |  | vials | 10 | 0.55407 | 5.5407
+  Record Keeping and Data Entry | 30 | min per group |  | Acetonitrile | 300 | 0.0349974 | 10.4992
+  Grad Supervision - Staff | 45 | min per group
+  Tech Instrument Time |  |  |  | Annual UPLC Costs | 10 | 7.7 | 77
+  Single compound | 5 | min per sample
+  Data interpretation
+  Single compound | 5 | min per sample
+  Total Labor - Anthony Provatas |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group (Full) | 106.595
+  External | 180 | min per group | 1.72642 | 310.756
+  Internal Enhanced -  Staff Provatas | 180 | min per group | 1.03585 | 186.453 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal -  Staff Provatas |  |  |  |  | External Cost |  | 417.351 | 41.7351 | 10
+  Grad Student | 180 | mins per group | 0 | 0 | Internal Enhanced Reporting |  | 293.048 | 29.3048 | 10
+  Grad Supervision - Staff | 45 | mins per group | 1.03585 | 46.6134 | Internal |  | 153.208 | 15.3208 | 10
+  Organics by UPLC - up to 3 compounds (inlcuding PFAS)
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+   |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 60 | min per group | UPLC/MS/MS | Analytical Stds - | 30 | 0.45425 | 13.6275
+   |  |  | Nitrogen Generator
+  Preparation of Stds.-Full and limited list | 40 | min per group |  | vials | 30 | 0.55407 | 16.6221
+  Record Keeping and Data Entry | 45 | min per group |  | Acetonitrile | 300 | 0.0349974 | 10.4992
+  Grad Supervision - Staff | 45 | min per group
+  Tech Instrument Time |  |  |  | Annual UPLC Costs | 20 | 7.7 | 154
+  2-8 compounds | 5 | min per sample
+  Data interpretation
+  2-8 compoiunds | 10 | min per sample
+  Total Labor - Anthony Provatas |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group (Full) | 194.749
+  External | 595 | min per group | 1.72642 | 1027.22
+  Internal Enhanced -  Staff Provatas | 595 | min per group | 1.03585 | 616.332 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal -  Staff Provatas |  |  |  |  | External Cost |  | 1221.97 | 61.0985 | 20
+  Grad Student | 595 | mins per group | 0 | 0 | Internal Enhanced Reporting |  | 811.081 | 40.554 | 20
+  Grad Supervision - Staff | 45 | mins per group | 1.03585 | 46.6134 | Internal |  | 241.362 | 12.0681 | 20
+  Organics by UPLC - Greater than 3 compounds (Not including PFAS)
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+   |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 75 | min per group | UPLC/MS/MS | Analytical Stds  | 30 | 0.45425 | 13.6275
+   |  |  | Nitrogen Generator
+  Preparation of Stds. | 75 | min per group
+   |  |  |  | vials | 30 | 0.55407 | 16.6221
+  Record Keeping and Data Entry | 75 | min per group
+   |  |  |  | Acetonitrile | 300 | 0.0349974 | 10.4992
+  Grad Supervision - Staff | 45 | min per group
+  Tech Instrument Time |  |  |  | Annual UPLC Costs | 20 | 7.7 | 154
+  UPLC/MS/MS | 5 | min per sample
+  Tech Data Interpretation and Review
+   | 15 | min per sample
+  Total Labor - Anthony Provatas |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group (Full) | 194.749
+  External | 825 | min per group | 1.72642 | 1424.3
+  Internal Enhanced -  Staff Provatas | 825 | min per group | 1.03585 | 854.578 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal -  Staff Provatas |  |  |  |  | External Cost | Full List | 1619.05 | 80.9523 | 20
+  Grad Student | 825 | mins per group | 0 | 0 | Internal Enhanced Reporting |  | 1049.33 | 52.4664 | 20
+  Grad Supervision - Staff | 45 | mins per group | 1.03585 | 46.6134 | Internal |  | 241.362 | 12.0681 | 20
+  PFOS / PFOA by UPLC/MS/MS (28 compound - CESE Method)
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+   |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 45 | min per group | UPLC/MS/MS | Calibration standards | 0.4 | 532.45 | 212.98
+   |  |  | Nitrogen Generator
+  Preparation of Stds. | 150 | min per group
+  Record Keeping and Data Entry | 80 | min per group |  | Vials | 30 | 0.145705 | 4.37115
+   |  |  |  | Acetonitrile | 300 | 0.0349974 | 10.4992
+  Grad Supervision - Staff | 60 | min per group
+  Tech Instrument Time |  |  |  | Annual UPLC Costs | 20 | 7.16134 | 143.227
+  UPLC/MS/MS | 10 | min per sample
+  Tech Data Interpretation and Review
+   | 10 | min per sample
+  Total Labor - Anthony Provatas |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 371.077
+  External | 875 | min per group | 1.72642 | 1510.62
+  Internal Enhanced -  Staff Provatas | 875 | min per group | 1.03585 | 906.371 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal -  Staff Provatas |  |  |  |  | External Cost |  | 1881.7 | 94.0848 | 20
+  Grad Student | 875 | mins per group | 0 | 0 | Internal Enhanced Reporting |  | 1277.45 | 63.8724 | 20
+  Grad Supervision - Staff | 60 | mins per group | 1.03585 | 62.1511 | Internal |  | 433.228 | 21.6614 | 20
+  PFOS / PFOA by UPLC/MS/MS (EPA 1633)
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+   |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 60 | min per group | UPLC/MS/MS
+   |  |  | Nitrogen Generator | Calibration standards - 1633 | 0.4 | 1029.25 | 411.7
+  Preparation of Stds. | 180 | min per group
+  Record Keeping and Data Entry | 120 | min per group |  | Vials | 30 | 0.145705 | 4.37115
+   |  |  |  | Acetonitrile | 300 | 0.0349974 | 10.4992
+  Grad Supervision - Staff | 120 | min per group
+  Tech Instrument Time
+  UPLC/MS/MS | 15 | min per sample |  | Annual UPLC Costs | 20 | 7.16134 | 143.227
+  Tech Data Interpretation and Review
+   | 35 | min per sample
+  Total Labor - Anthony Provatas |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group (Full) | 569.797
+  External | 1860 | min per group | 1.72642 | 3211.14
+  Internal Enhanced -  Staff Provatas | 1860 | min per group | 1.03585 | 1926.69 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal -  Staff Provatas |  |  |  |  | External Cost |  | 3780.94 | 189.047 | 20
+  Grad Student | 1860 | mins per group | 0 | 0 | Internal Enhanced Reporting |  | 2496.48 | 124.824 | 20
+  Grad Supervision - Staff | 120 | mins per group | 1.03585 | 124.302 | Internal |  | 694.099 | 34.705 | 20
+  PFOS / PFOA by UPLC/MS/MS (EPA 537.1)
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+   |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up  Full List | 45 | min per group | UPLC/MS/MS
+   |  |  | Nitrogen Generator | Calibration standards | 0.4 | 532.45 | 212.98
+  Preparation of Stds.    Full List | 150 | min per group
+   |  |  |  | vials | 30 | 1.07812 | 32.3438
+  Record Keeping and Data Entry | 80 | min per group |  | Acetonitrile | 300 | 0.0349974 | 10.4992
+  Grad Supervision - Staff | 60 | min per group
+  Tech Instrument Time |  |  |  | Annual UPLC Costs | 20 | 7.16134 | 143.227
+  UPLC/MS/MS | 10 | min per sample
+  Tech Data Interpretation and Review
+  Full list | 15 | min per sample
+  Total Labor - Anthony Provatas |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 399.05
+  External | 1025 | min per group | 1.72642 | 1769.58
+  Internal Enhanced -  Staff Provatas | 1025 | min per group | 1.03585 | 1061.75 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal -  Staff Provatas |  |  |  |  | External Cost |  | 2168.63 | 108.432 | 20
+  Grad Student | 1025 | mins per group | 0 | 0 | Internal Enhanced Reporting |  | 1460.8 | 73.0399 | 20
+  Grad Supervision - Staff | 60 | mins per group | 1.03585 | 62.1511 | Internal |  | 461.201 | 23.06 | 20
+   Hemp and Hemp Products analysis --- THC/CBD
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+   |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 20 | min per group | UPLC or LC/PDA | THC/CBD  Standards | 0.5 | 5.30917 | 2.65458
+   |  |  | Nitrogen Generator
+  Preparation of Stds. | 60 | min per group
+  Record Keeping and Data Entry | 45 | min per group
+  Tech Instrument Time
+  UPLC/MS/MS | 3 | min per sample |  | Acetonitrile | 100 | 0.0349974 | 3.49974
+  Tech Data Interpretation and Review |  |  |  | Annual UPLC Costs | 20 | 29.7 | 594
+  THC/CBD | 15 | min per sample |  |  |  |  | 0
+  Grad Supervision - Staff | 30 | min per group
+  Total Labor - Anthony Provatas |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 600.154
+  External | 665 | mins per group | 1.72642 | 1148.07 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal Enhanced -  Staff Provatas | 665 | mins per group | 1.03585 | 688.842 | External Cost |  | 1748.22 | 87.4112 | 20
+  Internal -  Staff Provatas |  |  |  |  | Internal Enhanced Reporting |  | 1289 | 64.4498 | 20
+  Grad Student | 665 | mins per group | 0 | 0 | Internal |  | 631.23 | 31.5615 | 20
+  Grad Supervision - Staff | 30 | mins per group | 1.03585 | 31.0756
+  QToF Instrument Use by Trained User (Insturment Available 2 days/week) -- Maintenece and Upkeep Charges
+  Total Hours Available: | 728 | (2 days per week for 52 weeks per year)
+  HPLC or UPLC/PDA |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Annual Preventative Maintenance (3 days) | 1440 | min per year | UPLC or LC/PDA
+   |  |  | Nitrogen Generator
+  Intrument Troubleshooting (3 days -estimated) | 1440 | min per year |  | Analytical Columns (3/yr) | 3 | 1650 | 4950
+  Intrument repair (5 days - estimated) | 2400 | min per year |  | Acetonitrile (mL) | 30000 | 0.0349974 | 1049.92
+   |  |  |  | Annual UPLC Costs | 728 | 7.7 | 5605.6
+  Grad Supervision - Staff | 60 | min per group
+  Total Labor - Anthony Provatas |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 11605.5
+  Annual Maintenance and Upkeep Costs
+  External | 5280 | mins per year | 1.72642 | 9115.5 | TOTAL UPKEEP COST PER hour |  |  | Analysis Cost Per Hour | N
+  Internal Enhanced -  Staff Provatas | 5280 | mins per year | 1.03585 | 5469.3 | External Cost - Does not inlcude Techinican time |  | 20721 | 28.4629 | 728
+  Internal -- Staff Provatas (no Grads) | 5280 | mins per year | 1.03585 | 5469.3 | Internal Enhanced - Does not include Technician time |  | 17074.8 | 23.4544 | 728
+  Internal -  Staff Provatas |  |  |  |  | Internal  |  | 17137 | 23.5398 | 728
+  Grad Student | 5280 | mins per group | 0 | 0
+  Grad Supervision - Staff | 60 | mins per group | 1.03585 | 62.1511
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: GC Anal.
+────────────────────────────────────────────────────────────────────────────────
+  GC Analyitcal Methods
+  PoPs in Tissues and Soil  -  GC/MS/MS
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+  Instrument |  |  | Equipment used |  | Units/  | Unit | Total
+  GC/MS/MS | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 45 | min per group | GC/MS/MS | PAH/POP Calibration Standards | 0.1 | 126.5 | 12.65
+   |  |  |  | Methylene Chloride | 100 | 0.0146079 | 1.46079
+  Preparation of Stds. | 60 | min per group |  | Gloves | 8 | 0.071185 | 0.56948
+   |  |  |  | Pipette tips | 60 | 0.0520255 | 3.12153
+  Sample Dilution and post prep treatment | 1 | min per sample
+   |  |  |  | Annual GC/MS/MS Costs | 20 | 7.16134 | 20
+  Grad Supervisoin | 30 | min per group
+  Tech Instrument Time
+  GC/MS/MS | 5 | min per sample
+  Tech Data Interpretation and Review
+  GC/MS/MS | 15 | min per sample
+  Total Labor - Anthony |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 37.8018
+  External | 675 | mins per group | 1.72642 | 1165.33 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal Enhanced -  Staff Provatas | 675 | mins per group | 1.03585 | 699.2
+  Internal |  |  |  |  | External Cost |  | 1203.14 | 60.1568 | 20
+  Grad Student | 675 | mins per group | 0 | 0 | Internal Enhanced Reporting |  | 737.002 | 36.8501 | 20
+  Grad Supervision - Staff | 30 | mins per group | 1.03585 | 31.0756 | Internal |  | 68.8774 | 3.44387 | 20
+  Fatty Acid Analysis - GC/MS/MS
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+  Instrument |  |  | Equipment used |  | Units/  | Unit | Total
+  GC/MS/MS | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 45 | min per group | GC/MS/MS | Analytical Calibration Standards | 0.25 | 143.75 | 35.9375
+   |  |  |  | Methylene Chloride | 200 | 0.0146079 | 2.92157
+  Preparation of Stds. | 45 | min per group |  | Gloves | 8 | 0.071185 | 0.56948
+   |  |  |  | Pipette tips | 60 | 0.0520255 | 3.12153
+  Sample Dilution and post prep treatment | 1 | min per sample
+   |  |  |  | Annual GC/MS/MS Costs | 20 | 7.16134 | 20
+  Grad Supervisoin | 30 | min per group
+  Tech Instrument Time
+  GC/MS/MS | 3 | min per sample
+  Tech Data Interpretation and Review
+  GC/MS/MS | 15 | min per sample
+  Total Labor - Anthony |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 62.5501
+  External | 620 | mins per group | 1.72642 | 1070.38 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal Enhanced -  Staff Provatas | 620 | mins per group | 1.03585 | 642.228
+  Internal |  |  |  |  | External Cost |  | 1132.93 | 56.6465 | 20
+  Grad Student | 620 | mins per group | 0 | 0 | Internal Enhanced Reporting |  | 704.779 | 35.2389 | 20
+  Grad Supervision - Staff | 30 | mins per group | 1.03585 | 31.0756 | Internal |  | 93.6257 | 4.68128 | 20
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Misc Methods
+────────────────────────────────────────────────────────────────────────────────
+  Miscellaneous Methods
+  Percent Moisture Analysis and Total Extractable Organcis
+  Total Samples per Batch: | 30 |  | Number of Actual Samples: | 20
+  Total Proteins by Microplate  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Analytical Run Set-up | 20 | min per group | Drying Oven | Weighing Dishes | 30 | 0.268755 | 8.06265
+  Tare Sample Container | 1 | min per sample |  | Gloves | 8 | 0.071185 | 0.56948
+  Pouring of Samples | 1 | min per sample
+  Re-weigh Samples | 1.5 | min per sample
+  Record Keeping and Data Entry | 3 | min per sample
+  Grad Supervisoin - Staff | 30 | min per group
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 8.63213
+  Staff - Marisa | 155 | mins per group | 0.730286 | 113.194 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Internal Enhanced Reporting |  |  |  |  | External Cost |  | 121.826 | 6.09132 | 20
+  Staff - Marisa | 155 | mins per group | 0.438171 | 67.9166 | Internal Enhanced Reporting |  | 76.5487 | 3.82744 | 20
+  Internal  |  |  |  |  | Internal   |  | 21.7773 | 1.08886 | 20
+  Grad Student | 155 | mins per group | 0 | 0
+  Grad Supervision - Staff | 30 | mins per group | 0.438171 | 13.1451
+  Hemp Homogenization and Precessing prior to analysis
+  Total Samples per Batch: | 5 |  | Number of Actual Samples: | 5
+  Total Proteins by Microplate  |  |  | Equipment used |  | Units/  | Unit | Total
+   | Labor Time |  |  | Consumables | group | Cost | Group Cost
+  Tare Sample Container | 1 | min per sample | Drying Oven | Weighing Dishes | 5 | 0.268755 | 1.34377
+  Dry samples | 2 | min per sample
+  Re-weigh Samples | 2 | min per sample |  | Gloves | 8 | 0.071185 | 0.56948
+  Homogenize samples | 5 | min per sample |  |  |  |  | 0
+  Seive samples | 5 | min per sample |  |  |  |  | 0
+  Record Keeping and Data Entry | 3 | min per sample |  |  |  |  | 0
+  Manager oversight | 2 | min per sample
+   |  |  |  |  |  |  | 0
+  Total Labor |  |  | Unit Cost for Labor | Total Labor Cost |  | Supply Cost/Group | 1.91325
+  Student | 90 | mins per group | 0.333333 | 30 | TOTAL ANALYSIS COST PER BATCH |  |  | Analysis Cost Per Sample | N
+  Staff - Marisa | 10 | mins per group | 1.72642 | 17.2642
+  Internal Enhanced Reporting
+  Student | 90 | mins per group | 0.333333 | 30 | External Cost |  | 49.1775 | 9.83549 | 5
+  Staff - Marisa | 10 | mins per group | 0.438171 | 4.38171 | Internal Enhanced Reporting |  | 36.295 | 7.25899 | 5
+  Internal  |  |  |  |  | Internal   |  | 6.29497 | 1.25899 | 5
+  Grad Student | 90 | mins per group | 0 | 0
+  Grad Supervision - Staff | 10 | mins per group | 0.438171 | 4.38171
+
+────────────────────────────────────────────────────────────────────────────────
+  SHEET: Staff_Admin_Depreciation
+────────────────────────────────────────────────────────────────────────────────
+  Depreciation FY26
+  Instrument | Annual Depreciation  | Total Samples FY25 | Depreciation per sample | UC Tag #s | Purchase Cost | Depreciated Date
+  GC/MS/MS - Agilent Loaner | 0 | 800 | 0 |  |  | N/A | Long-term loan
+  UPLC/MS/MS - PE Collaboration Agreement | 0 | 2000 | 0 |  | 350000 | N/A | Long-term loan
+  Nitrogen Generator | 0 | 2000 | 0 | K01300 | 13000 | 2021-07-01 00:00:00 | Fully Depreciated
+  Organomation Nevap (x2) | 0 | 500 | 0 | W53539 / Z72160 |  | 7/1/2021 & 7/29/2009 | Fully Depreciated
+  Centrifuge | 0 | 1500 | 0 | W53831 |  | 2021-07-01 00:00:00 | Fully Depreciated
+  Genevac | 0 | 1000 | 0 | K02396 | 27530 | 2023-07-01 00:00:00 | Fully Depreciated
+  UPLC/QTOF - Sciex | 20989.8 | 1000 | 20.9898 |  | 209898 | 2032-07-01 00:00:00
+   Hourly Charge (avail. 2 x week) | 20989.8 | 728 | 28.8321 |  |  | 2032-07-01 00:00:00
+  GC/MS w/ Purge and Trap | 0 | 100 | 0 |  | 180000 | N/A | Donation
+  LC/FL/PDA - Perekin Elmer | 0 | 100 | 0 |  | 75000 | N/A | Long-term loan
+  QA/ Lab Support FY26
+   | Total Expense  |  | Total Samples FY25 |  | Expense per sample
+  Total Cost - External | 31723.6 |  | 9528 |  | 3.32951
+  Total Cost - Internal Full Service | 19034.1 |  | 9528 |  | 1.99771
+  Staff and Department Admin Costs FY26
+   | Total Expense  |  | Total Samples FY25 |  | Expense per sample
+  Total Cost - External | 69090.6 |  | 9528 |  | 7.25133
+  Total Cost - Internal Full Service | 41454.4 |  | 9528 |  | 4.3508
+   | Organics Lab | Analytical | Laboratory QA  | Laboratory Admin |  |  | Salary
+  Staff and Lab Allocation | Allocation | Salary & FB | Salary & FB | Salary & FB | Salary | Fringe Benefits (FB @27.8%/31.2%) | & FB | % CESE Labs Salary Allocation
+  Sarah Bothell -40% | 0.4 |  |  | 22672.7 | 86405 | 26958.4 | 113363 | 0.5
+  Chris Perkins-40% (20%/20%) | 0.4 |  | 31723.6 | 31723.6 | 161197 | 50293.5 | 211490 | 0.75
+  Administrative Support (Vacant) - 40% | 0.4 |  |  | 14694.4 | 56000 | 17472 | 73472 | 0.5
+  Anthony Provatas-100% | 1 | 160246 |  |  | 122139 | 38107.4 | 160246 | 1
+  Marisa Vatteroni-100% | 1 | 67785.1 |  |  | 53040 | 14745.1 | 67785.1 | 1
+   |  | External Rates (100% of Salaries and Fringes) | 31723.6 | 69090.6
+   |  | Internal Full Service Rate (60% of Full time Staff - Ledger 2 Subsidy) | 19034.1 | 41454.4
+   |  |  |  | QA and Administrative Lab Allocation
+   |  |  |  | 0.25 | Metals Lab Allocation
+   |  |  |  | 0.4 | Organics Lab Allocation
+   |  |  |  | 0.35 | Nutrients lab Allocation
+   |  | 558572
+   |  | 412282

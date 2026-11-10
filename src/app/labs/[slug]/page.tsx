@@ -10,7 +10,7 @@ export async function generateStaticParams() {
   return getLabs().map((l) => ({ slug: l.slug }));
 }
 
-const focusLabels = { air: 'Air Quality', water: 'Water Systems', soil: 'Soil & Land Use' };
+const focusLabels = { air: 'Air Quality', water: 'Water Systems', soil: 'Soil & Land Use', health: 'Human Health' };
 
 export default async function LabDetailPage({ params }: Props) {
   const { slug } = await params;

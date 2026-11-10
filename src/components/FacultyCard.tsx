@@ -12,6 +12,7 @@ const domainLabels = {
   air: 'Air',
   water: 'Water',
   soil: 'Soil',
+  health: 'Human Health',
 };
 
 function getInitials(name: string) {

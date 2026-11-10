@@ -5,7 +5,7 @@ interface LabCardProps {
   lab: Lab;
 }
 
-const focusLabels = { air: 'Air', water: 'Water', soil: 'Soil' };
+const focusLabels = { air: 'Air', water: 'Water', soil: 'Soil', health: 'Human Health' };
 
 export default function LabCard({ lab }: LabCardProps) {
   return (

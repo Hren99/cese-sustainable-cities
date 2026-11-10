@@ -11,7 +11,7 @@ export async function generateStaticParams() {
   return getFaculty().map((f) => ({ slug: f.slug }));
 }
 
-const domainLabels = { air: 'Air Quality', water: 'Water Systems', soil: 'Soil & Land Use' };
+const domainLabels = { air: 'Air Quality', water: 'Water Systems', soil: 'Soil & Land Use', health: 'Human Health' };
 
 function getInitials(name: string) {
   return name.split(' ').filter((p) => !p.startsWith('(')).map((n) => n[0]).slice(0, 2).join('');

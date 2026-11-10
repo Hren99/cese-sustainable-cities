@@ -10,9 +10,9 @@ export async function generateStaticParams() {
   return getResearch().map((r) => ({ slug: r.slug }));
 }
 
-const focusLabels = { air: 'Air Quality', water: 'Water Systems', soil: 'Soil & Land Use' };
-const domainColors = { air: '#234f65', water: '#075456', soil: '#694b37' };
-const domainText = { air: '#cae8ee', water: '#b9f0dc', soil: '#f0d8ad' };
+const focusLabels = { air: 'Air Quality', water: 'Water Systems', soil: 'Soil & Land Use', health: 'Human Health' };
+const domainColors = { air: '#234f65', water: '#075456', soil: '#694b37', health: '#4a2545' };
+const domainText = { air: '#cae8ee', water: '#b9f0dc', soil: '#f0d8ad', health: '#f0cce8' };
 
 export default async function ResearchDetailPage({ params }: Props) {
   const { slug } = await params;

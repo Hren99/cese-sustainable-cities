@@ -5,7 +5,7 @@ interface ResearchCardProps {
   project: ResearchProject;
 }
 
-const focusLabels = { air: 'Air Quality', water: 'Water Systems', soil: 'Soil & Land Use' };
+const focusLabels = { air: 'Air Quality', water: 'Water Systems', soil: 'Soil & Land Use', health: 'Human Health' };
 
 export default function ResearchCard({ project: p }: ResearchCardProps) {
   return (

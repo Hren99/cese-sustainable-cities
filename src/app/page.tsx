@@ -26,6 +26,7 @@ export default function HomePage() {
   const airCount = filterResearchByFocus('air').length;
   const waterCount = filterResearchByFocus('water').length;
   const soilCount = filterResearchByFocus('soil').length;
+  const healthCount = filterResearchByFocus('health').length;
 
   return (
     <>
@@ -80,7 +81,7 @@ export default function HomePage() {
         >
           <div>
             <p className="eyebrow">Discover the connections</p>
-            <h2 className="heading-md">Three lenses. One living system.</h2>
+            <h2 className="heading-md">Four lenses. One living system.</h2>
           </div>
           <p style={{ fontSize: '13px', lineHeight: 1.6, color: '#55728a', margin: 0, maxWidth: '240px' }}>
             Choose a theme to explore related researchers and research pathways.
@@ -90,7 +91,7 @@ export default function HomePage() {
         <div
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(3, 1fr)',
+            gridTemplateColumns: 'repeat(4, 1fr)',
             gap: '14px',
           }}
           className="domain-grid"
@@ -115,6 +116,13 @@ export default function HomePage() {
             description="Carbon dynamics, soil contamination, and microbial ecology across the urban-to-rural gradient."
             count={soilCount}
             index={2}
+          />
+          <FocusAreaCard
+            type="health"
+            title="Human Health"
+            description="Linking environmental exposures to human health outcomes across urban communities and vulnerable populations."
+            count={healthCount}
+            index={3}
           />
         </div>
       </section>

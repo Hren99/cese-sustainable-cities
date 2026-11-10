@@ -1,9 +1,10 @@
 'use client';
 
+import React from 'react';
 import Link from 'next/link';
 
 interface FocusAreaCardProps {
-  type: 'air' | 'water' | 'soil';
+  type: 'air' | 'water' | 'soil' | 'health';
   title: string;
   description: string;
   count: number;
@@ -11,13 +12,14 @@ interface FocusAreaCardProps {
 }
 
 const domainStyles = {
-  air: { bg: '#234f65', text: '#cae8ee' },
-  water: { bg: '#075456', text: '#b9f0dc' },
-  soil: { bg: '#694b37', text: '#f0d8ad' },
+  air:    { bg: '#234f65', text: '#cae8ee' },
+  water:  { bg: '#075456', text: '#b9f0dc' },
+  soil:   { bg: '#694b37', text: '#f0d8ad' },
+  health: { bg: '#4a2545', text: '#f0cce8' },
 };
 
 /* SVG motifs – line drawings for each domain */
-const motifs = {
+const motifs: Record<string, React.ReactNode> = {
   air: (
     <svg
       viewBox="0 0 180 180"
@@ -65,6 +67,23 @@ const motifs = {
       <path d="M 90,135 L 72,165" />
       <path d="M 90,135 L 108,165" />
       <path d="M 90,118 L 90,165" />
+    </svg>
+  ),
+  health: (
+    <svg
+      viewBox="0 0 180 180"
+      aria-hidden="true"
+      style={{ position: 'absolute', width: 180, height: 180, right: -12, top: 5, opacity: 0.6, fill: 'none', stroke: 'currentColor', strokeWidth: 1 }}
+    >
+      {/* Human figure */}
+      <circle cx="90" cy="30" r="12" />
+      <path d="M 90,42 L 90,100" />
+      <path d="M 90,60 L 65,85" />
+      <path d="M 90,60 L 115,85" />
+      <path d="M 90,100 L 70,138" />
+      <path d="M 90,100 L 110,138" />
+      {/* Heartbeat / pulse line */}
+      <path d="M 15,155 L 45,155 L 55,130 L 65,170 L 75,145 L 85,155 L 115,155 L 125,135 L 135,165 L 145,155 L 165,155" strokeWidth="1.4" />
     </svg>
   ),
 };

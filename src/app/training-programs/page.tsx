@@ -342,6 +342,15 @@ export default function TrainingProgramsPage() {
         </p>
       </div>
 
+      {/* ── Hero image ── */}
+      <div style={{ marginBottom: '40px', overflow: 'hidden' }}>
+        <img
+          src="/instruments/lab-hero.png"
+          alt="Mass spectrometry laboratory with researcher"
+          style={{ width: '100%', height: '420px', objectFit: 'cover', display: 'block' }}
+        />
+      </div>
+
       {/* ── Stats bar ── */}
       <div style={{
         display: 'flex',

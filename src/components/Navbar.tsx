@@ -37,8 +37,11 @@ const innovationLinks = [
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
+  const [newsDropdownOpen, setNewsDropdownOpen] = useState(false);
   const dropdownTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const newsDropdownTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const dropdownRef = useRef<HTMLDivElement>(null);
+  const newsDropdownRef = useRef<HTMLDivElement>(null);
 
   function openDropdown() {
     if (dropdownTimer.current) clearTimeout(dropdownTimer.current);
@@ -49,10 +52,26 @@ export default function Navbar() {
     dropdownTimer.current = setTimeout(() => setDropdownOpen(false), 120);
   }
 
+  function openNewsDropdown() {
+    if (newsDropdownTimer.current) clearTimeout(newsDropdownTimer.current);
+    setNewsDropdownOpen(true);
+  }
+
+  function closeNewsDropdown() {
+    newsDropdownTimer.current = setTimeout(() => setNewsDropdownOpen(false), 120);
+  }
+
   const handleDropdownKeyDown = useCallback((e: React.KeyboardEvent) => {
     if (e.key === 'Escape') {
       setDropdownOpen(false);
       (dropdownRef.current?.querySelector('button') as HTMLElement | null)?.focus();
+    }
+  }, []);
+
+  const handleNewsDropdownKeyDown = useCallback((e: React.KeyboardEvent) => {
+    if (e.key === 'Escape') {
+      setNewsDropdownOpen(false);
+      (newsDropdownRef.current?.querySelector('button') as HTMLElement | null)?.focus();
     }
   }, []);
 
@@ -62,6 +81,15 @@ export default function Navbar() {
       setDropdownOpen((o) => !o);
     } else if (e.key === 'Escape') {
       setDropdownOpen(false);
+    }
+  }, []);
+
+  const handleNewsButtonKeyDown = useCallback((e: React.KeyboardEvent) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      setNewsDropdownOpen((o) => !o);
+    } else if (e.key === 'Escape') {
+      setNewsDropdownOpen(false);
     }
   }, []);
 
@@ -276,12 +304,85 @@ export default function Navbar() {
           <Link href="/training-programs" style={{ textDecoration: 'none', color: 'var(--ink)' }}>
             Training Programs
           </Link>
-          <Link href="/news" style={{ textDecoration: 'none', color: 'var(--ink)' }}>
-            News
-          </Link>
-          <Link href="/media" style={{ textDecoration: 'none', color: 'var(--ink)' }}>
-            Media
-          </Link>
+          {/* CESE News dropdown */}
+          <div
+            ref={newsDropdownRef}
+            style={{ position: 'relative' }}
+            onMouseEnter={openNewsDropdown}
+            onMouseLeave={closeNewsDropdown}
+            onKeyDown={handleNewsDropdownKeyDown}
+          >
+            <button
+              style={{
+                background: 'none',
+                border: 'none',
+                fontSize: '15px',
+                color: 'var(--ink)',
+                cursor: 'pointer',
+                padding: 0,
+                display: 'flex',
+                alignItems: 'center',
+                gap: '5px',
+              }}
+              aria-expanded={newsDropdownOpen}
+              aria-haspopup="true"
+              aria-controls="news-dropdown"
+              onFocus={openNewsDropdown}
+              onBlur={closeNewsDropdown}
+              onKeyDown={handleNewsButtonKeyDown}
+            >
+              CESE News
+              <svg
+                width="10" height="10" viewBox="0 0 10 10"
+                fill="none" stroke="currentColor" strokeWidth="1.5"
+                style={{
+                  transition: 'transform 0.15s',
+                  transform: newsDropdownOpen ? 'rotate(180deg)' : 'rotate(0deg)',
+                  opacity: 0.6,
+                }}
+              >
+                <path d="M2 3.5l3 3 3-3" />
+              </svg>
+            </button>
+
+            {newsDropdownOpen && (
+              <div
+                id="news-dropdown"
+                role="menu"
+                style={{
+                  position: 'absolute',
+                  top: 'calc(100% + 14px)',
+                  right: 0,
+                  background: 'var(--paper)',
+                  border: '1px solid var(--line)',
+                  boxShadow: '0 8px 24px rgba(18,55,47,0.10)',
+                  minWidth: '220px',
+                  zIndex: 200,
+                }}
+                onMouseEnter={openNewsDropdown}
+                onMouseLeave={closeNewsDropdown}
+              >
+                {[
+                  { href: '/news', label: 'Publications' },
+                  { href: '/media', label: 'Media Mentions' },
+                ].map((item) => (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    role="menuitem"
+                    onClick={() => setNewsDropdownOpen(false)}
+                    onFocus={openNewsDropdown}
+                    onBlur={closeNewsDropdown}
+                    style={{ display: 'block', padding: '14px 20px', textDecoration: 'none', color: 'var(--ink)', borderBottom: '1px solid var(--line)', transition: 'background 0.12s' }}
+                    onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.background = '#e8f0f8')}
+                    onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.background = 'transparent')}
+                  >
+                    <span style={{ fontSize: '14px', fontWeight: 400 }}>{item.label}</span>
+                  </Link>
+                ))}
+              </div>
+            )}
+          </div>
           <Link href="/x-labs" style={{ textDecoration: 'none', color: 'var(--ink)' }}>
             X Labs
           </Link>
@@ -332,8 +433,8 @@ export default function Navbar() {
             { href: '/labs/perkinelmer-innovation-lab', label: 'PerkinElmer Innovation Lab' },
             { href: '/faculty', label: 'Our Network' },
             { href: '/labs', label: 'All laboratories' },
-            { href: '/news', label: 'News & Publications' },
-            { href: '/media', label: 'Media' },
+            { href: '/news', label: 'CESE News — Publications' },
+            { href: '/media', label: 'CESE News — Media Mentions' },
             { href: '/x-labs', label: 'X Labs' },
           ].map((link) => (
             <Link

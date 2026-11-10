@@ -90,8 +90,7 @@ const categoryColors: Record<string, { bg: string; text: string; border: string 
 const lab = {
   name: 'PerkinElmer Innovation Laboratory',
   acronym: 'PE-IL',
-  director: 'Christopher Perkins',
-  location: 'Castleman Building, Room 110, Storrs Campus',
+  location: 'Institute of Environment and Energy Building, Storrs Campus',
   contact: 'cese-peil@uconn.edu',
   phone: '(860) 486-4015',
   focusAreas: ['Water', 'Air', 'Soil'],
@@ -201,7 +200,7 @@ export default function PEILPage() {
             {lab.name}
           </h1>
           <p style={{ fontSize: '16px', color: '#55728a', margin: 0, letterSpacing: '-0.3px' }}>
-            {lab.acronym} · Dir. {lab.director} · {lab.location}
+            {lab.acronym} · {lab.location}
           </p>
         </div>
 
@@ -489,7 +488,7 @@ export default function PEILPage() {
         {/* Footer note */}
         <div style={{ borderTop: '1px solid var(--line)', paddingTop: '18px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '10px' }}>
           <p style={{ fontSize: '12px', color: '#4d6a85', margin: 0 }}>
-            All training sessions held at the Castleman Building, Room 110, Storrs Campus.
+            All training sessions held at the Institute of Environment and Energy Building, Storrs Campus.
           </p>
           <a
             href={`mailto:cese-peil@uconn.edu?subject=PE-IL%20Training%20Question`}

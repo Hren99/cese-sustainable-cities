@@ -88,7 +88,7 @@ const categoryColors: Record<string, { bg: string; text: string; border: string 
 };
 
 const lab = {
-  name: 'PerkinElmer Innovation Laboratory',
+  name: 'UConn-PerkinElmer Innovation Laboratory',
   acronym: 'PE-IL',
   location: 'Institute of Environment and Energy Building, Storrs Campus',
   contact: 'cese-peil@uconn.edu',
@@ -162,6 +162,15 @@ export default function PEILPage() {
         <span style={{ color: 'var(--ink)' }}>PerkinElmer Innovation Laboratory</span>
       </nav>
 
+      {/* ── Hero image ── */}
+      <div style={{ marginBottom: '50px', overflow: 'hidden' }}>
+        <img
+          src="/instruments/perkinelmer-hero.png"
+          alt="UConn-PerkinElmer Innovation Laboratory"
+          style={{ width: '100%', height: '420px', objectFit: 'cover', objectPosition: 'center', display: 'block' }}
+        />
+      </div>
+
       {/* ── Header: title left, logo + contact right ── */}
       <div style={{ display: 'grid', gridTemplateColumns: '2fr 1fr', gap: '70px', alignItems: 'start', marginBottom: '50px' }} className="lab-section">
 
@@ -206,13 +215,23 @@ export default function PEILPage() {
 
         {/* Right: PerkinElmer logo + contact */}
         <div style={{ border: '1px solid var(--line)', background: 'white' }}>
-          <div style={{ padding: '24px', borderBottom: '1px solid var(--line)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+          <div style={{ padding: '24px', borderBottom: '1px solid var(--line)', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '16px' }}>
+            <span style={{
+              fontWeight: 900,
+              fontSize: '22px',
+              letterSpacing: '-1px',
+              color: '#071d31',
+              borderRight: '1px solid var(--line)',
+              paddingRight: '16px',
+            }}>
+              UCONN
+            </span>
             <Image
               src="/instruments/perkinelmer-logo.png"
               alt="PerkinElmer"
-              width={180}
-              height={48}
-              style={{ objectFit: 'contain', maxHeight: '48px', width: 'auto' }}
+              width={150}
+              height={40}
+              style={{ objectFit: 'contain', maxHeight: '40px', width: 'auto' }}
             />
           </div>
           <div style={{ padding: '20px 24px', display: 'flex', flexDirection: 'column', gap: '14px' }}>

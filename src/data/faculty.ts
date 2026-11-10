@@ -1,4 +1,4 @@
-export type FocusArea = 'air' | 'water' | 'soil';
+export type FocusArea = 'air' | 'water' | 'soil' | 'health';
 
 export interface Faculty {
   id: string;

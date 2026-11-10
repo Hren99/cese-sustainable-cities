@@ -282,6 +282,9 @@ export default function Navbar() {
           <Link href="/media" style={{ textDecoration: 'none', color: 'var(--ink)' }}>
             Media
           </Link>
+          <Link href="/x-labs" style={{ textDecoration: 'none', color: 'var(--ink)' }}>
+            X Labs
+          </Link>
 
           <Link
             href="/labs"
@@ -331,6 +334,7 @@ export default function Navbar() {
             { href: '/labs', label: 'All laboratories' },
             { href: '/news', label: 'News & Publications' },
             { href: '/media', label: 'Media' },
+            { href: '/x-labs', label: 'X Labs' },
           ].map((link) => (
             <Link
               key={link.href}
